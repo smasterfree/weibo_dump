@@ -1,0 +1,908 @@
+﻿微博id,微博正文,原始图片url,发布位置,发布时间,发布工具,点赞数,转发数,评论数
+I8ixqwSpE,git高级用户和git专家的区别不在于知道git的多少命令。而是对git本质的深刻认识和对git狂热的爱。git专家会说服美工妹子学git命令行，把一生中用过的所有软件配置和在shell里使用过的所有命令都放到git里。会把自己的所有在线账户，信用卡信息，老婆孩子的照片，都放在git里（当然加密过了），会给git写拓展脚本，或直接给git团队提交代码，根本不在乎所谓命令行或GUI之争，因为早就到心中有剑的阶段了。GUI拿起来就用。但是会偏向Emacs中的Magit这种大杀器。                                 ,无,无,2019-09-23 20:14,微博 weibo.com,1,0,0
+I8ic1elzM,我最近可能会在51cto上推出git的一个高端课程。 http://t.cn/RqwDpln （大多数git从入门到精通的材料都基于此免费电子书）即使读完了也只是此教程的前奏而已。  ,无,无,2019-09-23 19:21 ,微博 weibo.com,4,0,0
+I8i2fc3tS,再次联系了慕课网的商务。告诉我讲课课题必须由他们选，对开发工具类的课程（Git或文本编辑器或IDE）他们没有兴趣。而且课程必须依照他们的教学组的提纲来写。我告诉他们我的课程 如何提高编程速度 - 悟道篇 （如何提高编程速度）在51CTO上新课热卖榜第一名（月度受欢迎榜第二名，注意我发布课程还没满一个月）也没有用。看来只能写点别的了。                                 ,无,无,2019-09-23 18:57 ,微博 weibo.com,2,1,2
+I7GMPfTDO,"这周末我就发布company-ctags,启动时间比company-etags快10倍，查询速度快60倍到100倍。再也不用听那个俄国程序员的唠叨了。归功于Emacs的优秀设计，只要我愿意，我根本就不用在乎company-mode的所谓流程。  ",无,无,2019-09-19 20:07,微博 weibo.com,4,2,4
+I7xpAtCFR,Nikolaj Schumacher 也是 company-mode的第一作者，现在 company-mode 基本已是Emacs 社区里排名第一的自动完成框架了。但是 IntelliJ IDEA你也看不到 company-mode的一点影子。 虽然  Nikolaj Schumacher 为 Jetbrain 工作。  ,无,无,2019-09-18 20:15,微博 weibo.com,2,0,0
+I7xo5oZCm,Emacs 大牛 Nikolaj Schumacher 是 window-numbering的开发者。我基于他的插件发明了一套高效子窗口操作术又被spacemacs采用.这是spacemacs的killer feature之一。Nikolaj Schumacher  又为 Jetbrains 工作， 但 Jetbrains的产品 IntelliJ IDEA的子窗口连window-numbering的影子也没有。更谈不上什么高效操作术了。很多天真的程序员会幻想，一个著名的公司里精英程序员孜孜不倦的的改善一个伟大的产品。现实是商业产品以利润为第一。程序员就是知道怎么做，没有奖金分红就什么也不说。                                 ,无,无,2019-09-18 20:12,微博 weibo.com,4,3,1
+I7xhUscgR,我教程 如何提高编程速度 - 悟道篇 的读者问为什么VSCode的Vim模拟器只实现了C-o，没有实现C-i。又问为什么IntelliJ IDEA的Vim模拟器IdeaVim快捷键不支持数字键1到9？ 回答是他们没做好，程序有bug（我已报告bug了）。不要震惊于这些基本的功能都没实现，说白了就是没钱没人，即使IdeaVim是Jetbrains自己开发的。这也是为什么我在教程里强烈建议使用leader键的原因，你以为你懂了，实际上你没懂。因为你根本没有经历过所有场景，所以才以为我深思熟虑的结论很简单。                                 ,无,无,2019-09-18 19:57,微博 weibo.com,2,0,0
+I7otBosfk,http://t.cn/AiEBXqmG Richard Stallman 因为受到爱泼斯坦的丑闻的牵扯，被迫从MIT辞职。他在邮件中对相关人士有不当评论。在西方社会一定要闭上嘴，绷紧政治正确这根弦  ,无,无,2019-09-17 21:31,微博 weibo.com,5,0,1
+I7omVpXZv,用typescript拓展vscode挺麻烦的，强类型语言写起来太罗嗦。  ,无,无,2019-09-17 21:14,微博 weibo.com,0,0,3
+I7lOs0RkW,vscode 编程时的手感比emacs/vim/sublime-text都要差很多。  ,无,无,2019-09-17 14:44,微博 weibo.com,3,1,2
+I7229j233,http://t.cn/AiEH94dB 我对company-mode的算法改进前后已有半年时间了，Emacs中的代码自动完成可以提速50倍到100倍。company-mode的主力程序员Dmitry Gutov想法太多，一定要把我的算法用到Emacs核心中去。实际上我对Emacs核心团队那个缓慢的流程不感冒。对于Dmitry Gutov的计划也没兴趣。company-mode接受了我的pull request我才有动力和emacs核心团队打交道。之前为Emacs核心写的string-distance要两年时间才能正式发布。                                 ,无,无,2019-09-15 12:23,微博 weibo.com,8,1,0
+I5MXAjr1P,http://t.cn/AiRs226R Richard Stallman 到微软演讲 不是愚人节新闻  ,无,无,2019-09-07 08:10,微博 weibo.com,0,0,0
+I5zgMoDcf,"即时所有的编辑器和IDE统一用Vim加leader快捷键。你也只需要记最常用的20个快捷键(这是大约的数字)。不可能记更多了。原因1: 我用数据证明了“少用的”快捷键使用频率实在太低 原因2: 为每个编辑器和IDE设置快捷键工作量也很大。都有自己的小问题。例如在Vim中设置leader键"",xx""就不行，不知道为什么。没动手做过的人绝不会想到Vim会有问题。                                 ",无,无,2019-09-05 21:19,微博 weibo.com,0,0,0
+I5zaXyOAi,"坦率地说我对spacemacs那套键位也不以为然(可能在Emacs社区里很多人很推崇),为了把spacemacs做成通用的IDE，Sylvain Benner力求使得快捷键容易记忆。因此牺牲了效率。一个快捷键要按三个字母键就不是快捷键。我的教程里就不会出现这个问题。当然在spacemacs之前的还多Vim/Emacs文章又是另一个极端。lea...全文 ",无,无,2019-09-05 21:04,微博 weibo.com,1,0,0
+I5z80ojmF,我的教程宣称可以让学员短期内掌握所有的编辑器和IDE。那么现实问题是快捷键怎么办？每一个编辑器或IDE都有自己一套Shift/Ctrl/Alt组合的快捷键。每个都记的话，学到第四个IDE或编辑器正常人都崩溃了。如要创立唯一一套键位统一所有软件，那么这套键位不应包含Ctrl/Alt。否则和原生键位混淆冲突，和第三方软件（如QQ）或者环境（shell中跑emacs）冲突。所以只能使用Vim的快捷键加leader开头的自定义快捷键。                                 ,无,无,2019-09-05 20:57,微博 weibo.com,1,0,0
+I5yWaETpg,我的文章或者文章有时后被人认为太普通，讲的是人人都懂的大道理。有时后又被认为离经叛道，观点过于标新立异。实际上都是误解。关键是我都亲自动手验证过，有事实支持。“上士闻道，勤而行之；中士闻道，若存若亡；下士闻道，大笑之，不笑不足以为道”  ,无,无,2019-09-05 20:28,微博 weibo.com,2,1,0
+I5yRMegqm,由于51CTO的建议，我尽量控制教学视频的长度在10分钟左右。太长了能坚持看完的人就少了。教程里给了结论，演示了怎么做。至于得到这个结论的过程就点到而止了。关键是多练习。 如何提高编程速度 - 悟道篇 (如何提高编程速度）  ,无,无,2019-09-05 20:17,微博 weibo.com,0,0,0
+I5qdCwGNh,我给慕课网和极客时间都发了讲师申请，但是一个礼拜过去了。都没有回应。51CTO网页载入速度很慢，但流程基本上走的还算顺利。  ,无,无,2019-09-04 22:16,微博手机版,2,2,4
+I4XCZkbMz,利用aspell的npm 插件的架构我都想好了。启动aspell检查js文件，同时启动node js自己的javascript语法解析器（实在不行用babel也行）。aspell报的拼写错误只要不是变量名或者函数名一律当作误报。现在就看哪位同学先动手了。  ,无,无,2019-09-01 21:29,微博 weibo.com,0,0,0
+I4XAWgk5T,aspell 的开发者通知我aspell 新版本支持检查camel case word了。所以我调整了我的emacs 配置 http://t.cn/AiR4YV5O 除了emacs外这也开启了其他应用的可能性，比如把aspell和每日构建结合。如果你想就此写个npm或者什么gradle 插件扬名立万，现在就是机会了。  ,无,无,2019-09-01 21:24,微博 weibo.com,0,0,0
+I4Bxnsz4v,http://t.cn/Ai8gxZRZ 我的vscode设置公开了。只需要VSCodeVim和matchit两个插件。用Emacs的一年使用数据优化的配置 我一年的Emacs使用数据  ,无,无,2019-08-30 13:15,微博 weibo.com,3,2,0
+I4rk5lLdz,为什么 Vim 这样早期的的编辑器一直流行？ 对 Vim 和 VSCode 的比较。VSCode的亮点在于微软一贯重视友好界面。其API快放程度也做得比以前好很多。还针对Web开发做了很多优化。Vim的文本操作术是最高效的。其他编辑器即时用了Vim模拟器也还是有差距。Emacs几乎是完美的，给了用户充分自由。但是初学者利用不了这种自由。这和智力没有关系，就是能否领悟高效编程的“道”而已。我在链接了指出了99%的Vim用户也未必能理解Vim的道。                                 ,无,无,2019-08-29 11:15,微博 weibo.com,3,1,0
+I3ZVh0X12,如何提高编程速度 - 悟道篇 提高编程速度课程新课推广期间优惠，4.8折。 如果你对于学完我的课程是否能真的如好莱坞电影中的黑客那样快如闪电，编程时是否有爽到飞起的感觉还有疑惑。那么请看一下我的键盘  ,无,无,2019-08-26 13:29,微博 weibo.com,1,0,0
+I3FBmuAn3,正则表达式（regular expression）是提高编程效率的少数几个关键技术而已。被用于文本替换，代码导航，和代码自动完成。此技术又被99%的程序员所忽视。能够懂得用正则表达式做用户输入验证的已是大多数人的极限了。视频中我先从基本概念演示，然后演示到较高级的group技术。http://t.cn/AiQDQ0BG  ,无,无,2019-08-24 09:45,微博 weibo.com,7,1,2
+I3x3i9ZBm,我理解教程的要求是简单可操作，所以只要照着我视频里的操作一模一样练习就可以（练习资料课程里也提供）。Vim/Emacs  不需要自己安装插件。 VSCode在第一章触及课程不需要任何插件。在第三章高级课程只需要安装两个插件（第二个插件也是可选的）。如何提高编程速度 - 悟道篇  ,无,无,2019-08-23 11:59,微博 weibo.com,2,0,0
+I3wT0bIJw,我的在线教程 “如何提高编程速度 - 悟道篇” 如何提高编程速度 - 悟道篇 发布了。一次掌握VSCode/Vim/Emacs做10倍速程序员 。欢迎访问和转发。我把Visual Studio Code和编程效率相关的所有高级技巧，按照菜单顺序逐一讲解，确保读者的基础扎实，能够掌握*所有*快速编程的知识点。也穿插各种高手专用技巧。本教程的特点是在讲解VSCode的时候还用Emacs和Vim做深度对比。我在高效编程领域的技术为世界级水准，内容都是原创，绝不会去拷贝粘贴大公司的公关文。                                 ,无,无,2019-08-23 11:34,微博 weibo.com,2,1,2
+I2UR8idut,程序员语文阅读理解不好真的会拖累技术水平。我的文章“VSCode对Emacs，代码浏览哪家强”   （ http://t.cn/AiYvWoV6 ）要八卦有八卦，要创意有创意， 事实论据也充分。论技术深度放在全世界也是顶尖水准。评论基本都跑偏了。只有少数几个评论者看出这篇文章牛在哪里。  ,无,无,2019-08-19 10:45,微博 weibo.com,3,1,1
+I1u0k4M0i,为什么我只教命令行Git？因为我想长命百岁 我好像挺擅长黑微软的，以后要多发挥一下此特长。  ,无,无,2019-08-10 00:33,微博 weibo.com,1,0,2
+I17gMiRfw,http://t.cn/AiTUCghl VSCode 视频教程第一篇 File 菜单下所有功能的学习。 约30分钟。原始视频为10段小视频。是否看小视频更方便一点？ 欢迎提宝贵意见。  ,无,无,2019-08-07 14:41,微博 weibo.com,0,1,1
+I0QTNFCGL,VSCode的精华只在于一个快捷键 VSCode的精华只在于一个快捷键  ,无,无,2019-08-05 21:00,微博 weibo.com,2,2,5
+HEwHLwnEo,现在windows下用华宇拼音输入法（原紫光输入法）， Linux下用fcitx输入法。其他输入法要么不支持小鹤双拼，要么广告太多，要么停止维护了。  ,无,无,2019-07-21 20:23,微博 weibo.com,1,2,3
+HEkDzpypL,"给emacs输入法 pyim 加新功能. 我分析词库发现给定拼音, 三字词的可选项通常只有两到三个. 那么可以把前三个字符合拼音的多字词也显示出来. 这样输入 bei-jin-tian 可以显示 ""北京天安门"" 和 ""北京天坛"".  ",无,无,2019-07-20 13:40,微博 weibo.com,4,0,0
+HEea0b5gr,"http://t.cn/AilfhcbT 统计和查询中文词频. 用rust写的. 已用来优化所pyim的 词库. 例如, ""巴望 霸王 八王 巴旺"" 优化后变为 ""霸王 巴望 八王 巴旺""  ",无,无,2019-07-19 21:11,微博 weibo.com,5,0,0
+HDN483W5x,我是如何修Bug的 我是如何修bug的 提供了细节的真实例子.  ,无,无,2019-07-17 00:12,微博 weibo.com,5,0,0
+HDzX42IhT,"最近忙着给Emacs的中文输入法pyim升级新引擎`pyim-dregcache`. 其优点是消耗内存少. 速度不慢. 如图, 载入近30M的辞典,并打开一个500K的json文件, 总内存消耗稳定在120M左右.  ",无,无,2019-07-15 14:49,微博 weibo.com,5,0,0
+HCIuktuRk,"现在微软的VSCode 有 70000+个bug, 随便一个bug我都可以写篇文章把微软批判一番. 如果有人肯扶我稿费的话, 我可以天天爆其黑料不带重样的.  ",无,无,2019-07-09 22:43,微博 weibo.com,5,0,1
+HCIsF5FkA,"Emacs对VScode, 学独孤九剑或紫霞神功? Emacs对VScode, 学独孤九剑或紫霞神功?  ",无,无,2019-07-09 22:38,微博 weibo.com,3,1,3
+HBNb3g3oK,"我基本上就用bash,和网上流行做法不同,我把能放到git中的bashrc和其他各种脚本(python, perl)以及软件配置,都一股脑地放到同一个git项目中管理.基本上git clone出来就能用. 我的主要目标就是最快建立一个最小化的编程环境. shell编程能避免就避免. 并不是我shell编程不强.很久前在柯达做过一个超大项目大量使用shell都要用吐了. 正因为shell太熟了,所以对其局限性比较了解.                                 ",无,无,2019-07-03 20:48,微博 weibo.com,1,0,0
+HBuyh1Mra,"真正的""命令行高手"" 真正的""命令行高手"".  emacsguru的微博视频  ",无,无,2019-07-01 21:23,微博视频,5,3,5
+HAxlV53Hg,"一直觉得vscode的文件模糊查找算法比较难用.调查了一下起源 http://t.cn/AiplN0nl 某用户在2015年建议模仿Atom实现模糊查找算法A, 微软理解偏差,实现了算法B. 奇葩的是尽管许多人反复报bug, 微软是虚心接受,绝不修改.现在拖到2019年了. Emacs的做法是同时提供多个算法,你爱用哪个就用哪个,同时提供借口,可以实现自己的算法.                                 ",无,无,2019-06-25 14:41,微博 weibo.com,0,1,2
+HzvKR1lZB,"我可以算Emacs专家了. 老实说大多数英美程序员写的Emacs相关的文章质量一般. 他们就是爱讲故事,一个很简单的道理可以写个几大段而已. 我一般开头的故事或者个人体验还没读完,就直接跳到结尾或不读了. 德国人写的文章废话很少.不知道为什么.  ",无,无,2019-06-18 20:47,微博 weibo.com,8,0,0
+HzvGH2qob,在Github出现以前的一些老代码质量不是特别好. 对Emacs来说Github是分水岭. Github出现后有全世界的优秀程序员来参与.  ,无,无,2019-06-18 20:36,微博 weibo.com,5,0,0
+HzvD7qlYO,"http://t.cn/AiNTc6pS 感谢热心人报的bug,我干掉了两个过时插件 `bookmark+`, `dired+`.每个插件要一万行代码. 都有二十年历史了. 坦率地说我对这它们的质量是不满意.当初没经验用了它们,实际上我一直想删掉了.  ",无,无,2019-06-18 20:28,微博 weibo.com,0,2,2
+Hzj0wa3GE,初学者提高编程速度的简易方法 初学者提高编程速度的简易方法  ,无,无,2019-06-17 12:19,微博 weibo.com,1,1,3
+HyBq2qi2l,"对VSCode 1.35.0的评论 对微软VSCode 1.35.0的评论. 大公司的公关部门擅长丧事喜报,有用的特性反而被忽视了.  ",无,无,2019-06-12 21:22,微博 weibo.com,1,0,0
+HyARaz1U2,"提高编程效率的前提是打好基本功. 但是关键是大多数人对于什么是基本功有误解. 他们浪费太多时间在酷炫但实际很少用到的屠龙技术上.  例如,把自己的开发环境弄得漂亮点,对于效率提高比一打的设计模式有用得多.  ",无,无,2019-06-12 19:56,微博 weibo.com,4,0,1
+HyAKL826E,"提高命令行操作的效率的第一步是用真彩色终端. 一个漂亮的支持1600万种颜色的终端可以让人心情愉快, 我亲自测试下来比任何屠龙计都有用得多.  emacsguru的微博视频  ",无,无,2019-06-12 19:40,微博视频,3,1,0
+HwttEmLpf,"emacs用拼音首字母模式跳转焦点和搜索目录. Emacs中用来自http://t.cn/Rjhi91U 的 counsel-etags-grep 搜索目录中含有特定单词的所有文件. 该单词符合拼音首字母模式.昨天还没有这个功能,不过读者提了个很好的建议,实现也很简单,我就在录视频前直接完了. 需要最新的1.8.4版本用来自 cute-jumper/ace-pinyin 的ace-pinyin-jump-char-2 来移动控制焦点.顾名思义,要先输入两个拼音首字母来匹配两个连续的汉字.该命令可同时搜索英文和拼音.  emacsguru的微博视频                                 ",无,无,2019-05-29 21:28,微博视频,6,0,1
+Hwbfe67co,"在ivy中用拼音首字母搜索算法拓展的主意不是我想的. 是有人看到我的插件觉得不错,然后把其中关于拼音搜索的算法提取出来作成了一个可复用的库 pinyinlib ( http://t.cn/AiKJ5c0M ).然后其他人又基于pinyinlib这个库开发了新的插件和拓展了新功能. 有意思的是我写完 find-by-pinyin-dired 后就完全忘记这个件事了.很久以后当我又要使用类似功能,发觉其他人早就做了很多工具出来. pinyinlib的功能也比我当初写的简单算法强大(如支持繁体字).这就是开源的美妙之处.                                 ",无,无,2019-05-27 23:03,微博 weibo.com,7,1,0
+HwbbFnSli,在emacs中用拼音首字母搜索的灵感来自于善用佳软关于total commander的文章 http://t.cn/AiKJ4whk 我写的 http://t.cn/RZmY2AF (find-by-pinyin-dired) 可能是emacs中第一个使用该算法的插件  ,无,无,2019-05-27 22:54,微博 weibo.com,6,1,0
+Hwb4GuTPt,"emacs中搜索中文单词和中文文件. 搜索文件用`find-file-in-project`, 搜单词用了`swiper`.这两个插件实际并不提供中文功能.是我拓展了他们所公用的库`ivy`.使其支持中文.我的拓展是一般化的.意味所有基于`ivy`的命令都支持中文了.`ivy`是emacs最流行的工具库.所以意味着大批的插件都支持中文了.  代码见 http://t.cn/RCNzyon (搜re-builder-pinyin)  emacsguru的微博视频                                 ",无,无,2019-05-27 22:37,微博视频,11,0,2
+Hvyai9t75,昨天上传的视频演示了`counsel-etags` http://t.cn/Rjhi91U 两个命令. `counsel-etags-find-tag-at-point`查找函数定义. `counsel-etags-grep`在项目根目录下搜索包含特定词的文件. `C-c C-o`是ivy的`ivy-occur`命令 http://t.cn/E9jBG8z  ,无,无,2019-05-23 19:34,微博 weibo.com,2,0,0
+HvpWT507m,"录了一段视频,演示了emacs中两个技巧,第二个技巧exclusions pattern很常用.  emacsguru的微博视频  ",无,无,2019-05-22 22:39,微博视频,12,3,3
+HulUeAOmu,另外我现在工具链搭建速度快，任何平台下工具链配备到能干活也就是10分钟的事。比如windows下我装emacs，装cygwin的时候勾一下ctags就完了。连环境变量都不用配。我的emacs配置会查找更高级的命令行工具。找不到就回退到cygwin默认的find/grep/ctags。我觉得切换workspace都是多此一举。直接打开最近的文件，workspace都自动配置好。emacs是自由的，我追求大道至简，一切都是自动化的。emacs就可以i实现我的需求                                 ,无,无,2019-05-15 22:31,微博 weibo.com,3,2,6
+HulNS7CnX,vscode的一些代码现在也有类似于emacs的风格。所以我在emacs中养成的直接读源代码的习惯在vscodeo中也有用。比如`workbench.action.togglePanel` 命令就是这么找到的，作用就是把vscode下方的panel关掉  ,无,无,2019-05-15 22:15,微博 weibo.com,2,1,0
+HulicATJp,"在emacs社区ripgrep是小朋友都知道的常识了已很久了. 微软已是后知后觉,其相对封闭保守的文化使得其很多用户更加落伍.我有个同事自认为是vscode高手,我提醒他这个提高搜索速度100倍的功能已是微软发布之后一年多了的事了. 不客气地说,在文本编辑方面,大多数沉浸于vscode或者其他""简易友好""的编辑器IDE的的舒适区的用户至少在文本编辑最新技术方面落后2到3年.                                 ",无,无,2019-05-15 20:57,微博 weibo.com,6,3,3
+HulfzbydB,"有人对我""精通Emacs就能精通所有ide和编辑器""的观点有误解.以为逻辑是""emacs这么难都会了,其他工具自然不在话下"". 实际上Emacs比vscode容易得多. 正确的逻辑是Emacs的社区,Emacs的自由度使得用户高效掌握命令行. 学得的知识可以转用到vscode上. 一个例子就是 http://t.cn/R63xlNw VSCode 2017年3月的版本 可以使用ripgrep,文本搜索速度提高了60到100倍. 我知道的许多vscode用户对此毫无知识.                                 ",无,无,2019-05-15 20:51,微博 weibo.com,3,1,4
+HrJad6pAJ,"如何提高编程速度10倍基础篇的提纲截图. 关键是专注于强化训练文本和文件操作的效率.的要点在于基于科学的数据,只优化最常用的操作.  原图 ",http://wx3.sinaimg.cn/large/923eaf3ely1g2ierjh097j20sg0lc0xw.jpg,无,2019-04-28 16:12,微博 weibo.com,2,1,5
+Gitw6g9gY,"现在Emacs中我只用counsel/ivy了,ido也废弃掉了.至于helm,我一直都不感冒的.  ",无,无,2018-05-26 21:05,微博 weibo.com,5,1,3
+GfS3IbrnJ,"Magit算Emacs社区内的顶尖Git客户端了. 但和命令行比还是弱了点.比如,没有对应`git --no-pager commit --amend --reuse-message=HEAD`的命令. 我已直接搜索Magit代码验证过这点了.  ",无,无,2018-05-09 18:03,微博 weibo.com,1,2,6
+GfzvyzDTW,"`Emacs 27.1` has new function 'string-distance' to calculate the Levenshtein distance between two strings. 是我实现的,比Lisp版本快100倍. 用途很多,比如从当前的`prog1.cpp`搜索项目中文件名最接近的文件`prog1.hpp`.  ",无,无,2018-05-07 18:50,微博 weibo.com,6,3,4
+G9DdNgCuX,"最近计划出一个提高写代码效率10x的视频教程.一次学会vscode/emacs/vim,加Linux的那套命令行工具(grep/find/ctags/patch/diff), 顺便学点bash, 最后结合之前的技术为vscode和emacs各开发一个插件.如果可能最后把所有技巧在Intellij上应用一遍,已证明这些技巧是通用的. 作一下调查,你觉得自己编程目前最大痛点是什么? 为了提高编程速度你还想学习什么?                                 ",无,无,2018-03-29 17:15,微博 weibo.com,13,9,18
+G9lDQ2RSO,"http://t.cn/RnztDYG 看了doom-emacs的代码.号称是启动最快的Emacs配置. 思路不错,不过取消了默认的package初始化.我就不节约这0.7秒,其他优化我都做了.总的来说还是没有我的配置简单(我的配置是基于Steve Purcell的配置,所以还是Purcell的架构好). 运行起来肯定没有我的配置效率高,我是为了性能把helm和projectile都干掉了                                 ",无,无,2018-03-27 20:30,微博 weibo.com,4,2,2
+G8Z5Yvjba,counsel-etags (v1.5.1)Fast and complete Ctags solution using ivy-completion.It’s tested in huge projects like Linux Kernel source and it still works even with one million candidates.http://t.cn/Rjhi91U  ,无,无,2018-03-25 11:06,微博 weibo.com,2,0,0
+G8gdduyFF,"今天面试了白俄罗斯的女程序员.专业数学,本硕都是该国最好的Belarusian State University获得的.我对前苏联国家教育出来的程序员是有强烈好感的. 面试时候各方面还行,就是让我觉得有点不安.所以出了道小学两年级的奥数题.要反证法加上列方程,对数学专业很简单的.果然发觉她态度有问题,在我百般提示下,还是不愿意动手算一下. 在最后""你还有什么问题""的环节,她手托着下巴,忽闪着大眼睛,对我们的经理问了一个又一个问题.作为超级大美女. 这个电放的很有效,成功进入最后一轮. 但是关键是我们的另一候选人背景远不如她.本来差不多就给她offer了,现在这样乱放电让我对她的工作态度和能力出了疑问.                                 ",无,无,2018-03-20 16:50,微博 weibo.com,4,1,4
+G7VKunVqE,"http://t.cn/RnGOwn8 从doom-emacs学到的小技巧, 启动emacs时尽可能让""load-path""最小化. 因为`require`语句要把load-path里的每个目录都扫描一下. 成功将我Emacs启动时间从1秒减为0秒  ",无,无,2018-03-18 12:44,微博 weibo.com,3,0,1
+G7lU4jRQ9,"同事心血来潮,想用""轻量级""的vscode代替intellij.让我也体验了一把vscode.结果新手当头就是一棒 http://t.cn/RfVT1pn , 你让我的Linux高手装个编辑器要改`/etc/sysctl.conf`我也有点头晕的,不要说小白了  ",无,无,2018-03-14 17:29,微博 weibo.com,1,0,2
+G55Svw6sz,http://t.cn/REfvYoT 已有用户把我的 counsel-etags ( http://t.cn/Rjhi91U ) 用于Emacs 的C++代码了，评价非常好。虽然项目很年轻，但是思想来源于十多年前我读到codelite（一开源C++ IDE）作者的ctags结合其他算法的思路。虽然我的实现是针对javascript优化的，但应该能通吃所有语言。  ,无,无,2018-02-27 21:01,微博 weibo.com,2,0,0
+G4t0agcLh,http://t.cn/REwF4X7 eslint作者谈eslint。写得很不错，竞争对手如jshint早就确立统治地位，作者本人又患有重病。但eslint却异军突起。关键是在风口上（javascript流行），插件系统（可拓展强，用户可自行支持es6），靠上大树（支持JSX，被babel的团队支持），群众基础好。  ,无,无,2018-02-23 18:02,微博 weibo.com,0,1,0
+G4kOZePwG,http://t.cn/R9Cg7Tf EACL 1.1.1发布，Emacs可以在项目中自动完成单行或多行的代码。写ReactJS时速度奇快。当然也适用于其他任何语言。  ,无,无,2018-02-22 21:13,微博 weibo.com,0,1,0
+G3Si4oPzQ,http://t.cn/RReTHZR Mike Zamansky的视频Emacs教程更新可了，介绍了git-timemachine和git-gutter。他的教程的优点是比较有品味。介绍的都是最新的主流的技术。  ,无,无,2018-02-19 20:35,微博 weibo.com,4,2,0
+G36TChklj,cyberpunk主题的Emacs  原图 ,http://wx4.sinaimg.cn/large/923eaf3egy1fog81a31ugj20rs0lcq7y.jpg,无,2018-02-14 19:55,微博 weibo.com,4,0,0
+G0aoG6pPo,我的emacs.d以修正了最近melpa政策改动的问题 http://t.cn/zYMMaBD 另外find-file-in-project 5.4.7发布，现在完美支持Tramp Mode（不需要任何额外设置）。感谢ShuguangSun （ http://t.cn/RQFPZeC ）提供的patch  ,无,无,2018-01-26 11:19,微博 weibo.com,0,0,0
+G046usjNJ,http://t.cn/RQetz8V ivy加设定default-directory加喂给命令行程序相对目录。一个极其强大的技巧，通吃所有操作系统（特别是Windows），在我博客介绍过的。学会这个技术，Windows下Emacs基本不用设置（除了中文字体设置以外），坦率地说网上很多关于Windows下设置Emacs的文章都是多此一举  ,无,无,2018-01-25 19:18,微博 weibo.com,1,1,0
+G03PWsDPl,Masafumi Oyamada(mooz)的keysnail曾是firefox下最好的模拟Emacs快捷键的插件。他也曾是Emacs著名插件js2-mode的主力维护者。在我心目中他绝对是Emacs社区排名前十的高手。现在他发布了 http://t.cn/RQew028 （xkeysnail）在Linux XWindows上模拟keysnail的操作方式，如果你是Linux用户值得试一试  ,无,无,2018-01-25 18:37,微博 weibo.com,1,0,1
+FFmyigDSF,http://t.cn/8FrsPtr 从github/stackoverflow/jira 快速拷贝代码到剪贴板的GreaseMonkey脚本，支持firefox和chrome。我用了好多年  ,无,无,2018-01-21 10:54,微博 weibo.com,3,0,0
+FDt0zBGvf,"http://t.cn/RHs6yko 文本搜索命令行工具的比较. ag和ripgrep更快. ripgrep在windows安装很麻烦(其所用开发语言rust的问题).但是其速度快,有杀手特性可以解决Emacs显示长行太卡的bug. 所以是我现在主要工具. ack有perl依赖,速度比较慢.  ",无,无,2018-01-08 23:40,微博 weibo.com,2,2,4
+FBIvG5zfk,http://t.cn/RHIhmTz 我一直在推荐的emacs教程，现在更新到第39章用mu4e收邮件。作者曾是美国纽约精英中学计算机老师，现在是师范大学的教授。适合于初中级用户。  ,无,无,2017-12-28 11:27,微博 weibo.com,2,4,1
+FzUisn4rV,程序员的几个阶段（限于写代码这个主题）。阶段一，能完成任务，对IDE谈不上精通。阶段二，精通IDE但被IDE所提供的图形界面限制住了。阶段三，不局限于IDE或者编辑器，可使用其提供的Domain Specific Language（DSL）做拓展。但是无法脱离DSL提供的API。阶段四，可以使用GNU的命令行工具和DSL自由组合解决问题。                                 ,无,无,2017-12-16 13:47,微博 weibo.com,6,0,1
+FzUc4ldhX,http://t.cn/RTNGScT Linux命令行工具简介。 对Emacs新手来说是必读的了。入门水准，但是基本概念都有覆盖。否则微调Emacs时几乎无法下手。  ,无,无,2017-12-16 13:31,微博 weibo.com,1,6,1
+FxEzzhrAC,http://t.cn/RY9WlSv ivy-0.10.0的changelog。我建议高级用户还是直接读代码的commit history  ,无,无,2017-12-01 18:04,微博 weibo.com,0,0,2
+FxExflNuQ,http://t.cn/RY9OKST ivy-0.10.0发布，bug修复和性能改善。见我的设置 http://t.cn/RY9OKSH 可优化ivy性能  ,无,无,2017-12-01 17:59,微博 weibo.com,0,0,0
+FxsdF8rzG,abo-abo已在最新版的swiper/counsel/ivy中采用了我建议，很多基于ivy的插件（grep， find file等等）的性能都会大幅改善。只需要用户一行代码的设置 `(setq  ivy-dynamic-exhibit-delay-ms 200)`。充分说明了语言无高下之分，javascript中常用小技巧在Lisp程序员眼中可能是高大上的。  http://t.cn/RYXs6fY                                 ,无,无,2017-11-30 10:37,微博 weibo.com,2,0,0
+Fx3bjwwuN,blog.binchen.org 恢复在线了  ,无,无,2017-11-27 18:53,微博 weibo.com,2,0,0
+FwPkHb3I3,http://t.cn/RYqfbKn 这两天电子书Mastering Emacs打对折，只要20美元  ,无,无,2017-11-26 07:38,微博手机版,2,1,4
+FwytfrwJz,我博客blog.binchen.org目前在维护状态，可以访问镜像 http://t.cn/RYyn10R 代替  ,无,无,2017-11-24 12:42,微博 weibo.com,0,1,0
+Fw8MS3fPS,http://t.cn/RjsmE8e 一个编程博客的分类清单。Emacs类虽然不全，但是选的几个还是蛮有品味的（包括我的博客），其他语言我不是专家，没有发言权。  ,无,无,2017-11-21 19:19,微博 weibo.com,1,0,0
+Fw8IweF09,emacs planet的主要维护者Theresa O'Connor http://t.cn/RjsRPKy 公开自己是transgender了。之前没想到，因为其老婆（女友？）孩子都有了，而且看上去很geek的。  ,无,无,2017-11-21 19:08,微博 weibo.com,0,0,0
+FvZO8oPfN,挺烦那些“我对于Emacs十年的爱被VSCode/Intellij一个礼拜的使用打败的帖子 （http://t.cn/RjyyPc8）”。花了那么多时间Emacs水平只相当于VSCode或者IntelliJ一个礼拜的水准，还要广而告之，真是无语。我下决心学习Emacs后，一天就想好了路线图应该是怎么样的，绝不可能再动摇了。关键是理解自由软件的四大自由。比如我开始就计划好我的配置将在github下管理，和purcell的设置定期merge，完美支持windows，因为基于软件自由我应在任何环境下都能使用Emacs。                                 ,无,无,2017-11-20 20:27,微博 weibo.com,2,4,4
+FvQ1bujyv,在基础踏实，态度诚恳的前提下，我一直认为技术水平的跨台阶飞跃是有可能的，关键是跟对人，找准方向，有兴趣。对于Emacs相当熟练，并且Lisp有一定基础的中国用户来说，现在这样的机会出现了，abo-abo是Emacs社区的明星，他的swiper/counsel/ivy是社区内著名的插件（被人誉为文本编辑原子弹级别的技术）。我建议仔细研读ivy的occur部分的代码，提交bug报告或做出改进。最近abo-abo在力推该技术。我本人已试过，已是我最常用的技术之一。http://t.cn/RAoBLUA                                 ,无,无,2017-11-19 19:32,微博 weibo.com,2,4,4
+FvMymuLID,http://t.cn/RjEKJRr abo-abo写的使用ivy-occur操作文件的技巧。就作者本人以及文章的水准来说，大概是世界级的了。  ,无,无,2017-11-19 10:43,微博 weibo.com,1,1,1
+FvMrLx6zW,http://t.cn/RjEifVz YouTube上的视频Emacs安装教程。非常浅显。适合于毫无计算机基础的初学者。  ,无,无,2017-11-19 10:26,微博 weibo.com,0,3,1
+Fvv0leHSP,"今天firefox默默地升级到v57,把我的插件keysnail废了，我的greasemonkey脚本也废掉了。之前我对firefox已很不满意了。最大问题就是调试js代码时不能可靠的在断点看变量。还有其他很多毛病。现在我换了chrome，装了开源插件Surfingkeys。  ",无,无,2017-11-17 14:02,微博 weibo.com,2,0,3
+FuDFV31ac,http://t.cn/Rjhi91U 1.3.1 发布，基于ctags/etags的Emacs代码浏览工具，通吃所有语言。使用了Levenshtein Distance算法优化，可以更准确地定位代码。 另外EmacsWiki上Levenshtein Distance的实现（ http://t.cn/Rjhi91b ）简直就是高中生水准，我优化后的版本要快10倍。  ,无,无,2017-11-11 22:16,微博 weibo.com,6,2,1
+Fu8w41vKO,从percol切换到了fzf，percol在有超过100万候选项时有点卡。我对percol一直很满意。不过现在硬盘里文件太多，还是切换到了fzf。  ,无,无,2017-11-08 14:57,微博 weibo.com,0,2,5
+FsrpOlC8v,eacl （Emacs auto-complete lines) 的演示。  原图 ,http://wx1.sinaimg.cn/large/923eaf3egy1fkxsoa18thg20m80g04qp.gif,无,2017-10-28 11:23,微博 weibo.com,6,1,2
+FsbW5Ci37,http://t.cn/R9Cg7Tf Emacs auto complete line(s) by grepping project. 革命性的新功能，可以自动完成任意多行的代码，只要类似的代码在项目中已写过。写代码速度再提高100%没有问题。目前好像其他编辑器和IDE还没有此类插件，完全是我自己想出来的  ,无,无,2017-10-26 19:59,微博 weibo.com,8,2,5
+FqktVmkQk,"在Emacs中搜索文本目前最好的命令还是`counsel-git-grep`,速度最快，结合occur （ http://t.cn/RatoQKf 使用counsel-ag的例子，git-grep类似) 还可以快速重构代码。最新版本修掉了主要的bug（也就是这两天的事，我也做了贡献），相当可用了，”相当可用“的意思是所有IDE和编辑器比较类似功能排名世界第一应该是没问题的。前提当然是项目使用git。                                 ",无,无,2017-10-14 14:03,微博 weibo.com,3,8,6
+FpUzCtfsK,http://t.cn/Ro3Q44w emacs中使用swiper/counsel/ivy三件套的介绍，入门水准，写得不错。  ,无,无,2017-10-11 20:06,微博 weibo.com,2,3,3
+Foxv8EnsN,http://t.cn/R0rA5d7 Dmitry Gutov 是多个重要package（company-mode， js2-mode)的主要维护者，我心目中排名前10最活跃的Emacs Lisp开发者  ,无,无,2017-10-02 19:31,微博手机版,2,0,0
+FoxkSexIe,http://t.cn/R0rhieI 我的github reward排名，按语言分类，Emacs Lisp澳洲第一，世界排名19. 这是总排名表： http://t.cn/R0rhieM  ,无,无,2017-10-02 19:06,微博手机版,4,0,0
+FnbHtbiyx,http://t.cn/R0qQRWY mctags - 在Emacs中使用ctags的完整方案。使用了ivy  ,无,无,2017-09-23 22:11,微博 weibo.com,3,3,6
+FmcSk7ax7,最新的emacs rocks视频教程 http://t.cn/Rp3S64s  ,无,无,2017-09-17 11:20,微博 weibo.com,3,2,1
+FlFuB5AIU,abo-abo的 counsel-ag， counsel-rg，cousel-git-grep，counsel-grep这部分的代码质量不高，不支持negative pattern。而且在有多个关键字是，效率比我的写的my-grep要慢5倍 http://t.cn/zYMMaBD  ,无,无,2017-09-13 22:21,微博 weibo.com,0,0,0
+Fl37Nov1I,http://t.cn/Rpc3DyV abo-abo用来做卡片强化记忆的Emacs插件，我没用过。他最近又在推这个软件  ,无,无,2017-09-09 20:41,微博 weibo.com,2,0,0
+FkUhPaWr7,装了http://t.cn/RpGOjX8 在为其配了abo-abo的hydra，加上emacs-w3m，读在线中文小说很方便  ,无,无,2017-09-08 22:11,微博 weibo.com,1,0,0
+FkrRyhLBj,同事用intelliJ和webstorm开发ReactJS，优点是自带代码导航，缺点是导航功能非常有限。我用ctags加正则表达式在Emacs中实现的代码导航则强大得多。这套配置还是我多年前用jquery时设置的，每当出新JS框架了我就花十分钟加两行正则表达式代码而已而已。  ,无,无,2017-09-05 21:49,微博 weibo.com,4,3,2
+FkiTNyvJI,http://t.cn/RNuuYbv evil-nerd-commenter选择inner comment text object，重写了算法，花了我整个周末，即使commnent内行没对齐也没关系  ,无,无,2017-09-04 23:00,微博 weibo.com,0,0,0
+Fkh1FnrUd,加入Emacs开源社区甚至改变了我的政治观点。我有一手资料可以说明Emacs社区在各国的活跃程度和一个国家的工业化程度是正相关的。英国的去工业化恶果在程序员中的影响很明显，特别是和德法比较。之前我对英国的撒切尔夫人抱有尊敬，现在我终于认识到她为什么这么招人恨了。  ,无,无,2017-09-04 18:14,微博 weibo.com,6,1,2
+FjGqODYrV,"我的emacs配置支持fortune-zh, http://t.cn/zYMMaBD 每次启动Emacs时都载入一首古诗， 我已读了有几百首了  ",无,无,2017-08-31 21:04,微博 weibo.com,4,5,7
+FiLVa652m,http://t.cn/RC8pSs9 Emacs拼写检查设置，还给出了一个拼写检查javascript 函数变量名的例子。比flyspell-prog-mode默认设置要强大得多。当然很多技巧还是flyspell-prog-mode发明的，我只是读了其代码后脑洞大开，在更广范围内使用了其技巧而已。  ,无,无,2017-08-25 21:12,微博 weibo.com,4,0,0
+FiLLe1XGS,http://t.cn/RC8J1uO 加快Emacs启动速度的技巧，很全了。 Linux还可用ramfile: http://t.cn/RAe4Ax9  ,无,无,2017-08-25 20:48,微博 weibo.com,1,2,7
+FiCqjruwl,http://t.cn/RClK9yC 把abo-abo的cousel-git-grep如果有negative pattern则occur无法工作的bug修掉了，尽量用命令行工具过滤以保证速度，可以fallback到Emacs Lisp如命令行工具不存在。  ,无,无,2017-08-24 21:01,微博 weibo.com,0,0,0
+FitjS3Ycv,abo-abo虽然是天才但也是人，counsel/ivy已过于庞大，至少grep的一些附加功能没有好好测过。  ,无,无,2017-08-23 21:51,微博 weibo.com,0,0,0
+FithB7JFa,测试了emacs插件cousnel/ivy所有的grep命令，出乎我的意料，cousnel-ag/cousnel-rg/counsel-git-grep/counsel-grep 在测试ignore regex并转换搜索结果到wgrep-mode时都失败了。而我写的my-grep是唯一能稳定工作的grep（后台如可能用ripgrep，否则用grep）。实际场景是grep一堆结果，然后用ignore regex过滤结果，最后输出结果到wgrep-mode进行文本替换。http://t.cn/RCNzyon                                 ,无,无,2017-08-23 21:45,微博 weibo.com,3,0,0
+Fiaac3Dfx,windows下可以直接使用原生版的Emacs，原生编译的Emacs速度比较快，第三方交互的命令行工具（find，grep...)使用cygwin和MYSYS2都没有问题，只是注意Emacs和这些工具交互时要使用相对目录，这套配置在性能上基本秒杀其他所有编辑器和IDE了。  ,无,无,2017-08-21 21:05,微博 weibo.com,2,1,0
+FhF92uZLs,感谢 abo-abo 推荐，现在用git-p4操作perforce  ,无,无,2017-08-18 14:07,微博 weibo.com,1,1,0
+Fhoss3Sqf,abo-abo推荐ripgrep使得我重新考虑之前弃ripgrep而用the-silver-searcher的决定，我现在觉得搜索压缩文件也不是很常用的功能，而ripgrep的性能确实很优秀，另外修复和未修复的bug比率ripgrep确实好很多。这意味着其质量更好，所以我以后就坚定地跟着ripgrep了。  ,无,无,2017-08-16 19:38,微博 weibo.com,2,0,0
+Fh5MYvFgA,http://t.cn/Rfg0U5A 在Emacs中使用perforce我所用到的所有技巧。  ,无,无,2017-08-14 20:06,微博 weibo.com,0,1,0
+Fgb1AzRd7,http://t.cn/R9YYr9j vc-msg是git-messenger的替代品，支持perforce/svn/git/mercurial，现在以可以在melpa下载了  ,无,无,2017-08-08 19:36,微博 weibo.com,1,1,1
+Fg2ncpWe7,grep的效率，以高效著名的Sublime Text自带的grep速度要比流行的the silver searcher加Emacs慢40倍。如果用同样的grep program，还是要比Emacs慢一倍。IntelliJ之类的更是惨不忍睹。  ,无,无,2017-08-07 21:34,微博 weibo.com,0,0,5
+Fg2lJ54BV,http://t.cn/R9lLcj2 abo-abo写的关于加快grep速度的文章。 ripgrep已是业界最快的grep program了，然后限制ripgrep输出列数因为Emacs处理长行性能很差。这个效率应该是世界最佳了  ,无,无,2017-08-07 21:31,微博 weibo.com,1,1,1
+FfSBWFImm,技术上有偏好，选边站很正常。但是要就事论事，最关键的是要“show me the code”。在Emacs社区helm和ivy两个自动完成框架中，我是较早公开力挺ivy的 http://t.cn/R90I5UG 。我对helm很多地方都不满意。所以我通读了helm-imenu的实现，然后基于ivy实现了更高效的counsel-imenu 。 将来helm也许会有高手，大大改进了helm的效率，把ivy比下去了。这样互相打脸才有意义                                 ,无,无,2017-08-06 20:43,微博 weibo.com,5,1,1
+FfJH8wPBD,http://t.cn/R9Cg7Tf 我最近半年频繁使用的Emacs自动完成单行或多行代码的工具。大多数项目都有很多代码行是相同或者类似的，所以完全可以自动化。这比IDE能完成的代码量要多了。  ,无,无,2017-08-05 22:01,微博 weibo.com,2,0,3
+FfzU6AtN6,"Evil Mode: Or, How I Learned to Stop Worrying and Love Emacs， http://t.cn/R9oYR8A 可能是关于Emacs和Evil的最受欢迎的视频了。主讲人很帅也很幽默。技术上很简单。  ",无,无,2017-08-04 21:06,微博 weibo.com,4,2,0
+FfzrvFJvE,Emacs.el Episode 7 - Jorgen - Elpy and Others http://t.cn/R9oSp06， elpy作者的访谈 elpy是Emacs Python IDE的缩写  ,无,无,2017-08-04 19:55,微博 weibo.com,2,0,0
+FeYpxCqyD,http://t.cn/R9VDXVf 我早年翻译的C++之父关于程序设计的访谈。现在看来我在javascript程序设计也应用了这些原则。  ,无,无,2017-07-31 21:39,微博 weibo.com,1,0,0
+FeKEzrdeJ,我一直用Emacs org-mode的odt exporter来导出文档到pdf或者word文档，相对于配置latex对普通用户更简单一点。其维护者沉寂了一段时间，不过现在又开始活跃起来了。  ,无,无,2017-07-30 10:37,微博 weibo.com,5,1,1
+Fe3E67gmT,http://t.cn/R973iDv abo-abo的博客  ,无,无,2017-07-25 21:08,微博 weibo.com,0,1,0
+Fe3DfctS0,http://t.cn/R97urFh abo-abo(Oleh Krehel) 在伦敦演讲的提纲，关于他是如何设计hydra的，abo-abo的任何代码和文档都值得反复阅读，他是Emacs社区的天才，才华横溢。  ,无,无,2017-07-25 21:06,微博 weibo.com,4,4,0
+FdSpf03fd,澳洲市场小，制造业不发达，人工贵，所以做R&D，做普通行业相关的IT项目没什么前途，这些项目的主题就是压成本和外包。而印度一个不错的架构师工资每月1500美元。政府部门由于政治正确不可能外包，但其腐败和低效也是骇人听闻的。澳洲金融业发达，有全球竞争力，所以金融行业的software vendor是不错的。人才资源都能保证。                                 ,无,无,2017-07-24 16:31,微博 weibo.com,2,0,1
+FdzbckgCE,http://t.cn/RKg5Luu 是功能相当强大的ReactJS table组件，我在项目里用了快大半年了。个方面都很满意。  ,无,无,2017-07-22 15:34,微博 weibo.com,1,3,1
+Fd9D6tYmZ,现在melpa审核package的速度真慢，最早未批准的申请还在3月  ,无,无,2017-07-19 22:32,微博 weibo.com,2,0,0
+Fcx76cv9p,http://t.cn/RK05Vws abo-abo本人关于ivy的介绍，没有人比原作者写得更好的了。ivy我觉得可以是emacs的必备技能了。  ,无,无,2017-07-15 20:29,微博 weibo.com,1,0,0
+Fcf77w5Kz,"如果没有Github，我就不会关注Steve Purcell,那我现在的Emacs水平就还是很菜。没有github，Steve Purcell很可能就缺乏必要的动力和工具建立http://t.cn/RKoyOOG而melpa的建立大大促进了Emacs社区的繁荣。Steve Purcell曾特别提到他从未想到自己的配置能得到那么多的github之星。考虑到大批的中国人给他加了星，可以认为他的很大一部分动力也来自中国人的点赞 ;)                                 ",无,无,2017-07-13 22:39,微博 weibo.com,5,1,0
+FceZRbMOa,现在回头看，我能对Emacs社区作出一点小小的贡献主要还是因为“历史的进程”，”个人奋斗“实在是微不足道。因为一个美国同事的傲慢使我想在掌握Emacs压倒他，Github的兴起使得美国不再是Emacs社区的唯一中心，Evil-mode的成熟使得基于evil的插件有了需求，我写的evil-nerd-commenter和evil-matchit因为写的早，虽然代码有点烂，用户也只能用。                                 ,无,无,2017-07-13 22:21,微博 weibo.com,5,0,1
+FbWmNeBm3,#新浪微盘iOS客户端#我更新了微盘#v3.4.8版~ 1、任性订阅好友，精彩不容错过！2、微盘会员尊享7大特权，想存就存！3、多端云同步、办公娱乐两不误！你也来试试吧！下载地址：微盘  ,无,无,2017-07-11 22:56,微盘,0,0,0
+FbJzkd0j5,放弃在emacs中使用ripgrep，只用the silver searcher，原因是ripgrep作者不打算不支持压缩文件，我维护两个grep的选项工作量也太大了。  ,无,无,2017-07-10 14:21,微博 weibo.com,2,0,0
+FbhV2mxJU,Bob Chassell去世了。他是免费电子书Emacs Lisp入门的作者。纪念他的最好方式是读他的书。 这里是链接 http://t.cn/8F8zohl 针对的是初学者，没有很难的技术，初中生也可以学习  ,无,无,2017-07-07 15:57,微博 weibo.com,4,6,0
+﻿FaH1ti2M2,spacemacs提供了社区驱动的配置，所以无论你用哪种编程语言都基本可以开箱即用。其他流行Emacs配置是个人配置共享，不可能做到spacemacs那样大而全。但高手一般都已精通所有主流的Emacs技术，所以通用功能（文本搜索，文件查找，等等）不会比spacemacs差，另外高手针对特定领域的优化是高于spacemacs的社区平均水准。Steve Purcell针对Ruby和package管理，Bozhidar Batsov的Clojure，我的javascript都是这样的。                                 ,无,无,2017-07-03 18:02,微博 weibo.com,3,2,2
+FaviX4b8T,很好的swiper/counsel/ivy 教程 http://t.cn/Ro3Q44w 基本要点都讲到了。ivy是Emacs社区的重量级的插件  ,无,无,2017-07-02 12:12,微博 weibo.com,2,1,0
+FapIr3ZQf,http://t.cn/RoNtFYS 正式发布了。代替 git-messenger，支持任何版本控制系统。当初本来想给git-messenger发个pull request，结果发觉日本人代码太乱了，改写的时间足够我自己写一个新package了。索性自己写了一个。借鉴了company-mode的架构，很容易拓展。  ,无,无,2017-07-01 21:58,微博 weibo.com,4,0,0
+Fa58qnRdv,做了结合版本控制系统的Emacs插件后，才知道git已把其他版本控制软件远远甩在后面，比如git的blame，git就是版本控制软件类的Emacs，值得花精力精通，精通git就精通了所有的版本控制软件，就如精通Emacs就精通了所有的编辑器和IDE一样。  ,无,无,2017-06-29 17:34,微博 weibo.com,3,0,1
+F9WU82Irs,http://t.cn/RcAIbp5 很好的Emacs系列视频教程，适合入门，中学生也可以看。原作者原来是美国纽约市重点中学的计算机老师，现在在大学里培训老师。我之前介绍过作者，技术上不是很geek，但是很有品味和眼光。我希望我中学有这样的计算机老师。美国人就是幸运，资源和人才都是最好的。  ,无,无,2017-06-28 20:37,微博 weibo.com,5,13,3
+F9Mn56XTS,dumb-jump 不是 dump-jump  ,无,无,2017-06-27 17:48,微博 weibo.com,0,0,0
+F9MmQjJra,dump-jump http://t.cn/R5AjpUT 结合了最新的grep工具和Emacs的已有技术，可以在不需要index文件的情况下快速智能找到函数变量定义，支持多种语言。我提了个需求马上就给实现了，其作者还特别申明是因为可怜我不得不使用perforce才实现的，真有同情心  ,无,无,2017-06-27 17:48,微博 weibo.com,2,4,2
+F9EPAjjLr,emacs 插件 http://t.cn/RoNtFYS 当前行的版本控制信息。目前支持Git，Mercurial，Perforce。目标是取代emacs-git-messenger。区别是一开始架构就支持可拓展，可以轻易地支持任意的第三方版本控制系统  ,无,无,2017-06-26 22:36,微博 weibo.com,2,1,0
+F92iUmne4,http://t.cn/RoIxav2 Emacs中的text properties的Emac教程，如果自己写插件的话很有用，需要一点Emacs Lisp基础  ,无,无,2017-06-22 20:32,微博 weibo.com,2,1,0
+F8hCCwN1A,我把js-comint http://t.cn/RowqSpx 按照nodejs-repl的例子重写了，现在专注于支持nodejs，也加了很多新功能  ,无,无,2017-06-17 21:41,微博 weibo.com,2,0,0
+F7a0GEGYH,我装了emacs的插件emms代替mpd，因为debian下的这类软件都有点老了，bug比较多。多年前试过emms，觉得很难配，现在只花了5分钟。除了因为我Emacs熟练了以外，abo-abo的swiper/counsel/ivy也帮了很多忙  ,无,无,2017-06-10 12:28,微博 weibo.com,2,0,1
+F6LgyqAtH,"gnus的教程更新了，outlook/exchange服务器，如何用gnus读feed/atom,如何打开或下载内嵌视频/音频/图片（支持所有操作系统）。 GitHub · Where software is built  ",无,无,2017-06-07 21:29,微博 weibo.com,1,0,0
+F5y7CCIif,在Emacs中高效地patch文件。 http://t.cn/RS5BFMq  适用于各种版本控制系统。  ,无,无,2017-05-30 22:10,微博 weibo.com,0,0,0
+F5nOYppxJ,http://t.cn/RSb0Q0S emacs25.2的一个bug。坦率地说，emacs25的发布不是很成功，不太稳定，性能也比较差  ,无,无,2017-05-29 19:57,微博 weibo.com,0,0,1
+F4kw15SV5,我知道wgrep是Emacs社区公认的大杀器，不过可以结合evil以及Emacs Lisp中的advice改造一下让其更凶残一点。 http://t.cn/RagNRBP  ,无,无,2017-05-22 21:42,微博 weibo.com,1,0,0
+F4kum2b6E,Emacs不需要project这个概念，能得优为什么要考虑良， http://t.cn/RagCYCu  ,无,无,2017-05-22 21:38,微博 weibo.com,2,0,0
+F3yDofhDi,http://t.cn/RteOJoA 最简单的把Emacs变成C++ iIDE的方法。对系统没有要求  ,无,无,2017-05-17 19:48,微博 weibo.com,1,3,1
+F2cJ1wGQo,很多人对Emacs有象宗教一样的崇拜，除了背快捷键就不敢做其他的了。实际上基本工程学训练，加上读和改Emacs Lisp代码的勇气，就足够精通Emacs了。很多高大上的插件读完代码也就那样  ,无,无,2017-05-08 22:11,微博 weibo.com,6,0,0
+F2cGb5ZyY,http://t.cn/RatoQKf 号称是ivy和wgrep结合，在emacs中搜索加文本替换的绝技。事实上，自己写个occur和grep，一切都太简单了，http://t.cn/RatoQKV  ,无,无,2017-05-08 22:04,微博 weibo.com,4,0,0
+F22yrwPsE,google trend 搜索spacemacs，美国一枝独秀。美国人（或者说是移民美国的精英们）对新技术的好奇心和敏感确实是碾压全世界的。如果只是搜索emacs，中国，北欧，日本，德，法，韩国都在前列。可能是因为制造业发达，工程师被逼得只能用Linux和Emacs  ,无,无,2017-05-07 20:18,微博 weibo.com,1,0,3
+F21yQhJ7R,http://t.cn/RA9W5f0 find-file-in-project 5.3.0 发布，针对emacs中review patch强化了。我一直对magit不感冒，因为vi和git cli我很熟了，git结合编辑器用emacs-git-messenger和emacs-git-gutter就够了，magit一直有性能问题。而且不愿只用Git，这是限制我的自由  ,无,无,2017-05-07 17:46,微博 weibo.com,1,0,0
+F17Zi7ezH,目前我发给emacs-git-gutter的pull request还在审核中  ,无,无,2017-05-01 20:17,微博 weibo.com,1,0,0
+F17VmD1g9,"我补丁过的emacs-git-gutter， http://t.cn/RXFNp6p 提供了额外的变量git-gutter:exp-to-create-diff，支持任意的版本控制系统，比如`(setq-local git-gutter:exp-to-create-diff (shell-command-to-string (format ""p4 diff -du -db %s"" (file-relative-name buffer-file-name))))`支持perforce  ",无,无,2017-05-01 20:08,微博 weibo.com,0,0,0
+ED8IHglr3,"http://t.cn/R6uNGX8 Emacs中的自动完成(Auto Completion)完全指南 , 根据流行技术做了更新，同时介绍了我发明的新技术  ",无,无,2017-04-05 21:16,微博 weibo.com,1,2,0
+ECLSDwhzx,http://t.cn/R6H8WaR Emacs下找项目中文件的插件，我的回答  ,无,无,2017-04-03 11:08,微博 weibo.com,4,1,1
+ECwIMxj2e,org-mode 内嵌其他语言时会用其major-mode，major-mode-hook如果配的比较重量级会导致org比较慢。办法见 http://t.cn/R6lT9KS 把我博客通读一遍，再看一遍我的emacs.d的git log，基本就知道一个稳定通用高性能的配置怎么弄了  ,无,无,2017-04-01 20:32,微博 weibo.com,2,0,0
+EBj0IEzsc,http://t.cn/R6GSZAh 从spacemacs回到了sublime text，反面例子。还是我这种“无为”的思路比较好，第一年Lisp也不学，plugin不喜欢就换。所以Emacs在我的记忆里都是满满正能量。长期来说我对社区的贡献比这种爱走极端的小孩子多得多  ,无,无,2017-03-24 19:48,微博 weibo.com,2,4,2
+EBgDIeraA,http://t.cn/R6c1563 换了ripgrep做Emacs文本搜索后端，速度是silver searcher的三倍  ,无,无,2017-03-24 13:46,微博手机版,1,4,6
+EzWwckrur,经常有人在邮件里让我看他.emacs设置，基本上都是错多到让我不知从何说起，所以我只能建议用几个大牛的配置。  ,无,无,2017-03-15 20:42,微博 weibo.com,5,1,5
+EzcDAptDF,"2013年8月9日我领悟到所有人使用evil-leader都不够,如果要避免RSI,就要全面的转向leader键方式.背景是当时我加班过多,已出现RSI症状.读者反应极其冷淡.除了Sylvain Benner. spacemacs的作者   http://t.cn/RiQ6Ey7  ",无,无,2017-03-10 23:54,微博 weibo.com,0,0,1
+Ez76SsJ1k,http://t.cn/RiTSDT2 evil-lion不错，用vim的方式在Emacs中对其文本，确实解决了我的一个痛点，代码就几行而已。  ,无,无,2017-03-10 09:49,微博 weibo.com,1,0,0
+EyHCMcWHh,"http://t.cn/RipgAUp reddit上展示emacs配置的comit数量, 目前我排第三,第一毫无悬念是spacemacs (7130), 第二是John Wiegley (3073), 我(2676)比Steve Purcell (2569) 高了那么一点点:)  ",无,无,2017-03-07 16:56,微博 weibo.com,5,1,6
+EyHxTEgK0,"最近从gentoo切换会debian了.工具链基本稳定成熟了,所以操作系统还是稳定的好.昨天还折腾了一把nixos,虽然我很欣赏其理念,但社区支持弱了点,最关键的是我的旧显卡必须用的开源驱动和python2的一个较老的库装不上.  ",无,无,2017-03-07 16:44,微博 weibo.com,2,2,7
+ExDKMs0Q2,"我的.Xdefaults, 包括了rxvt-unicode的设置，github上和archlinux论坛上抄来的的，很简单的配置。 http://t.cn/RitdqNL  ",无,无,2017-02-28 17:15,微博 weibo.com,1,0,0
+ExCBdlGQa,终端模拟从从termintor换回了rxvt-unicode-256color，性能还是rxvt好，历史悠久，和emacs兼容性很好  ,无,无,2017-02-28 14:19,微博 weibo.com,5,0,1
+EwryszEkk,http://t.cn/RJdl5X9 基于pinyinlib做的切换中英文buffer(用拼音首字母搜索buffer，同时兼容英文)  ,无,无,2017-02-20 20:21,微博 weibo.com,2,0,0
+Ewr9Pw9Qa,http://t.cn/RJdaRuz 我指导一实习生做的ReactJS项目模板，基于最新技术postcss/webpack/es6等等，项目解构最简单，可轻易拓展，绝无over-engineering，选取的第三方库也是深思熟虑的，比如用react-redux-form代替徒有虚名的redux-form，用reactabular代替facebook的data-table等等。  ,无,无,2017-02-20 19:21,微博 weibo.com,4,0,0
+Es1fxv1im,"http://t.cn/aOU8KV ""Eloquent JavaScript""是我读过的最好的Javascript教程，优美简洁深刻，覆盖了现代前端开发的必备知识，我是看了UglifyJS开发者的推荐才找到此书的  ",无,无,2017-01-22 18:02,微博 weibo.com,7,4,1
+Erdlbw0e2,redux-form might be the worst third party package I've used. I have to replace it with react-redux-form.  ,无,无,2017-01-17 10:59,微博 weibo.com,2,0,0
+Em6vW8ycg,"我一直跟进Emacs社区的最新动态,所以推荐的技术和书籍都有质量保证,谈不上“过时”,比如“Writing GNU Emacs Extensions”就很不错,离过时还远的很.  ",无,无,2016-12-14 20:24,微博手机版,6,1,2
+ElllDjiuI,http://t.cn/RctCnS5 Fox Kiester (noctuid) 的Linux配置. readme是很好的教程. 美国小孩厉害起来真是吓死人。我一直以为他/她是十年以上经验的顶尖工程师，文笔老练逻辑强  ,无,无,2016-12-09 20:20,微博 weibo.com,4,3,1
+EkJL58Mjl,在Emacs中用perforce http://t.cn/Rfg0U5A  ,无,无,2016-12-05 20:38,微博 weibo.com,1,1,0
+Ei9bcf7ue,http://t.cn/RfMwrPC 基于js2-mode，完美支持facebook的React JSX.如你安装我强化过的js2-mode， http://t.cn/RfMwrPo  就是世界上最强的react ide了  (强化的是imenu，参考 http://t.cn/RfMwrPK 的截图)  ,无,无,2016-11-18 19:50,微博 weibo.com,1,1,0
+EgapyrDpn,http://t.cn/RVsJyxG 在Emacs中快速输入邮件地址  ,无,无,2016-11-05 19:18,微博 weibo.com,2,0,0
+Eg627lJwQ,http://t.cn/RVFj0RQ 关于emacs中实用ivy的youtube录像，相当先进  ,无,无,2016-11-05 08:09,微博 weibo.com,2,0,0
+E9tGqAion,我一直以自己回答技术问题的冷酷简约风格而自豪。不过今天才发觉如果提问者是美女的话，我的风格是耐心详细的。  ,无,无,2016-09-22 19:29,微博 weibo.com,7,1,1
+E97AZnNQB,秀一下我使用Emacs快捷键的效率.用keyfreq记录.  原图 ,http://ww1.sinaimg.cn/large/923eaf3egw1f7zvo0d64jj211y0lcthl.jpg,无,2016-09-20 11:16,微博 weibo.com,11,1,1
+E73yKqBfp,"http://t.cn/Rc46NFf 定制你自己的spacemacs,使用现代技术use-package, ivy, general, which-key等等. general部分比较有趣  ",无,无,2016-09-06 21:18,微博 weibo.com,3,6,1
+E6Bg9j9mc,看了优秀emacs教程作者的背景 http://t.cn/Rc2cgmk，在纽约市重点中学教了计算机，现在在师范大学培训未来的计算机老师。这有点吓人了。为了不让中国人在起跑线上输给美国人，欢迎向中国师范生推广我的中文Emacs教程。http://t.cn/8kECQSY  ,无,无,2016-09-03 21:16,微博 weibo.com,5,10,1
+E6xlVh0tp,http://t.cn/8kECQSY 一年成为Emacs高手更新，加入了如何使用evil的章节。重写了其他章节  ,无,无,2016-09-03 11:19,微博 weibo.com,2,6,5
+E6wnQ0Wdf,emacs教程中关于快捷键部分看看就行了，我一贯认为快捷键掌握官方教程的就够了。要世界级的“快捷”就得使用evil以及evil-leader，要量化分析 How to be extremely efficient in Emacs  ,无,无,2016-09-03 08:51,微博 weibo.com,3,3,0
+E6wgM5GBY,http://t.cn/RcAIbp5 不错的emacs入门教程，正在更新中。使用的技术基本是比较主流先进的  ,无,无,2016-09-03 08:34,微博 weibo.com,3,7,0
+E6id86lKV,http://t.cn/Rt0PSCU 诸如此类vi对Emacs之战的文章基本都是八卦。中外莫不如此，这篇还普及了vi的一些干货。但谈到emacs就水平很低了。“Vi Everywhere”一节除了evil之外其他的东西都是趣谈的水准。  ,无,无,2016-09-01 20:46,微博 weibo.com,1,0,0
+E5P0Jn24X,"reddit上有人宣称要脱离spacemacs从头打造自己的emacs。理由1，自己设置轻量级;理由2，可对Emacs深入了解。我不以为然。1, 打造轻量级emacs需要技术能力，何德何能敢称轻量级。2,对spacemacs社区做贡献就是最好深入了解emacs的机会。如从未对社区做过贡献，自造轮子能深入到哪里去  ",无,无,2016-08-29 18:26,微博 weibo.com,5,1,1
+E5jksqnA0,http://t.cn/RteOJoA 把Emacs变成C++ IDE的最简单的方法.  ,无,无,2016-08-26 09:47,微博 weibo.com,3,4,1
+E4VGjFj9z,"提升了emacs性能. 去掉了ido-ubiquitous, 最重要的是advice了linum-schedule, 改为间隔一秒更新行号. 另外要感谢abo-abo开发了性能优秀的ivy-mode,使得清理ido成为可能.  ",无,无,2016-08-23 21:35,微博 weibo.com,3,0,0
+E4krHnhbb,http://t.cn/RhJlXU4阿波/r/programming/comments/4wx2ld/editor_wars_the_revenge_of_vim/d6bt39z abo-abo谈编辑器大战。也是我一直以来的观点。很多比较Emacs和Vim的文章都很肤浅。焦点集中在快捷键上也是迷失方向。  ,无,无,2016-08-19 22:47,微博 weibo.com,0,2,3
+E4jSd9Rrh,http://t.cn/RtnHeh4 abo-abo介绍自己写的一些emacs插件。abo-abo是乌克兰人，典型俄罗斯人风格，细节完美，技巧高超，极有想象力  ,无,无,2016-08-19 21:19,微博 weibo.com,0,3,1
+E3I2N514i,"有人私信我统一快捷键问题. 我这里公开回答,我在Emacs里用evil,混用vi和Emacs的快捷键,大量用leader引导的按键.firefox用插件keysnail,也是混用vi和emacs的快捷键.桌面用i3,有点类似于vi的快捷键,用得不多.所有这些内容都在""一年成为Emacs高手""介绍了.建议把我的原文好好读一下.  ",无,无,2016-08-15 21:01,微博 weibo.com,4,0,0
+E36J6prEL,http://t.cn/RtOW5xT Emacs高手abo-abo又一作品。  ,无,无,2016-08-11 22:01,微博 weibo.com,0,3,7
+E2uUbiK9t,Emacs/Vi快捷键的回答（有Emacs问题公开问我），   用leader键，参考spacemacs，还有按kj等价与esc，还有按键效率的文章 How to be extremely efficient in Emacs ， 在reddit上跟踪我帐号或读我博客，按键问题早已彻底解决，当然vim必须熟练（自我掌握vi以来从未按过上下左右键），读vimtutor是第一步。  ,无,无,2016-08-07 21:44,微博 weibo.com,2,1,0
+E1RL5qxN7,解 ACM 题的能力真的代表编程能力吗？ - 回答作者: 陈斌 http://t.cn/Rt6aqZY (想看更多？下载知乎 App：http://t.cn/R4MRuKZ  ,无,无,2016-08-03 18:04,知乎网,1,0,0
+E0kBCii8D,"http://t.cn/RtUR8rt abo-abo(swiper, ace-window, hydra, avy, lispy的作者) 关于emacs操作的youtube录像  ",无,无,2016-07-24 15:50,微博 weibo.com,0,4,0
+DFznV7uzF,建议上海政府向澳大利亚学习，给予警察更多维护公共秩序权力。澳洲新南威尔士州“法律尽快离开命令”（Move On Order）的部分中文翻译， 陈斌: 如何看待上海一群青海化隆人阻止阿里兰牛肉面营业？ - 知乎 @上海公安  ,无,无,2016-07-19 22:06,微博 weibo.com,1,1,0
+DFzf6bXi7,如何看待上海一群青海化隆人阻止阿里兰牛肉面营业？ - 回答作者: 陈斌 http://t.cn/RtZqJnT (想看更多？下载知乎 App：http://t.cn/R4MRuKZ  ,无,无,2016-07-19 21:44,知乎网,0,0,0
+DDJGMt6Ye,初学者学习#emacs#还是从文本编辑入手比较容易。找切入点不要从冷门的地方开始（比如M-x shell什么的）  ,无,无,2016-07-07 20:39,微博 weibo.com,1,0,0
+DDqRu0X0y,http://t.cn/R53ZrBM elisp写的文件格式转换工具。abo-abo的又一神作  ,无,无,2016-07-05 20:43,微博 weibo.com,2,2,0
+DDqOOvXtI,每次访问乌克兰人@abo-abo的github主页，总是造成我很大的心理阴影。比我天赋好的人比我更勤奋  ,无,无,2016-07-05 20:37,微博 weibo.com,5,0,0
+DCFUd3Edk,几年前有个所谓7年Emacs经验老外说什么#Emacs#的包管理很差，他最后不得不转向IDE云云。当时我就很不以为然。现在看我的打脸文章 http://t.cn/R58eRRU  ,无,无,2016-06-30 21:11,微博 weibo.com,4,2,1
+DCEEm9Qil,chinese-ime是我非常喜爱的#emacs#中文拼音输入法，现在发布稳定版  http://t.cn/RZkSDZX  ,无,无,2016-06-30 17:59,微博 weibo.com,5,2,1
+DBxkI6Y8D,"#company-mode# is the best code completion solution in #Emacs#. To unleash its unbelievable power, you need `C-h v company-backends` at first. An example, http://t.cn/R50D1UF  ",无,无,2016-06-23 09:31,微博 weibo.com,3,0,1
+DBxfBB4LJ,http://t.cn/R5Cm6nh company-mode 0.9 released.  ,无,无,2016-06-23 09:19,微博 weibo.com,2,0,0
+DBj5AlWDU,#emacs#对于大文件的性能是很优秀的，关键是要关闭linum-mode，一个文件300万行，带语法高亮，没有任何问题。  ,无,无,2016-06-21 21:15,微博 weibo.com,2,2,4
+DB8cetKpy,著名的emacs插件company即将发布0.9 http://t.cn/R5Cm6nh 如果你有issue，尽快报告  ,无,无,2016-06-20 17:32,微博 weibo.com,2,0,0
+DB88GkwcX,顶尖的日本Emacs牛人syohex终于开始开发基于ivy-mode的gtags插件了!他也是helm-gtags的原作者. C++程序员赶快去加星! http://t.cn/R5Cmvsa  ,无,无,2016-06-20 17:23,微博 weibo.com,3,1,0
+DAWFs7qdv,http://t.cn/R59bFLi 让宠物也可以用（不用）Emacs  ,无,无,2016-06-19 12:11,微博 weibo.com,0,0,0
+DzMCeswQl,sublime text的插件search in project，不谈效率，功能和UI也问题多多。为什么要手动创建project而不是智能识别？为什么手动设置文本搜索引擎，不能自动寻找最优引擎？不能同时以文件路径和内容进一步过滤！默认候选项字太小！不稳定，等待搜索过程中按键盘或鼠标结果会消失! 等等等等...  ,无,无,2016-06-11 20:45,微博 weibo.com,1,0,1
+DzMuA9r6L,"sublime text 3的默认文本搜索实现实在是太烂了，为了公平我装了sublime程度search in project插件，将其引擎也设置为ag(the_sliver_searcher)，耗时19秒, Emacs使用ivy+ag，耗时7秒。由于文本搜索引擎一样，差别就是编辑器和插件质量了  ",无,无,2016-06-11 20:26,微博 weibo.com,0,0,1
+DzMjMAdz7,"以Linux Kernel代码为样本，使用ag(the_silver_search加ivy-mode测试Emacs性能, 5万个文件中搜索字符串struct，共有138万匹配，耗时7秒，138万待选项进一步过滤反馈是即时的。sublime text 3, 耗时4分40秒得到结果，进一步过滤的功能没有。Emacs要快40倍。  ",无,无,2016-06-11 19:59,微博 weibo.com,3,3,5
+DySOBmck4,swiper/ivy 是我热爱的Emacs插件，因为用它改造其他插件的UI太容易了。 http://t.cn/R5tUhW9  ,无,无,2016-06-05 22:42,微博 weibo.com,5,3,3
+DyzW1fDG2,http://t.cn/R5GnHAf  Richard Stallman的采访。举几个例子说明其思想的在Emacs中的应用，比如我是从来都是结合Emacs和其他自由软件发展Emacs技巧的，局限于lisp怎么能叫自由。比如Richard Stallman谈到了软件要易于修改.我以此为指标来评估软件的质量  ,无,无,2016-06-03 22:38,微博 weibo.com,2,2,1
+DyzRNoVRv,http://t.cn/R5GER1F 很好的Emacs evil 教程（针对vim用户）， 有深度和广度  ,无,无,2016-06-03 22:27,微博 weibo.com,0,2,1
+Dxb11n1iH,前两天面试者看到我简历上写的精通emacs，立刻对我说他用vim。我什么也不说，默默地看着他。土澳的软件开发平均水准我太了解了，双修什么的都是对牛弹琴。  ,无,无,2016-05-25 17:21,微博 weibo.com,10,4,5
+DwQYmh119,"http://t.cn/R5zqxiH ""Master Emacs"" ebook 50% off  ",无,无,2016-05-23 14:19,微博 weibo.com,2,3,3
+DwmLmgjMJ,http://t.cn/RqsVtKM  spacemacs in vim ;)  ,无,无,2016-05-20 09:25,微博 weibo.com,0,2,0
+DvPU1l0Q8,http://t.cn/RqDVGHB 在#emacs#的evil-mode中使用中文输入法的分析。 我对所谓vim快捷键和中文输入法不兼容的观点很不以为然。自由软件就是一切都可能  ,无,无,2016-05-16 21:46,微博 weibo.com,1,1,0
+DsWfIn8eN,我刚更新了#新浪微盘Android客户端 V3.4.4#，这次微盘君增加了VIP会员，更多特权等你来发现！快来和我一起体验微盘V3.4.4吧！下载地址：微盘  ,无,无,2016-04-27 20:25,微盘,0,0,0
+Ds1ZB9uMx,http://t.cn/Rvt6XQj 2011年开始我所有emac关文章。以现在眼光看2011年文章质量还是很高。比如自动完成一开始就评估并排除了auto-complete之外的所有方案（company还不存在）。比如yasnippet和autocomplete的冲突的探讨导致了我采用company和yasnippet隔离的方案等等。  ,无,无,2016-04-21 21:11,微博 weibo.com,3,0,2
+DqORx4Fzx,http://t.cn/RqJmti1 Vim 8.0 发布了。然后hacker news上好多人在讨论spacemacs和emacs 圣战终于要结束了。  ,无,无,2016-04-13 21:55,微博 weibo.com,1,3,5
+DqKdD0Ou1,推荐 @ManateeLazyCat_deepin 的文章《Emacs：我已经十年没有按过保存按键了（附带 auto-save.el 源码解析）》（ 分享自 @简书 ） http://t.cn/RqJMnS9  ,无,无,2016-04-13 10:06,简书,4,3,0
+DquPQxLov,emacs 25 新技术， 可以用C写插件， 这是例子http://t.cn/RqM9q7h  ,无,无,2016-04-11 18:56,微博 weibo.com,6,7,0
+Dq9xchf99,"http://t.cn/RqcbcY3 general.el不错，我用了近两个月。取代evil-leader,可以提供多个leader key  ",无,无,2016-04-09 12:43,微博 weibo.com,0,2,0
+Dq8R5k2Ia,我在 @知乎 回答了【emacs中有哪些html+js+css+php/jsp的完美的mode方案么？】http://t.cn/Rqcv827（想看更多？下载知乎 App：知乎）  ,无,无,2016-04-09 10:59,知乎网,0,0,0
+DpKq6p4zw,"老外(特别是美国本地人,欧洲好很多)的问题是被宗教毒害(Vim的快捷键是异端，Vim和Emacs只能二选一),被意识形态洗脑(快捷键也要上升到个人主义和自由意志的高度，虽然我反复强调Emacs只是工具).  ",无,无,2016-04-06 20:46,微博 weibo.com,3,1,2
+DpKnrvrni,"大学教育很重要。有人读了我""一年成为Emacs高手""一文关于“照抄高手配置一章”，马上就类比学校读经典论文的例子，实际上这正是我的灵感来源。其他一些方法上也来自于我的工程学教育。比如强调我有一年的记录，比如要加入社区（我从不相信高手独自领悟神功那一套乱力怪神）  ",无,无,2016-04-06 20:40,微博 weibo.com,2,1,1
+DpvXvcPRw,"http://t.cn/RqUGABB  useful, emacs extensions, read the recent answers  ",无,无,2016-04-05 07:58,微博 weibo.com,0,0,0
+Dpht9BTqq,http://t.cn/RqLHKFW 很好的#emacs#初学者建议。 遗憾的是G+社区，在顶峰的时候精英荟萃。出了Snowden事件后很多人转向了reddit，再加上google自己做死，G+越改越慢，现在人气不如reddit了  ,无,无,2016-04-03 19:04,微博 weibo.com,1,3,1
+DnpYutA37,http://t.cn/RGDZeXd spacemacs-rocks s02  ,无,无,2016-03-22 13:03,微博手机版,3,0,0
+DmHrPoMUD,要复制spacmemacs的成功需要有独特之处，仅仅加功能，增加快捷键是没有用的  ,无,无,2016-03-17 19:42,微博 weibo.com,3,0,1
+DmpGTzGbA,"http://t.cn/RGBqrni 老外对我分享bash的技巧赞不绝口, ""至少节省了我48小时生命,一年的shell操作充满乐趣""  ",无,无,2016-03-15 22:29,微博手机版,4,5,2
+Dkq4v0T5j,我在 @知乎 回答了【学习emacs能很好的提高工作效率吗？】http://t.cn/RGj7A4Q（想看更多？下载知乎 App：知乎）  ,无,无,2016-03-02 19:47,知乎网,1,2,0
+DkgG8x2LU,"提高#emacs#水平，最重要的是反复听Richard Stallman的演讲(我基本每个礼拜听两到三遍),理解何为软件自由(gnu.org  ",无,无,2016-03-01 19:52,微博 weibo.com,7,3,6
+DjVhY9V0R,http://t.cn/RG0C9nC 我关于提高emacs按键效率的文章很受欢迎。如评论里提到的，vimgolf活emacsgolf属于竞技比赛，实用性不是第一考虑。我的方法则普遍适用于一般开发场景  ,无,无,2016-02-28 13:25,微博 weibo.com,3,1,0
+DjG299FYH,How to be extremely efficient in Emacs  虽然我反复强调快捷键在Emacs里根本不重要， 记几个常用的就行了。 我的“一年成为Emacs高手”教的是独孤九剑，见招破招。这是我7个月的按键统计数据，是否最优的自己看了。  ,无,无,2016-02-26 22:35,微博 weibo.com,1,2,3
+Djw2wdVPL,"GitHub - noctuid/general.el: More convenient key definitions in emacs 替代evil-leader, 卖点就是可以自定义多个leader key,所以不必在spacemacs和传统vim用户的快捷键间纠结了.我的主意,不过实现是个老外.  ",无,无,2016-02-25 21:08,微博手机版,3,1,0
+Djvq04US3,GitHub · Where software is built Emacs上用Gnus收Gmail，调查一下，截图有否帮助？  ,无,无,2016-02-25 19:33,微博 weibo.com,0,0,0
+Djct25yaP,Why I Use Helm and Why You Should Too • /r/emacs 得分最高的评论，完全干货，一开始还诧异又是哪位无名emacs高手，原来还是abo-abo  ,无,无,2016-02-23 19:18,微博 weibo.com,2,1,1
+DiwodlVGX,http://t.cn/RG6TWE4 #emacs#字符串替换。提问的人是个笨蛋。我的回答基于evil，abo-abo回答基于swiper，abo-abo是我尊敬的emacs高手。  ,无,无,2016-02-19 08:11,微博手机版,0,0,1
+DhwgizO0z,http://t.cn/RGcbPbT #magit (emacs 的git客户端）的维护者要“休息”一段时间  ,无,无,2016-02-12 18:01,微博 weibo.com,0,1,0
+DgUIXkOz3,"spacemacs快恐怖的6000 github star了。 http://t.cn/R7s4Ncq 最早的idea我发表在知乎， 只得到了可怜的0票 陈斌: 关于使用Emacs，各位有哪些提高效率的改键？ - 知乎 我也共享在G+上,Sylvain Benner把它发扬光大  ",无,无,2016-02-08 18:28,微博 weibo.com,4,3,2
+Dgk0Lia1y,我在 @知乎 回答了【文本编辑器中，你正在用谁？你最喜欢谁？最看好谁？原因？】http://t.cn/RbsDsI9（想看更多？下载知乎 App：知乎）  ,无,无,2016-02-04 21:00,知乎网,1,0,1
+DfX02AzOQ,看完3000篇emacs planet后的小结，文本编辑是大头，文件操作大家讨论dired以及各种project manager较多，我个人趋向于bash解决。 Oleh Krehel （abo-abo）太厉害，我需要把他所有博客精读。很多Emacs技巧用evil都能解决，所以双修实际省时间。  ,无,无,2016-02-02 10:25,微博 weibo.com,3,3,2
+DfyO7oaoW,把3609篇emacs planet的帖子都看了一遍。  ,无,无,2016-01-30 20:50,微博 weibo.com,11,0,3
+DeOt7dY2a,http://t.cn/RZkSDZX 很优秀的emacs中文拼音输入法  ,无,无,2016-01-25 22:52,微博 weibo.com,3,2,3
+De7jAdXxp,http://t.cn/RbHYeYE tip to improve Emacs startup time and make it more responsive.  ,无,无,2016-01-21 09:00,微博 weibo.com,3,0,0
+Ddzy2ysui,GitHub · Where software is built 我的Emacs Gnus教程更新了。坦率地说，应该是世界上最好的Gnus教程了  ,无,无,2016-01-17 19:02,微博 weibo.com,6,3,1
+DcFiSamBN,要点是，要有信仰。要坚信和Emacs相比你总是弱爆了。  ,无,无,2016-01-11 19:51,微博 weibo.com,6,3,1
+DcFhQ2oJd,很多人问题是，把在其他编辑器中低效的编辑习惯复制到Emacs来。http://t.cn/R4NQddj 见我（redguardtoo）的回答。  ,无,无,2016-01-11 19:48,微博 weibo.com,2,0,0
+D9jO4z7EV,"http://t.cn/R4UrTfS Noetic Nought 是我相当尊敬的印度emacs高手, org2blog的作者。  ",无,无,2015-12-20 19:36,微博 weibo.com,1,2,4
+D6JZBgKDV,abo-abo · GitHub abo-abo 是很厉害的emacs高手。他的ivy-mode几乎取代了helm  ,无,无,2015-12-03 20:45,微博 weibo.com,4,6,11
+D3Idx4uPP,"说实话我对bozhidarb的projectile不满意,windows上性能太差,而公司逼我用很烂的windows机器工作.我给bozidarb提过需求,被拒绝.那就不怪我了.不接受建议,就接受竞争.  ",无,无,2015-11-13 22:43,微博手机版,0,0,8
+D3Iab3lTG,"http://t.cn/RUjjo1L find-file-in-project 4.0发布,导致abo-abo和bozhidarb争吵.  ",无,无,2015-11-13 22:35,微博手机版,2,1,3
+D3F9T98N4,http://t.cn/RA5NTIM Syohei YOSHIDA 是众多日本emacs大牛中的一位。最近好像在狂战士状态，我的任何微小错误都会被他发pull request。  ,无,无,2015-11-13 14:56,微博 weibo.com,0,2,1
+D2brY75V6,"我给js2-mode提交的patch已合并, `M-x js2-print-json-path`  ",无,无,2015-11-03 21:28,微博手机版,1,0,0
+D21IE50Ko,magit的录像看了 如果没有mooz的percol我会用magit的  ,无,无,2015-11-02 20:42,手机微博触屏版,1,0,1
+D0SS24ruD,"percol bash trick, http://t.cn/RUyGHwL  ",无,无,2015-10-26 08:20,微博 weibo.com,2,0,0
+CEWtfl2UF,Sublime Forum • View topic - Goodbye Sublime Text sublime的用户对其失望了。4年前我就猜到了，一个牛人做的商业软件怎么可能对抗emacs这样有成熟社区的开源软件。 很多人转atom了。  ,无,无,2015-10-13 20:17,微博 weibo.com,0,2,4
+CBU3nbDUR,"redguardtoo/find-and-ctags · GitHub 我写的#emacs#下ctags插件,除了etags-select.el替代不了,其他都可以秒杀的.  ",无,无,2015-09-23 20:37,微博 weibo.com,1,4,5
+CBwXpFIW0,Which Emacs package developers make you fall in love? • /r/emacs emacs package developer 名单，现在活跃的几个大牛都包括了。   ,无,无,2015-09-21 09:49,微博手机版,3,1,0
+CxXR4rKEJ,http://t.cn/Ry7tO4h Create Emacs package repository locally.  ,无,无,2015-08-28 22:57,微博 weibo.com,0,1,0
+CxNAqjWsP,"找到切入点和站在巨人的肩膀上并不是针对emacs新手的建议, 比如太多人以各种变体在论坛和stackoverflow上问了evil和其他插件兼容的问题.除了我以外几乎就没人答对过. http://t.cn/Ryh2HD2 我能答对也很简单,因意识到问题技术难度太大,我直接咨询了evil开发者本人.  ",无,无,2015-08-27 20:48,微博 weibo.com,3,0,1
+CxNte7PJq,"redguardtoo/find-and-ctags · GitHub find-and-ctags 我emacs插件最有用的,和 evil-nerd-commenter是一个级别的. 但用的人不多,任何一个web前端项目1分钟设置好,代码自动完成(配合company-mode),代码导航都不需要设置了,通吃所有平台,横扫sublime text是没问题的.  ",无,无,2015-08-27 20:31,微博 weibo.com,2,0,0
+CxNpP70sZ,"学习emacs还是要找个适合个人的切入点.我已基于pucell的配置用了5年了,200多个插件我用的比较熟的也就是十几个而已,不知道一个插件的名字并不妨碍我使用它的功能.常用快捷我能记住的也就是20个而已.  ",无,无,2015-08-27 20:22,微博 weibo.com,4,0,3
+Cx0BTvLdJ,http://t.cn/RLFhY2M 我的常用软件清单  ,无,无,2015-08-22 16:07,微博 weibo.com,2,1,1
+CwT1yhSQe,"thunderbird自带了chat功能,结合其lightning日历插件,非常好用.而且简单配置后占用硬盘空间也很少.  ",无,无,2015-08-21 20:49,微博 weibo.com,2,0,2
+Cvrt6uBD2,"http://t.cn/RLuX1df use yasnippets in c-mode, an advanced tutorial  ",无,无,2015-08-12 08:49,微博 weibo.com,1,0,0
+CvmxXEfUs,"Linux下一些软全实际上都是port版的,比如nodejs,firefox等等,可以自动升级,也不需要root权限,很方便.  ",无,无,2015-08-11 20:17,微博 weibo.com,0,1,6
+CuUL8jYjg,http://t.cn/RL8jkig 选择附近的文件名的emacs evil text object  ,无,无,2015-08-08 21:33,微博 weibo.com,2,0,0
+CuqBWntPV,"GitHub - ch11ng/exwm: Emacs X Window Manager 基于emacs的平铺桌面,国人作品,让reddit上的老外彻底拜服  ",无,无,2015-08-05 16:48,微博 weibo.com,0,4,7
+CsKsogvDz,"我在 @知乎 回答了【Lisp的精髓是什么？】：我有Emacs Lisp经验,其他主流的语言都做过商业开发,但不是语言专家(比如Macro能理解,但从未使用过),所以只能从实用角度来谈谈. 就Emacs Lisp来说,我觉得比较独特的特性是autoload和… http://t.cn/RLaWz2e  ",无,无,2015-07-25 15:39,知乎网,0,1,10
+Csg5rB36S,"avy可以取代ace-jump-mode了, http://t.cn/RLJYb6y  ",无,无,2015-07-22 10:20,微博 weibo.com,0,1,0
+CrgRtBCqr,"有人纠结于vim/emacs先学哪个的问题? 我的回答是怎样都可以,双修也不过是vim一天,然后emacs+evil一个礼拜, 就可以基本上手有生产力了. 很多人有疑虑是因为把学习曲线想得太高, 搜一下我的""一年成为emacs高手""  ",无,无,2015-07-15 22:28,微博 weibo.com,2,0,0
+Co0qQ2B5U,"evil-matchit v2.0 发布, vim的matchit的#Emacs#版, http://t.cn/zRt2TAr  ",无,无,2015-06-24 11:07,微博 weibo.com,0,1,8
+CmaIhkHfN,"http://t.cn/R2l6Mhp copy text/link from firefox and automatically format them into org-mode, must have for #Emacs# users  ",无,无,2015-06-12 09:37,微博 weibo.com,1,0,0
+ClhPG67VY,"我在 @知乎 回答了【实现一款比较好的输入法需要用到哪些知识？】：一般找个现成的例子改改就行了,我15年前设计过FlashIME,虽然是英文输入法,和中文输入法差不多. 我记得的技术难点: - 读取词库, 按最简单的方法来,使用memory map file… http://t.cn/R29TyfM  ",无,无,2015-06-06 13:54,知乎网,1,0,0
+CkJ3v8AKS,"browse-kill-ring很不错,我的配置 http://t.cn/R2X5rgt  ",无,无,2015-06-02 21:22,微博 weibo.com,0,0,0
+CjXLxshmP,"很多人问web前端#emacs#强在哪里? 我的配置就是前端开放的顶级配置啊, 横扫webstorm和sublime是没问题的. http://t.cn/zYMMaBD 重要的插件有evil, find-and-ctags , company, git-gutter, git-messenger, helm, ido, find-file-in-project  ",无,无,2015-05-28 20:59,微博 weibo.com,1,4,2
+Cj9f1rLA7,"http://t.cn/R2GcFOL , define-word, #Emacs# 查单词的插件, 另外abo-abo很厉害值得关注.  ",无,无,2015-05-23 12:21,微博 weibo.com,0,4,6
+ChZFn41gW,"今天问了下infosys的工资,在印度资深的程序员也就1000澳元一个月,到这里就是6000澳元.这也算是印度发展缓慢的例证吧.  ",无,无,2015-05-15 22:09,微博 weibo.com,0,0,1
+ChnpRrWVx,"今天为了调试一个bug试了一下一个新手的setup,感想基本就是,还是照我""一年成为emacs高手""一文抄高手的配置,大量测试和长时间积累真的是逃不了了,和天赋没有关系.  ",无,无,2015-05-11 20:46,微博 weibo.com,1,0,0
+ChjW6tWPJ,我在 @知乎 回答了【emacs怎么修改org导出html的格式?】：不用改，直接上css，都可以override。 如果你想完美，wrap一下org的函数，指定输出到一个缓冲区里，直接hack最终输出的html 参考org2nikola的代码，idea是源自org2blog，并非我原创。 http://t.cn/RAklEvC  ,无,无,2015-05-11 11:54,知乎网,1,0,0
+CgVeQtN0R,"emacs加速1000%, 不光是启动速度奥,是所有都加速. http://t.cn/RAe4Ax9  ",无,无,2015-05-08 21:02,微博 weibo.com,1,7,4
+CgM9MrwTU,"今天中招,一个emacs插件cake乱改yasnippet变量,导致我yasnippet残废,花了好多时间才找到原因.  ",无,无,2015-05-07 21:55,微博 weibo.com,0,0,2
+CgsP2i9Id,"Infosys的印度程序员综合素质不错,不论男女谈吐能力好奇心都大大高于大陆顶尖名校同龄人.唯一的问题是受限于公司项目原因眼界比较窄,技术水平上升空间有限.我觉得是蛮可惜的.  ",无,无,2015-05-05 20:41,微博 weibo.com,1,0,0
+CfXowtL7N,github 推荐的workflow http://t.cn/Rvp8qWI  ,无,无,2015-05-02 12:41,微博 weibo.com,0,2,1
+CfQqilpRm,"git flow这种垃圾早死早超生,如果是web开发就直接用github的flow (http://t.cn/RAmkcYV , 否则就直接看git自带的workflow (`git help workflows`)  ",无,无,2015-05-01 18:56,微博 weibo.com,0,1,4
+CeDW9lkDo,"看了facebook的React的例子,JSX在java代码中内嵌html代码,那么内嵌的HTML代码就无法做语法检查了,这样不是降低开发效率了吗?  ",无,无,2015-04-23 21:19,微博 weibo.com,0,0,0
+CeuLu6yae,"http://t.cn/RAjaJ2H reddit上讨论删掉的#emacs#插件,我比较吃惊地是有好多人删掉了helm,虽然我对helm很满意.  ",无,无,2015-04-22 21:58,微博 weibo.com,1,0,2
+Ce7jVpaJV,我在 @知乎 回答了【如何评价新编辑器Spacemacs？】：我大概有资格谈谈这个问题，因为Sylvain Benner是受了我的激励和启发才开发了spacemacs： - spacemacs在我心目中大概是top2的地位，和steve purcell的设置不相上下… http://t.cn/RAOiavR  ,无,无,2015-04-20 10:16,知乎网,3,4,0
+CdIpf2isI,"http://t.cn/RA9W5f0 find-file-in-project 3.5 released, 如果你的project不是几十万个文件的话, 速度应该可以  ",无,无,2015-04-17 18:51,微博 weibo.com,0,3,2
+CdqcK7ZK5,"http://t.cn/RAM1vAm 十年git回顾, 下面还有其他git用户的访谈,都很有料,除了那个Angie Byron  ",无,无,2015-04-15 20:31,微博 weibo.com,0,1,0
+Cdpp6xZ7U,"http://t.cn/RA9W5f0 类似与projectile, 在项目中找文件.现在我接手了,完美支持Windows  ",无,无,2015-04-15 18:28,微博 weibo.com,1,1,0
+CdhCQjZcq,"http://t.cn/RAoBLUA swiper是一个高品质的#Emacs#插件, 还提供了类似helm的ivy福利库, 比helm快,我立刻用在我的find-file-in-project里.  ",无,无,2015-04-14 22:40,微博 weibo.com,0,1,0
+Cdhu8qDWS,"twitter上看来的""life is like npm install""  ",无,无,2015-04-14 22:19,微博 weibo.com,1,0,0
+﻿Cd8geyjiK,"比如el-get,git-submodule当然很酷很好,如果你追求#Emacs#稳定性的话需要慎重考虑一下, 至少了解一下purcell怎么做的http://t.cn/RAo8mLm  ",无,无,2015-04-13 22:50,微博 weibo.com,0,1,0
+Cd8ertkCO,"http://t.cn/RAo8NQB 我很推崇Steve Purcell这位牛人的,水平高,态度好,你能遇到的炕他都主动踩过了. 比github星星可能是top3,实际上绝对是top1,比如著名的prelude现在还在踩他三年前踩的坑.  ",无,无,2015-04-13 22:45,微博 weibo.com,2,5,2
+CcLBHmF5N,"http://t.cn/RPCqzFQ 一年成为emacs高手更新了,讨论了vim用户如何叛教,罗列了几个最流行的配置.我本人还是最喜爱purcell的配置,这是毫无疑问的.  ",无,无,2015-04-11 13:10,微博 weibo.com,2,2,3
+CcFJ538sJ,"http://t.cn/RPCqzFQ 一年成为Emacs高手1001颗星了.成为#emacs#高手不需要背快捷键,不用学lisp,学习曲线也很平滑,想通了那么可以读我的文章.很多人是先入为主,给自己人为地设置心理障碍  ",无,无,2015-04-10 22:11,微博 weibo.com,3,7,5
+CcExhlwd3,"http://t.cn/RAXt4D4 讨论了#emacs# evil快捷键如何和其他minor-mode兼容的问题,evil中的屠龙术,这个你要会了,#emacs#社区你就是被仰望的对象了. 来自Frank Fischer, evil的开发者,质量不会差的.  ",无,无,2015-04-10 19:09,微博 weibo.com,1,2,0
+CcAlVxkt4,"#emacs# 插件evil 1.1.0发布了. 其修复的最重要的bug: emacs24.4 windows如果装了evil, ALT键就失去作用了 ;),强烈建议所有人都升级.  ",无,无,2015-04-10 08:30,微博 weibo.com,3,1,2
+CcmBGyA85,"stackoverflow做调查说印度女程序员多,这是真的,我现在和infosys的team合作,从来没有看到那么多的女程序员,论智力和素质在世界范围内也是优秀的.不过原因可能不是女性平等,而是上层女性出路窄. 具体编程水平男女都一样,感觉眼界较窄,质量60分,效率一般般.  ",无,无,2015-04-08 21:31,微博 weibo.com,1,0,0
+Ccmw555XO,http://t.cn/RAizktM 在emacs中直接进行代码搜索  ,无,无,2015-04-08 21:17,微博 weibo.com,0,1,0
+CcdiIAp43,"http://t.cn/RAx3vXN dictionary.el的配置,纯elisp的客户端,开箱即用.  ",无,无,2015-04-07 21:49,微博 weibo.com,0,1,0
+CbGVZD0fz,"我在 @知乎 回答了【cmd打命令的时候，有时参数是个很长的路径，输入非常麻烦，怎样解决？】：How to do the file navigation efficiently 模糊搜索,获得文件全路径 在~/.bashrc里添加: export HIST… http://t.cn/RAVF7A1  ",无,无,2015-04-04 11:25,知乎网,0,1,0
+Cbss5xOBn,http://t.cn/RAcGVbG 在emacs中使用ctags代码导航的完整方案  ,无,无,2015-04-02 22:33,微博 weibo.com,1,3,1
+CbgqmuTnJ,"http://t.cn/RA5NTIM syohex 日本emacs高手,他的git-messenger和git-gutter插件都是精品,而且还不断加新功能,现在支持subversion, hg, bzr等等.  ",无,无,2015-04-01 15:56,微博 weibo.com,1,0,0
+Cb9sLCC5n,"emacs中编译el文件只能加快那个文件的执行速度,不会加快emacs的启动速度.全世界人都一样,大家文章都是抄来抄去,没有真正自己亲手测试过.  ",无,无,2015-03-31 22:13,微博 weibo.com,1,0,1
+Cb9qX2VcU,"如果要优化emacs启动速度,唯一可靠的方法就是疯狂的实用autoload, featurep也有用. 还有一种技术就是设定timer,延迟加载模块. compile成elc基本没用,就不要在compile上浪费时间了.  ",无,无,2015-03-31 22:08,微博 weibo.com,1,0,0
+Cb9ns94Mo,"http://t.cn/RAql8jr 觉得projectile太复杂,可以用我打过补丁的find-file-in-project,需要gnu find,在window版本的Emacs中也能工作,完全可配置.  ",无,无,2015-03-31 22:00,微博 weibo.com,0,0,0
+Cay3ae5mo,http://t.cn/RAUL1fU 在emacs中自动完成英文单词.  ,无,无,2015-03-27 22:58,微博 weibo.com,0,0,0
+Cay06eVmc,http://t.cn/RAUL1fU 自动完成英文单词.  ,无,无,2015-03-27 22:51,微博 weibo.com,0,0,0
+C9iR4EBqU,http://t.cn/RAPgepL 在线生成emacs theme  ,无,无,2015-03-19 18:27,微博 weibo.com,0,3,0
+C9hYfA7iQ,"我在 @知乎 回答了【你身边的高智商妹子都是怎么样的？】：女学霸别的地方没见过，上海的我都见识过了，智商当然没问题，还是靠家庭背景和早期教育基础打的扎实。中上的智力都可以做超级学霸，诀窍就是”取法之上，得乎其中“，如果你""取法上上"",并且取得早，当然可以碾压… http://t.cn/RAPnRk7  ",无,无,2015-03-19 16:12,知乎网,1,0,2
+C90YLsWeR,"http://t.cn/8kECQSY 一年成为Emacs高手更新, 补充了vim转evil的分析.  ",无,无,2015-03-17 20:56,微博 weibo.com,4,0,0
+C8ZBktVLw,http://t.cn/Rwksq93 越南emacs 大牛tuhdo关于helm设置的帖子  ,无,无,2015-03-17 17:26,微博 weibo.com,2,2,0
+C8SJQ9eaL,"当年做java的时候因为项目大且历史久,我们都用纯命令行加makefile的,IDE一直用微软系的,所以我一直不理解为什么大家都说intelliJ好,我用过了也就那样.等我深入用了eclipse才明白,*eclipse实在是太烂了*!15年来我从未用过这么烂的IDE,和eclipse比起来intelliJ就是天堂了.  ",无,无,2015-03-16 23:58,微博 weibo.com,1,3,4
+C8yQpCnz3,"我在 @知乎 回答了【是什么原因导致国内计算机教育不教 vim/emacs 这类编辑器的使用？】：- 一般Linux教程里会简单介绍Emacs/Vim的入门介绍,大概一个小时内容.我估计大学如果有Linux课程,应该会涵盖这部分内容,不能指望更多了 - 国外很多人接触… http://t.cn/RwekBDl  ",无,无,2015-03-14 21:19,知乎网,1,1,5
+C8a8rjL9b,"git-messenger 已能支持subversion,还加了很多功能. http://t.cn/zHnoE51  ",无,无,2015-03-12 06:25,微博手机版,1,0,0
+C87xezkr8,"redguardtoo/find-and-ctags · GitHub find-and-ctags, #emacs#下代码导航的的终极方案,通吃所有语言(C++和Java你要用global)  ",无,无,2015-03-11 23:47,微博手机版,2,2,1
+C87sT5WVb,"http://t.cn/RwrEkyo evil-mark-replace 也许是最强大的重构代码的工具, 用了#emacs#和#evil#  ",无,无,2015-03-11 23:37,微博手机版,1,0,0
+C86JccTtS,#emacs# restclient-mode http://t.cn/RwrYEIF  ,无,无,2015-03-11 21:44,微博 weibo.com,0,0,0
+C80MHBXtk,我在 @知乎 回答了【为何每次 git commit 之前都需要 add 一次才能 commit ？】：@yskin 解释的很清楚了。我列举一下svn是远远比不上的cache相关功能： 1. `git add -p`同文件中添加特定hunk到cache中去 2. `git diff… http://t.cn/RwBdA7A  ,无,无,2015-03-11 06:36,知乎网,0,1,0
+C7SW488oY,我在 @知乎 回答了【在使用Git进行协作开发时，主要的困难有哪些（如果有的话）？】：没什麽困难的，就把它当成一个更简单更强大的svn先用起来再说，我有一个唯一稳定的public master branch，每个人提交到这个唯一的branch的commit是稳… http://t.cn/RwBhhoz  ,无,无,2015-03-10 10:37,知乎网,0,0,0
+C7SpAD4Vg,我在 @知乎 回答了【atom编辑器运行起来为什么这么慢？】：架构错误。 正确的架构是底层用C/C++，内嵌一门轻量级语言如lua或者scheme。 坦率地说这个编辑器没什麽前途。架构师连同类软件的基本技术架构都没有做过调查，态度是很不严肃的。 主流的编辑器… http://t.cn/Rw1DmOd  ,无,无,2015-03-10 09:17,知乎网,0,1,0
+C7NXreVYh,"我在 @知乎 回答了【GitHub 或者其他的开源平台中是否有一些适合初学者的 C++ 项目？】：我有十年以上一线C++经验,所以就直接了当了. - 大多数项目不值得看,都是一些工程代码,有些写得很糟糕,有些是workaround, 初学者没有经验,会误把糟粕当精… http://t.cn/Rw10b8V  ",无,无,2015-03-09 21:57,知乎网,0,4,2
+C72S05FFu,我在 @知乎 回答了【org-mode导出HTML时，内嵌的JavaScript代码是什么意思？】：可能是给代码渲染加点效果.此类特性一律忽略或者关闭. 因为org-mode的开发者不是专业前端程序员. http://t.cn/RwRX7fQ  ,无,无,2015-03-04 22:05,知乎网,0,0,0
+C72Qk5EAN,"我在 @知乎 回答了【现在Sams Teach Yourself Emacs in 24 Hours还有参考价值吗？】：如读过官方教程,可不看,没有什么错误,就是太基本了.而且看了他人书评,出版商对于书本所附代码没有长期维护,不是很负责任. github和emacswiki上有很多更高质量的材料. http://t.cn/RwR6lbz  ",无,无,2015-03-04 22:00,知乎网,1,0,0
+C6Ns8cCcZ,"我在 @知乎 回答了【为什么有很多人不用IDE还大喊方便？】：对某些初学者用IDE可能更方便点.条条大路通罗马.我是精通IDE后,转向vim,最后又转向Emacs,现在水平都很高. 理想情况下是短时间内精通所有工具,很简单的,一年时间足够了.关键是自我定位要高,向世界级高手看齐. http://t.cn/RwHr33W  ",无,无,2015-03-03 06:50,知乎网,0,0,0
+C6wRut4ag,"对于emacs内使用easygpg有问题的,最好的办法是下载gnupg 1.4版本, 然后""./configure;make;make install""  ",无,无,2015-03-01 12:35,微博 weibo.com,1,0,0
+C5iD60nRj,"http://t.cn/RwSAHQy 提高emacs性能的办法, 最差也可以用Linux ram disk.  ",无,无,2015-02-21 10:31,微博 weibo.com,2,0,0
+C5dANxZ6y,http://t.cn/RvCLkOK 快速找文件全路径并拷贝  ,无,无,2015-02-20 21:42,微博 weibo.com,0,0,0
+C4UIUjDmB,http://t.cn/Rwivkjl intelligent flyspell in org-mode  ,无,无,2015-02-18 21:40,微博 weibo.com,0,0,0
+C4sFtsrO1,"我受中国教育和工程师训练,谈吐较谨慎,在澳洲会给当地人没自信的错觉,实际我自信心爆棚,为了避免沟通不畅,现在开口就是""我100%确定"",写邮件时还是有用过于弱势的词的习惯,所以在emacs中装了artbollocks-mode,提醒我不要用些很弱势的词.  ",无,无,2015-02-15 22:14,微博 weibo.com,9,6,2
+C4hcXv3Q7,"http://t.cn/RwtF0z6 学到了快速选择html tag的技巧,需要最新版expand-region  ",无,无,2015-02-14 17:04,微博 weibo.com,0,1,0
+C2VYZtRmh,"http://t.cn/Rwh3Zqy 九年前我为Kodak写得perl程序,现在看当时perl水平很高呢.为商业软件写代码最没意思,写得再好也埋没了.  ",无,无,2015-02-05 21:11,微博 weibo.com,0,0,0
+C2VJY7Ntm,"我的emacs配置自定义快捷键都用evil-leader配置,和默认快捷键不会冲突的,详情见我""一年成为Emacs高手""一文,很多人还是想当然,认为我一定是快捷键背的很熟.  ",无,无,2015-02-05 20:34,微博 weibo.com,1,2,3
+C2C65fJBW,http://t.cn/RZs2Rvk 越南的Emacs高手  ,无,无,2015-02-03 18:34,微博 weibo.com,1,2,0
+C2C5sxMw3,http://t.cn/RZs2l4L org-drill Noetic Nought是个印度Emacs顶尖高手.  ,无,无,2015-02-03 18:32,微博 weibo.com,0,3,0
+C2ucTCydX,"Martin Grenfell 大概算vim界传奇了, http://t.cn/RZkuG9I , 在twitter上跟他的人不多,很奇怪.  ",无,无,2015-02-02 22:29,微博 weibo.com,0,0,0
+C29JJ0Huv,http://t.cn/RZgf4jG 从wordpress迁移到静态博客的记录。  ,无,无,2015-01-31 18:22,微博 weibo.com,0,0,0
+C1zhb3VNM,"输入拼音首字母，即可定位到对应的中文目录/文件 Emacs版本 http://t.cn/RZmY2AF 不比total commander 差. 支持所有平台,纯lisp代码.  ",无,无,2015-01-27 21:33,微博 weibo.com,0,2,2
+C1o3U4ogJ,"我在 @知乎 回答了【关于 Git 文档与使用，大家有什么经验？】：progit够了,基础几章看完,后面几章捡自己有兴趣的看.比如设git 远程server我就用不到. 兴趣是第一位的,我是需要用git管理我的所有配置和个人资料,所以开始用git的. Windo… http://t.cn/RZEW2VV  ",无,无,2015-01-26 17:00,知乎网,1,1,0
+C0X2wBBYK,"http://t.cn/RZHQUIY 0.8.9 发布了, emacs下强大的自动完成插件,最少配置,支持最多的语言.  ",无,无,2015-01-23 20:12,微博 weibo.com,2,1,1
+C0WFW0tPJ,"http://t.cn/RZHjxGC steve purcell 的采访录像, Emacs界的传奇. 读过我的""一年成为Emacs高手""一文的就知道他是谁.  ",无,无,2015-01-23 19:17,微博 weibo.com,1,3,4
+C0NYu7Ow1,GitHub · Where software is built Gnus的最新教程，测试了window下的Emacs，Gnus收邮件没问题。  ,无,无,2015-01-22 21:08,微博 weibo.com,0,1,0
+C0uUboE9j,"http://t.cn/RZlJ3Zn 我喜爱的evil插件evil-escape已升到了2.0,这个版本修了很多bug. 很有用,特别在使用company-mode时候.  ",无,无,2015-01-20 20:35,微博 weibo.com,1,1,0
+BFygDbbXd,"nvidia卡在Linux下还是用开源驱动比较好,一旦有坑就很惨(比如我).  ",无,无,2015-01-14 21:46,微博 weibo.com,3,1,3
+BFydIkNPm,http://t.cn/RZKGMnq Russell Fei 用Emacs一周年后的感悟.  ,无,无,2015-01-14 21:39,微博 weibo.com,3,3,5
+BEsUkD45V,"我在 @知乎 回答了【可以用org-mode做什么有趣的事？】：像你这样有前途的小伙子为什么不vim/emacs双修,用emacs+evil吧, 参考我的, mastering-emacs-in-one-year-guide/guide-zh.org at mast… http://t.cn/RZfF9IA  ",无,无,2015-01-07 18:17,知乎网,0,2,1
+BEmhQcRo7,"终于让google-prettify见鬼去了,大概是我用过的最差的js库了.改用highlight.js, 强上千倍, 新版博客http://t.cn/8sjnsNo , 以后看到任何项目带有google前缀,我都要三思一下,以吃亏上当好几次了.  ",无,无,2015-01-07 01:26,微博 weibo.com,1,0,0
+BEjAUkjrL,"我在 @知乎 回答了【如何让电脑有种很高端的感觉？】： 我用Gentoo Linux, 在window上和Mac上我用虚拟机,所以完全一样 http://t.cn/RZVYrzA  ",无,无,2015-01-06 18:35,知乎网,0,0,7
+BE2Ttuvbr,"我在 @知乎 回答了【如何正确的使用org-mode？】：我一般不当作短期todo,用google calender够好了. 作为个人技术类笔记心得,长期的project tracker,总之就是内容稍长,不是用完即丢的东西,则是最佳的. http://t.cn/RZtptby  ",无,无,2015-01-05 00:04,知乎网,0,1,0
+BE2RT55Px,我在 @知乎 回答了【emacs如何设置可以得到sublime一样的流畅感?】：在shell里`TERM=xterm-256color emacs -nw` http://t.cn/RZtp7aL  ,无,无,2015-01-05 00:00,知乎网,2,2,0
+BE2No9QQB,"我在 @知乎 回答了【过早接触哲学真的不好吗？】：我猜基本上就是婉转地说""不同意"". http://t.cn/RZtNoxP  ",无,无,2015-01-04 23:49,知乎网,0,0,0
+BDZg2pFdK,"google-prettify的代码质量实在是不敢恭维,文档也很差,浪费了我3到4天的时间, 最大的问题在其run_prettify.js硬编码google code的域名.而且好像不打算维护下去了.  ",无,无,2015-01-04 14:49,微博 weibo.com,1,0,0
+BDQnF1fYy,"对自己有信心的,可以直接上来vim/emacs双修, 我建议是vimtutor开始,然后就直奔emas+evil而去了,不过有心人已提供http://t.cn/RZqF1eF (evil-tutor),直接在emacs完成vim修炼  ",无,无,2015-01-03 16:13,微博 weibo.com,2,5,3
+BDmoN7J4x,"163的cygwin源目录设置有点问题,导致apt-cyg找不到包,换个日本的源就可以了. apt-cyg类似apt-get,用命令行管理安装包. http://t.cn/RZy1dwd  ",无,无,2014-12-31 11:53,微博 weibo.com,0,1,0
+BBSenkG4B,回国的第一件事是升级goagent.  ,无,无,2014-12-21 17:15,微博 weibo.com,1,0,1
+BAC4V8Bgx,"emacs新手入门最佳方法是找到自己需要解决的实际问题,把#最重要的#五个具体需求#写下来#,然后一条条解决, @views63 的例子就很好http://t.cn/RzQvYgJ ,可以参考一下  ",无,无,2014-12-13 10:17,微博 weibo.com,3,1,0
+BAAS75LvO,"http://t.cn/zOPVYPA 我在#一年成为emacs高手#推荐的配置(包括本人配置在内)都是经过多年考验的,坚持一个配置用下去就可以了,不用顾虑太多.  ",无,无,2014-12-13 07:13,微博 weibo.com,1,1,0
+BAAPD7UeP,"据我观察#emacs#初学者一般都从org-mode入门,因为人人都需要一个记事本. 如果你空余时间够多,想vim和emacs双修,应先学vim,然后emacs evil. emacs快捷键不用学.  ",无,无,2014-12-13 07:07,微博 weibo.com,0,0,1
+BA9ATq98E,"cpputils-cmake 0.5.0 http://t.cn/zjqDiXO 有截图, 让C++程序员用Emacs时体验和IDE一样.  ",无,无,2014-12-10 09:46,微博 weibo.com,0,1,0
+BA0zEoTnY,"http://t.cn/RzOhiwq 用#ctags#通吃所有语言,快速配置,且可以和company-mode结合,这些功能IDE就比不上了. #emacs#的特点就是平台化,几个牛的插件一结合,其功能就恐怖的难以想象了.  ",无,无,2014-12-09 10:48,微博 weibo.com,0,0,0
+BzVx9zD6f,"最优秀开发者,完美架构.tdd以及其他仪式严格履行,并不能保证质量.大量用户真实环境反复测试才是关键.比如js2-mode开发者,我帮他擦屁股的补丁,反复挑剔我代码风格,最终我明白他在自我陶醉,根本没意识到问题严重性,那就上截屏直接打脸http://t.cn/Rz0fe1o 打完就客气多了  ",无,无,2014-12-08 21:58,微博 weibo.com,2,0,0
+BzQQwsIKc,我在gitcafe的博客镜像 http://t.cn/RzpfG2U 主要都是#emacs# 和#bash#  ,无,无,2014-12-08 10:02,微博 weibo.com,0,1,2
+BzIf95O7c,"前十大工业国家, 以我的博客访问地衡量, 美国, 中国, 德国, 法国, 英国, 日本, 加拿大, 瑞典, 俄国, 西班牙, 中美远远超过德国,而德国又几乎是第四名的一倍. 我博客是纯hardcore的#emacs#, 中国的指标被扭曲了,因我的网站被和谐,否则可能远超美国.  ",无,无,2014-12-07 12:08,微博 weibo.com,1,1,2
+BzBaU0oe4,"http://t.cn/zYMMaBD 稳定版的emacs配置v1.2 , 开箱即用, git也不需要.  ",无,无,2014-12-06 18:09,微博 weibo.com,3,3,1
+BzrN926Ik,http://t.cn/RzKGgTS 在#emacs#的子窗口间跳转的最佳方案.  ,无,无,2014-12-05 18:15,微博 weibo.com,1,2,1
+BzrDc43Vk,http://t.cn/RzK4kDG erlang movie  ,无,无,2014-12-05 17:51,微博 weibo.com,0,0,0
+BzgrgFWko,"http://t.cn/8k0wNKk emacs中的sudo open, defadvice用得很巧妙.  ",无,无,2014-12-04 13:21,微博 weibo.com,0,0,0
+Bz9I29AJm,"""一年""一文这次补充的一个重要观点,就是给自己需要解决的问题列个主次.比如新手要避免在中文字体上花太多时间.我在terminal下用Emacs,类似问题都避免了.当然你熟了爱怎么玩都可以.  ",无,无,2014-12-03 20:13,微博 weibo.com,0,1,5
+Bz9GFkLQk,"看我的博客文章,可以从2013年,2014年的开始看,不断维护中,2012年的也不错,深度不及以后的文章.  ",无,无,2014-12-03 20:10,微博 weibo.com,0,0,0
+Bz9FMEqOL,"一年成为#emacs#高手更新至20141202版, http://t.cn/zOPVYPA , 如果更具体的知识,请参考我博客 http://t.cn/zYGosSO上关于emacs和bash的文章. 另外gist上有我的常用软件的配置.  ",无,无,2014-12-03 20:08,微博 weibo.com,1,0,1
+ByYfyxhSx,"emacs写js的建议, js-mode或js2-mode两选一,js2-mode是lparser,自带语法检查,但慢,耗内存. js-mode需要jshint才能做检查. 另外一个重要区别是js2-mode的imenu更多上下文信息,但不完整.需要我的补丁, http://t.cn/RzJgz3C 同时支持两者  ",无,无,2014-12-02 15:03,微博 weibo.com,0,0,0
+ByNwxnaSY,"http://t.cn/RzMDrbC 又学到两招, longline-mode和writeroom-mode, 写作专用.  ",无,无,2014-12-01 11:45,微博 weibo.com,0,0,0
+ByMpypHUf,"最近有时间,正在读erlang,各位同学有什么好的资料,社区推荐一下?因为elisp写太多了,所以看起erlang特别有亲切感.  ",无,无,2014-12-01 08:55,微博 weibo.com,0,0,2
+ByyzOprU4,"如果你用#emacs#写C++代码, 我建议用company-mode, flycheck or flymake, cpputils-cmake, 其他都是非必需品.  ",无,无,2014-11-29 21:42,微博 weibo.com,0,11,8
+ByxCwutdM,"有没有人用过erlang的chicago boss framework, 对single sign on 支持怎么样?  ",无,无,2014-11-29 19:15,微博 weibo.com,0,0,0
+Byxzsu0CO,"http://t.cn/RzfKrtN ,一个资深的emacs用户  ",无,无,2014-11-29 19:08,微博 weibo.com,0,1,1
+Byu6EESPj,"很多人认为可以用Lisp拓展和Emacs特有的按键是所谓的Emacs之魂,实际上并非如此.Emacs的关键是自由,通往罗马的大路好多条,.学lisp和背快捷键对大多数人未必是最有效的途径.还是找个高手的配置先用起来.当然你真得由衷*喜爱*lisp,当然可以从Lisp开始.  ",无,无,2014-11-29 10:19,微博 weibo.com,1,1,1
+BynTs8H5Y,"本次测试结束后, 我会给emacs.d加stable的tag,这样其他人pull我的配置可以直接使用稳定版,造福大多数人.  ",无,无,2014-11-28 18:30,微博 weibo.com,3,0,1
+BynSN49ys,"新的一轮emacs.d的回归测试开始了, http://t.cn/RhoHfDb  ",无,无,2014-11-28 18:28,微博 weibo.com,0,0,0
+BxRtHi1uS,下一轮的emacs配置 http://t.cn/zYMMaBD 本周末开始， http://t.cn/RhoHfDb， feel free to join or quit any time  ,无,无,2014-11-25 07:58,微博手机版,0,1,1
+BxRk50d0Q,"evil-escape, a evil plugin, is good. press 'fd' to escape from any mode.  ",无,无,2014-11-25 07:35,微博手机版,0,4,9
+BxDFa1buJ,http://t.cn/RzUALz4 #emacs#如何加快我调试代码速度.  ,无,无,2014-11-23 20:48,微博 weibo.com,1,1,0
+Bxy3zcMJX,"#emacs#中的ace-jump-mode不错,在大量代码中跳转时很有用.  ",无,无,2014-11-23 06:32,微博 weibo.com,2,0,1
+BxblLzhfp,"在改一个同事做的静态网页的css,感觉特别慢,于是把所有外部资源访问(facebook,youtube),全用adblock禁掉了.两天后我看统计数据,16000次youtube访问被block了.  ",无,无,2014-11-20 20:43,微博 weibo.com,0,1,0
+BwSad6os5,"http://t.cn/R7OfZAp 前面关于#emacs#如何比#sublime#好的长篇大论可跳过,看截图,然后跳到最后,将配置拷到~/.emacs中就行了  ",无,无,2014-11-18 19:53,微博 weibo.com,0,2,1
+BwqgVmb6X,"为了保持头脑开放,我经常会检查一下#sublime#的进展, http://t.cn/R7snxzW 和#emacs#的差距实在太大了. 可能不是最好的配置.  ",无,无,2014-11-15 20:52,微博 weibo.com,1,1,6
+BwpDwwf5h,"成功讲发布博客的速度压缩到2秒,一个命令. http://t.cn/R7sjOKQ 比以前的wordpress好太多了.  ",无,无,2014-11-15 19:15,微博 weibo.com,0,1,0
+BwnjhaMxm,"http://t.cn/R7s4Ncq , 一个emacs+evil的配置, 优点是首页的教程写得非常详细. 最高端的仍旧是steve purcell的配置 http://t.cn/a3mQm2 , 不过现在Emacs社区是百花齐放, 有各种高富帅的配置可选. 我个人意见,现在不用evil的配置都有点过时了.  ",无,无,2014-11-15 13:20,微博 weibo.com,1,4,2
+Bw71DfNqK,有人用过http://t.cn/R7DNE2r 吗? 怎么样? byobu  ,无,无,2014-11-13 19:53,微博 weibo.com,0,0,4
+BvEA6FmSc,"http://t.cn/R7BwI9b 很不错的emacs教程,开始几章很简单,后面几章以C开发为案例教学,有一定深度.  ",无,无,2014-11-10 19:28,微博 weibo.com,3,7,0
+BvvljhxC3,"我建议#emacs# 新手还是用v24.3,经过一年考验,很稳定的. v24.4总是有点小毛病,等半年再试更好.  ",无,无,2014-11-09 19:57,微博 weibo.com,1,1,2
+Bvi8lo66d,"我在 @知乎 回答了【Linux 各个发行版与 OS X 相比哪个写代码更舒服？为什么？】：首先申明,我极其精通Linux和window下平台开发,OS X也用了4年了,目前主要做web开发,所以讨论的角度和别人有所不同. 比如很多人说spot light(OS X… http://t.cn/R7nmkPI  ",无,无,2014-11-08 10:19,知乎网,0,12,2
+Bv2ZOcxop,"千辛万苦被Guillaume Papin和Dmitry Gutov批的满头是包, company-cmake的更新版终于进入master branch了.http://t.cn/R7RwEaZ 还是要多做开源项目,在澳村写那些商业项目我的代码质量在不断下降.  ",无,无,2014-11-06 19:47,微博 weibo.com,2,0,0
+BuKLwglud,"http://t.cn/zOPVYPA 一年成为#emacs#高手 更新了, 如何读邮件和网页浏览  ",无,无,2014-11-04 21:22,微博手机版,2,2,1
+BuhXZmt6i,"为什么#emacs#牛逼(之二), http://t.cn/R7OfZAp  ",无,无,2014-11-01 20:03,微博 weibo.com,4,4,0
+Bu80LlZF5,有谁能告诉我切换回微博原界面的办法吗?  ,无,无,2014-10-31 18:43,微博 weibo.com,1,1,3
+BtZAS9vYY,http://t.cn/R7CukBo emacs24.4的不向下兼容.   ,无,无,2014-10-30 21:17,微博手机版,0,0,0
+BtfaUk7nm,"我在 @知乎 回答了【值得反复品读、对成长有益的书有哪些推荐？】：选择经典,先培养起自己的品味最好. 关于经典,很多人又都有自己的定义,我认为经典有很多,从无可质疑的第一名往后读是绝对不会错的. - 亚当斯密的, 也许你对经济学毫无兴趣.但是亚当斯密对于青少… http://t.cn/R7ib3p9  ",无,无,2014-10-25 23:06,知乎网,1,1,0
+BteRGB0kI,"我在 @知乎 回答了【哪些女作家的书也值得男人读？】：玛格丽特·尤瑟纳尔 熔炼 (豆瓣) , 二十多年前在学校图书馆读, 极其震撼, 从未忘记其内容.我多年来一直以为作者是来自上层阶级,受过良好教育的男性作家. (现在知道是同性恋). 哈德里安回忆录也强烈推… http://t.cn/R7iL0Zp  ",无,无,2014-10-25 22:19,知乎网,1,1,2
+Bt3NufOSm,"讽刺的是当公司决定抛弃微软的exchange邮件系统,转到google app后,我在Linux下建立的邮件分类系统也遭到了灭顶之灾.因Linux下对微软邮件支持相当成熟,而本公司的gmail不开发pop和imap接口.  ",无,无,2014-10-24 18:09,微博 weibo.com,1,0,2
+BsV1JyfLg,"我在 @知乎 回答了【作为 IT 从业人员，你觉得有什么工具大大提高了你的工作效率？】：emacs就不多谈了,我的主力工具,详情见我的""一年成为emacs高手"" 其他人介绍的软件我都用过,有些不错,这里推荐几个小众的. vimdiff是vim自带的工具,可以用来… http://t.cn/R7IcgwK  ",无,无,2014-10-23 19:49,知乎网,2,3,0
+Bs6AXncrn,http://t.cn/zOPVYPA 一年成为Emacs高手20141018版  ,无,无,2014-10-18 11:26,微博 weibo.com,0,2,2
+Bs0nyoXFq,"我常用的git命令是各种`git diff --stat`, `git diff --cached --stat`, `git log --stat`, `git show --stat`, 因为需要反复核对是否改了正确的文件.  ",无,无,2014-10-17 19:36,微博 weibo.com,0,0,0
+Bs0jK02m9,"http://t.cn/RhM6PqA 我的.gitconfig分享,快捷键都是经过长时间实战优化的, 特别喜欢 `git dm`  ",无,无,2014-10-17 19:27,微博 weibo.com,1,1,2
+Bs0i1BMtM,"以后要戒了知乎,太浪费时间  ",无,无,2014-10-17 19:23,微博 weibo.com,2,0,2
+BrnS8rGeC,"网上一些#emacs#的入门教程的问题是列出了太多必须掌握的快捷键.背这些快捷键的过程本身会让人丧失兴趣.我建议的方法,拷高手设置,报bug,解决自己实用问题,则提供了切实可行逐步提高的办法.  ",无,无,2014-10-13 17:34,微博 weibo.com,1,0,1
+BoOaLqsao,"公司的奇葩outlook设置限制平台访问,公司机器人狂发邮件,导致你有3000封未读邮件. GitHub · Where software is built , http://t.cn/RhH6ETa , http://t.cn/RhH6ETK 完美解决以上问题.加上Emacs的文本编辑能力 ...  ",无,无,2014-09-26 19:01,微博 weibo.com,0,0,3
+BoNmWDdCn,"有人问我c如何精通,我做个公开回答,最好的书是The C programming language, 读完找一声誉卓著有趣的#开源#项目,报bug,水平够了,人头混熟,可提交patch,这是最有效办法. 进大公司所谓研发中心没这个有效,因为大机构鱼龙混杂,什么烂人都有,且做什么要服从公司战略.如微软就有一堆人改开始菜单一年的例子.  ",无,无,2014-09-26 16:58,开源超话,3,2,0
+BovnzwN0z,"http://t.cn/Rhlno59 emacs的问答社区启动了,感觉质量不比G+差.  ",无,无,2014-09-24 19:10,微博 weibo.com,1,1,0
+Bovl2BLJa,"http://t.cn/RhoHfDb 我的emacs配置回归测试周五结束. 很成功, 已陆续发现修正了一些bug. 你也可把测试文档当快速案例学习看待. 很多人反映下载了高手配置后害怕茫然,那么把该文档当个起点也不错,门槛很低,基本的都覆盖,最关键的是好多人测过,很稳定的.  ",无,无,2014-09-24 19:04,微博 weibo.com,2,3,1
+BocnPzcMZ,"#cedet#难配置又慢,要在#emacs#中做C++开发,还是用company和ggtags.el,搞不懂为什么#emacs#界老是有人推荐它.估计全世界都一样,天下文章一大抄,态度好一点的把网上代码复制下来验证一下.  ",无,无,2014-09-22 18:49,微博 weibo.com,4,4,5
+Bo3Rb1qs9,"最近两年我声誉增加,钱挣的多,工作轻松,虽然我懒得多,代码写得少,书看得少,区别就在于我把主要精力花在开源项目上.还要感谢我以前不学无术同事给我穿小鞋,使我认识到自己在浪费天赋,早就该自己干了.公司项目预算充足,有云计算的招牌又怎么样,所谓研发也就是老美给个骨头啃,没钱又没声誉.  ",无,无,2014-09-21 21:06,微博 weibo.com,4,2,2
+BnZEutf2e,"看来是用ag替代grep的时候了,很多emacs用户都在讨论ag, http://t.cn/zlTKezh  ",无,无,2014-09-21 10:24,微博 weibo.com,0,1,8
+BnK4qy789,"我的emacs.d测试已启动,已发出邮件通知,感谢各位踊跃支持, 这是文档,http://t.cn/Rh9LWPl  ",无,无,2014-09-19 18:44,微博 weibo.com,1,0,2
+BnBeu8nKv,"我需要3到4个志愿者帮我改善emacs设置, 打算两个月做一次测试, 需时大概15分钟左右, 如有兴趣可以在 http://t.cn/RhoHfDb 留email, 需要基本的Linux知识,如会装package,会在terminal里敲命令行等等.  ",无,无,2014-09-18 20:14,微博 weibo.com,1,0,3
+BnAqJuwRD,"web开发emacs用户可参考http://t.cn/RhoCSea 一旦想通ctags实际不需wrapper,一切都简单了,优化ctags设置就行了http://t.cn/RhoCSeX 在多个大项目测试过,非常成功. 用sublime本质也也是ctags,配置没emacs方便.  ",无,无,2014-09-18 18:11,微博 weibo.com,0,3,1
+BnsEwuFW1,"emacs用熟了就是手中无剑,心中有剑了, 不过老外没读过笑傲江湖,所以还是认死理. 凡事都一定要用emacs完成.  ",无,无,2014-09-17 22:23,微博 weibo.com,4,1,0
+BmZF4jYBD,"学什么不重要,怎么做才是最重要的,按部就班,兴趣引导,我的一年成为Emacs高手就是一个大方向的HOW,请仔细研读,领会其实质.如果具体到某个技术,也是一样原则,一步步分解,请教相应的高手,搞清楚roadmap,一步步来.  ",无,无,2014-09-14 20:35,微博 weibo.com,1,0,0
+BmZE1ANWZ,"很多人问我emacs的问题,就是没有掌握最大化收益,最小化投入的问题.比如学习emacs从哪入手,从对你最有用的那点入手,我做javascript,那么研究js2-mode,如果你不编程,org-mode做时间管理. 那么org-mode又从哪里入手,读原作者的视频教程,只要会按tab就可以,其他都不学.举一反三!  ",无,无,2014-09-14 20:32,微博 weibo.com,0,2,6
+BmZCFoIVd,"一年成为emacs高手的精髓在于,我只有有限的时间和智力,如何最大化我的收益.这点想通就很简单了.  ",无,无,2014-09-14 20:29,微博 weibo.com,0,0,0
+BmZAAfLsp,http://t.cn/zOPVYPA 一年成为emacs高手更新20140914版. 加了很多料.  ,无,无,2014-09-14 20:24,微博 weibo.com,1,2,0
+BmXkUgzfa,"http://t.cn/RhJKZZ5 stackexchange上的emacs社区,进入commit阶段, 请支持一下.  ",无,无,2014-09-14 14:40,微博 weibo.com,3,2,0
+BmHjojqV2,"evil-matchit 1.4.0, http://t.cn/zRt2TAr 在emacs中在成对的tag跳转 (tag可以是html的<div></div>或者任意编程语言的""if"", ""endif"")  ",无,无,2014-09-12 21:52,微博 weibo.com,0,1,0
+BmGRf753Z,我的git设置 http://t.cn/RhM6PqA  ,无,无,2014-09-12 20:43,微博 weibo.com,1,2,2
+BmtmgBB8L,http://t.cn/RhffuZ8 请支持建立Emacs社区。 G+没什么前途，大陆被封锁了。google现在又把其界面弄得很烂。  ,无,无,2014-09-11 10:21,微博手机版,2,0,1
+BmtbSrg4h,"http://t.cn/RhffuZ8  , proposal to create a new Emacs community, please support. G+ is kind of blocked these days.  ",无,无,2014-09-11 09:55,微博手机版,0,0,0
+BmpjZ7dMd,"http://t.cn/RhVgrtD 加快emacs打开文件速度,在emacs里面就不用git了.  ",无,无,2014-09-11 00:04,微博 weibo.com,0,1,0
+Bmp9q0tN5,"加了很多料,1.反对记快捷键,现在网上所谓的Emacs basics都是瞎写的,比如http://t.cn/RhVdpRb , 2. 报bug是重要的学习过程 3. 不要用Emacs做任何事,有GNU的生态环境,爱用啥用啥.  ",无,无,2014-09-10 23:38,微博 weibo.com,0,0,0
+Bmp8zpj06,"http://t.cn/RPCqzFQ 一年成为Emacs高手英文版更新了,中文版会在周末更新  ",无,无,2014-09-10 23:36,微博 weibo.com,1,2,0
+BkZJqwapw,"今天领教了oracle对于开源软件的随便态度,最新的稳定版window 4.3.14竟然根本启动不了Linux虚拟机,最后降级到4.3.12,网上搜了一下,好多人报怨这个问题.基本的回归测试总得有把.  ",无,无,2014-09-01 17:05,微博 weibo.com,1,0,0
+BkIDsemLb,"最近成功为发布一新产品,诀窍就是删,只保留必需品,全力集中于开发新功能,比如我们用了bootstrap css的话,连compass和sass都不用,直接写css. 测试框架也不用. 我把前任的支离破碎架构清理,一半文件都清理合并掉了.压缩js也去掉了.  ",无,无,2014-08-30 21:34,微博 weibo.com,1,0,0
+BkxG0hNQE,"昨天一猎头对我说,她有很多great idea,就是不会编程.我心里想,我经历的项目多如牛毛,大公司小公司都有,有idea的,谈战略远景的的人大把,能够有效执行的deliver合格产品的人凤毛麟角.  ",无,无,2014-08-29 17:40,微博 weibo.com,2,0,1
+BkgMVxwSD,"http://t.cn/zjK1azZ 我的五大最收欢迎的#emacs#相关项目.基本上技术最有挑战性的星星最少,evil-matchit需要你的星星  ",无,无,2014-08-27 22:40,微博 weibo.com,1,0,0
+BjO5p4z4U,【主题阅读，好书共享】貌似这个网站对喜欢读书尤其是有Kindle的童鞋很有用，收集了非常多很好的电子书和读书单，以后找书就不愁了。赶快来看看吧！http://t.cn/zTVdmw6 via@读远  ,无,无,2014-08-24 21:36,读远,0,2,0
+BjclbCvYS,"切换到最近的git branch, http://t.cn/RPnZj2M 基于percol  ",无,无,2014-08-20 21:31,微博 weibo.com,1,1,0
+BhOqAlr1x,"http://t.cn/RPpFuYo emacs插件一览,基本比较流行的都有了.  ",无,无,2014-08-11 18:48,微博 weibo.com,4,10,1
+BhubL7zmf,"如何用emacs收发gmail邮件, http://t.cn/RPCqzFQ , gnus-guide-en.org  ",无,无,2014-08-09 15:16,微博 weibo.com,1,0,0
+BheFpF0eH,"http://t.cn/RPoKykO 把gmail的联系人同步到#emacs#的gnus中去. 之所以写这个插件,就是发觉同类插件简直写的烂透了.  ",无,无,2014-08-07 23:45,微博 weibo.com,1,1,0
+BgjCtFkwV,"这两天给startup 打临时工,弄得我也蠢蠢欲动了.澳大利亚对于小公司确实很友好.只要是个人就能创业.  ",无,无,2014-08-01 22:31,微博 weibo.com,0,0,0
+BgjBA9uPR,http://t.cn/RPxi0OE 如何快速处理github pull request  ,无,无,2014-08-01 22:29,微博 weibo.com,1,0,0
+BfpaFjq2s,"人生圆满了第二次,又上了hacker news, http://t.cn/RPb9irz  ",无,无,2014-07-26 22:49,微博 weibo.com,5,1,0
+BeN0jacoC,http://t.cn/zOPVYPA 一年成为emacs高手 更新.增加了faq  ,无,无,2014-07-22 21:39,微博 weibo.com,1,2,3
+BeynUblXQ,"目前emacs最新稳定版是24.3.1, 这也是gnu.org上的最新版本,如果你是新手,不要用大于该版本的emacs. 本来这不是个问题,apt-get install一定会给你装上稳定版.  ",无,无,2014-07-21 08:26,微博 weibo.com,2,0,1
+Bd44gj4ov,"这些观点: 在一年内, 1. 抄高手配置,不创新 2. 不学不写elisp,用成熟插件 3. 有问题给高手报bug,不要自己修正 4. 加入社区,回报社区 5. 用git和其他工具进行知识管理 6. 不要用emacs做任何事即使有这个可能性.  ",无,无,2014-07-11 13:25,微博 weibo.com,0,2,2
+Bd42Wrq2l,"另外贯穿本文的一些核心观点是否有必要在开始或者结尾集中强调一遍,这点我还比较犹豫.欢迎宝贵意见.  ",无,无,2014-07-11 13:22,微博 weibo.com,0,0,0
+Bd41CAQPa,"http://t.cn/zOPVYPA 一年成为emacs高手更新了,调整了文章结构,突出重点,另外每一章开始补充了核心提示.  ",无,无,2014-07-11 13:19,微博 weibo.com,4,2,0
+Bd371Dy4q,#evil-jumper#不错.  ,无,无,2014-07-11 10:59,微博 weibo.com,0,0,0
+BbQQkuqMn,"我在 @知乎 回答了【emacs如何在buffer与minibuffer之间切换且不中断minibuffer？】：装window-numbering.el, 它会设快捷键给当前可见窗口编号,M-0是minibuffer的快捷键. 具体问题问原开发者,当然如果你用emacs key binding,可能不喜欢这个设置,我用evil,所以无所谓了. 知乎  ",无,无,2014-07-03 13:55,知乎网,0,0,0
+﻿BbQEXvYJ5,http://t.cn/Rv1h1TI 在编辑css时可以直接显示css代码所代表的颜色.  ,无,无,2014-07-03 13:27,微博手机版,0,0,0
+BbPxFDjdv,#emacs#的插件evil-nerd-commenter现在支持web-mode了(v1.5.0).  ,无,无,2014-07-03 10:36,微博手机版,1,0,0
+BbrHqBjWa,"提供了最简易最稳定的emacs配置法,不需要git,不需要elpa,只要你下载两个zip文件,以后连网络都不需要了.我本人在emacs24和emacs23下都测过. 见 http://t.cn/zYMMaBD  ",无,无,2014-06-30 21:54,微博 weibo.com,0,3,4
+BbmDypFos,git-gutter v0.63解决了与linum-mode的兼容问题.值得一用.  ,无,无,2014-06-30 09:01,微博手机版,0,0,0
+Bb66PxaUI,"如果你说""我就是要研究启动速度"",那么太欢迎了,我个人认为emacs这方面有很多工作要做,一个高效方便的profile elisp工具是必须的,现有工具太烂了.你需要C和Elisp方面有相当水准,两个人月是必须的.如果只是报怨一番,然后无所作为就不是emacs的问题了.  ",无,无,2014-06-28 14:56,微博 weibo.com,0,0,0
+Bb64NEKTq,"研究emacs启动速度是很boring的事情,也需要专门知识和工具,如前所述,这是我在""一年""之文强调要找到兴趣切入点的一个例证.  ",无,无,2014-06-28 14:51,微博 weibo.com,0,0,0
+Bb62WoVKM,"在我的""一年成为emacs高手""中这些要点我都提醒的很清楚了,也有例证,我不可能每个观点都把所有可能的例子都列举完,这也是我反复强调举一反三的原因.  ",无,无,2014-06-28 14:47,微博 weibo.com,0,0,0
+Bb61D9MKc,"想改善emacs启动速度,新手最好的办法还是要给报bug,可造福更多人外,也是因为优化需专门知识和工具.除了autoload外,高手还实验过在启动或保存时自动编译elisp.经过长期实验后都证明得不偿失.有效的只有一开源项目profile-dotemacs.el和autoload.对新手来说这些都是事倍功半.  ",无,无,2014-06-28 14:43,微博 weibo.com,0,7,2
+Bb5XLtYKP,"我的""一年成为emacs高手""一文反复强调了态度问题,要humble,不要修改高手的的配置.以改善emacs启动时间为例,注释掉某个插件的配置并不能加快启动,因为高手的配置都已使用了autoload技术,插件都是用到的时候才载入内存.而且插件有依赖关系,这是插件作者决定的,破坏依赖关系会emacs启动不了.  ",无,无,2014-06-28 14:34,微博 weibo.com,0,0,0
+BaZFMxX0J,"要成为#emacs#高手,重要的还是态度.要避免先入为主的偏见.比如说一定要背上50个快捷键才开始用emacs. 有或者有急躁情绪,要短期内把emacs用得炉火纯青.只会欲速则不达. 循序渐进,设定期限为一年,实际不用一年.  ",无,无,2014-06-27 22:33,微博 weibo.com,1,0,0
+BaVaucTNH,"reddit 上有人提问关于保存窗口设置的问题, 建议用workgroups2, 还有我的tip, http://t.cn/Rv8tFr6  ",无,无,2014-06-27 11:05,微博手机版,0,1,5
+BaxImkCEt,emacs配置到最后就是我给插件作者到处报bug  ,无,无,2014-06-24 23:23,微博 weibo.com,1,2,1
+B9yQ37K6e,"melpa 出问题了, 要使用我的emacs.d配置,请参考README中的myelpa.我刚刚测过,没有问题的.  ",无,无,2014-06-18 12:24,微博手机版,0,0,0
+B9yQ2euDx,"melpa 出问题了, 要使用我的emacs.d配置,请参考README中的myelpa.我刚刚测过,没有问题的.  ",无,无,2014-06-18 12:24,微博手机版,0,0,0
+B9sBwFCsK,我今天在#微盘任务#中关注了微盘官方微博，获得了1G奖励空间，你也来免费领取空间吧 http://t.cn/8Dkxx8p @微盘 新浪网旗下云存储网盘！  ,无,无,2014-06-17 20:32,微盘,0,0,0
+B9sBhmMUJ,"我今天在#微盘签到#获得了209M免费空间,好运指数2颗星,你也来试试手气吧~@微盘 新浪网旗下云存储品牌，超大存储空间，海量资源下载，手机电脑数据任你同步，人手一盘，微力无限，快来体验吧！ http://t.cn/8Dkxx8p  原图 ",http://ww4.sinaimg.cn/large/923eaf3ejw1ehhdyawslfj20c80rs77e.jpg,无,2014-06-17 20:31,微盘,0,0,0
+B9sAxvkRO,#网盘持久战，微盘热个身# @微盘 资源太多，正愁没地放！这不微盘君在免费派发100G空间！ http://t.cn/z8w3lJY    原图 ,http://ww3.sinaimg.cn/large/923eaf3ejw1ehhdwfr6fmj20c815oq6j.jpg,无,2014-06-17 20:29,微盘,0,0,0
+B9szd8rW6,"我刚更新了新浪#微盘Android客户端V3.2.2#①个人主页全面升级, 支持多文件批量保存、搜索、筛选、排序；②找资源搜索结果页新增多文件批量保存、筛选等强大功能；③订阅文件更新有提示；④支持从手机扩展SD卡上传文件；快来和我一起体验微盘V3.2.2吧！下载地址:微盘  ",无,无,2014-06-17 20:26,微盘,0,0,0
+B9aBOAVsj,http://t.cn/RvCLkOK 在shell中快速找文件全路径.我的看家本领都拿出来了.  ,无,无,2014-06-15 22:43,微博 weibo.com,1,0,0
+B90Ph5zIG,"最近抛弃了elpa和marmalade,全面转向melpa,有些package缺失的问题,谢谢提醒,都已修复了.另外我还在README中补充了针对新手一个#emacs#快速教程. 这是我的emacs配置, http://t.cn/zYMMaBD  ",无,无,2014-06-14 21:49,微博 weibo.com,1,2,1
+B8QNpAasb,"如果用js-mode话,结合jshint+flymake使用,jslint已淡出了  ",无,无,2014-06-13 20:17,微博 weibo.com,0,3,4
+B8NKw4Vhe,"#emacs# js2-mode 和 js-mode的区别, 前者更强大,jslint之类工具都不需要了,可以作出很酷的效果,但是很慢,需要8G内存(因你还要跑firefox,tomcat). 后者很快,相当于sublime3之流的水准. http://t.cn/RvophPI 提供了他们的配置.  ",无,无,2014-06-13 12:31,微博 weibo.com,0,0,0
+B7bOy2QPG,"虽然我极度推崇js2-mode,但是最近碰到5000行的程序,还是卡(主要是内存和cpu都用来跑firefox和tomcat了).最后还是换javascript.  ",无,无,2014-06-02 22:06,微博 weibo.com,1,0,0
+B6SYG4WSJ,"很多人给我发来的emacs问题实际上和emacs无关,而是心理上的问题. 问:不知道如何入手?答:鼓起勇气,立刻打开emacs. 问:还是自己摸索好?答:emacs只是个工具,""我的""不一定好.  ",无,无,2014-05-31 22:09,微博 weibo.com,0,0,0
+B6SSGlaum,"我在 @知乎 回答了【vim中digraph是怎么用的？按了Ctrl+K这两个键没有反应 。?】：搜我的,类比一下,方法都是一样的.我是先掌握vim,再学emacs的. 以下是要点: - 这种细节问题直接跳过,对你的工作流又没有影响 - 以解决自己实用问题入手 - 直接拷贝… http://t.cn/Rvcmtk9  ",无,无,2014-05-31 21:54,知乎网,0,0,0
+B6Sz3uzY2,"越来越多的package离开了marmalade.org,我认为其不会有前途了,未来应该在melpa,或者用我的elpa-mirror (http://t.cn/RvcEPwa 建立独立的服务器. 目前我已修复了marmalade所有包缺失的问题,见我的emacs.d (http://t.cn/RvcEPwX  ",无,无,2014-05-31 21:06,微博 weibo.com,0,1,2
+B6Qze3OqF,"http://t.cn/RvcCvBQ 最好的git教程,与其教操作,不如教原理.  ",无,无,2014-05-31 16:01,微博 weibo.com,0,1,0
+B6HiC4kiv,"有个关于Emacs的误会,既#emacs#需要推广.事实上不需要.牛逼到Emacs这样的境界的软件不需要推广. 我在 http://t.cn/Rvt6XQj 上发的文章不是为了推广Emacs,而是发自内心的狂喜,情不自禁要分享. 感觉类似与基督教徒体会到圣灵降身的感觉.  ",无,无,2014-05-30 16:25,微博 weibo.com,1,1,4
+B5YmIifFf,"终于在#archlinux#上修好了popfile,popfile是portable软件,很稳定.是cpan的问题,安装IO::Socket::SSL是需要编译一个c写的so,由于某些原因,老版本的so存在时cpan就升级该so了. 解决办法就是""rm /usr/lib/perl5/site_perl/auto/Net/SSLeay/""  ",无,无,2014-05-25 22:02,微博 weibo.com,0,0,0
+B5Yd9xLOx,"我在 @知乎 回答了【如何写好技术文档？】：我有十多年开发经验,文科一直很好(在上海最好的中学英语语文都拿过年级第一名),从小热爱文学,手不释卷.我应有资格谈谈这个话题. 简洁最重要. 注意逻辑性. 实事求是.要有例证, 与其拘泥技巧,不如从根本着手,提高个… 陈斌: 如何写好技术文档？ - 知乎  ",无,无,2014-05-25 21:38,知乎网,0,0,2
+B5Q0sd6MW,"假设你要去澳洲读IT方面课程,我建议不要读3年的computing课程(该课程为本科学历,不是tafe),要读4年的computer science.那个三年课程有很多低水平的重复的编程练习,老师也不会教你专业的编程技巧.有这个时间不如找本去图书馆读小说.  ",无,无,2014-05-25 00:45,微博 weibo.com,1,0,1
+B5Ow5xyq2,"IDE和#emacs#的区别,我可以花很多钱,请人把#emacs#配成针对一个framework优化的IDE.但不能反之.Emacs高手通常都是因为要同时使用多种语言开发,这是emacs的强项.IDE是针对特定语言甚至特定framework优化的.  ",无,无,2014-05-24 20:58,微博 weibo.com,1,1,2
+B4YecASLH,"#emacs#拼写检查最佳设置, http://t.cn/RvZfnFE  ",无,无,2014-05-19 07:51,微博 weibo.com,1,0,0
+B4FDL9W0w,"#emacs#的python开发,在anaconda-mode和elpy俩选一,都支持company-mode.也很好配置.  ",无,无,2014-05-17 08:31,微博 weibo.com,0,3,2
+B4wQqEXDd,在emacs中开发python我建议用anaconda-mode.  ,无,无,2014-05-16 10:08,微博 weibo.com,0,0,1
+B4rt4tueO,http://t.cn/RvhzwT5 初学者课程不错.  ,无,无,2014-05-15 20:27,微博 weibo.com,0,1,1
+B44KdxLLU,"如果你觉得sublime3有什么独特的功能或者插件,请推荐给我.我正想深入学习一下sublime.  ",无,无,2014-05-13 10:36,微博 weibo.com,0,0,0
+B2LgbwrSO,"我在<一年成为Emacs高手>中已知无不言,言无不尽了.即使从字面意义理解,已可少走弯路,比如有人问我cedet为什么那么难配? 原文:1)我做C++开发 2)我用company-mode,不是cedet 3)抄高手配置4)举一反三 5) 举了Gnus为例证明某些功能不值得学 我不能列出所有初学者不宜,请举一反三  ",无,无,2014-05-04 19:09,微博 weibo.com,1,0,2
+B2JZRqbYF,一年成为Emacs高手更新至20140504版 http://t.cn/zOPVYPA - 增加了对新手的最小化的教程 - 添加了完全不用代理下载软件包的办法  ,无,无,2014-05-04 15:56,微博 weibo.com,2,37,7
+B0Oec3XCL,"新手入门emacs不要从gnus开始,gnus太难用.  ",无,无,2014-04-21 23:02,微博 weibo.com,2,3,1
+B0E8QwFvu,"org2blog的作者公布了他用nikola的workflow, http://t.cn/8sYhMdL  ",无,无,2014-04-20 21:21,微博 weibo.com,0,0,5
+B0BPP6gpP,"请问再在国内建立一个博客镜像,哪里好?纯html.  ",无,无,2014-04-20 15:29,微博 weibo.com,0,1,2
+B0BP50aZ7,http://t.cn/8sjnsNo 我的博客终于迁移到nikola了  ,无,无,2014-04-20 15:27,微博 weibo.com,0,4,1
+B0zW44W1g,"在emacs中使用spell checker,最好用aspell,hunspell简直就是一团屎. http://t.cn/8sj08Tf  ",无,无,2014-04-20 10:39,微博 weibo.com,0,0,0
+B0tUOCCep,"今天改用nikola,静态博客,目前一切都好.  ",无,无,2014-04-19 19:19,微博 weibo.com,0,0,0
+B0a9yD2Jh,#emacs# 用到最后就是维护elisp.诀窍就是越少越好.  ,无,无,2014-04-17 17:01,微博 weibo.com,0,1,6
+AFvqzDOp9,"我算是服了visual studio 2010 express了,intellisense不能工作(调查了一下好像是和win xp补丁冲突), 跳转到定义,还要问我是跳到hpp还是cpp文件.  ",无,无,2014-04-13 15:48,微博 weibo.com,0,1,0
+AFuJ7FuzB,"vs c++ 2010 express 不支持intellisense, 根本就没有*.ncb文件创建,project是用cmake创建的,有人碰到过这个问题吗?  ",无,无,2014-04-13 14:01,微博 weibo.com,0,0,0
+AFtSpfNdq,"我就碰到过代码review,在网页上加一个广告静态链接,被热衷搞政治的菜鸟review,要求用上mvvc模型,写单元测试,结果创建了5个js 文件,写了数百行代码,最后还差点做不出来,做了一个礼拜!  ",无,无,2014-04-13 11:51,微博 weibo.com,0,3,3
+AFntP3Ju4,"对#emacs#用户来说,代码浏览建议用gnu global 或者 etags , 原因是还有人不断地在维护, 社区支持很好. 例如company-mode就有对两者的支持,一旦配置好,智能代码完成是很方便的.  ",无,无,2014-04-12 19:34,微博 weibo.com,0,7,1
+AFlvCBQv0,"我在 @知乎 回答了【怎样看待王垠的《我和 Google 的故事》？】：有才能和洞察力,其所说的问题,在许多大公司都存在. 不过也比较直率.个人性格原因. 就我来说,更欣赏这种深刻的偏激,读他的文章确实是有所启发,虽然对他的分析和结论我未必赞同. 读那种肤浅的面面俱… 陈斌: 怎样看待王垠的《我和 Google 的故事》？ - 知乎  ",无,无,2014-04-12 14:33,知乎网,0,0,0
+AFf2i8xKv,"NinjaWebCoder 1.2.3 http://t.cn/8FrsPtr , 用键盘从网上拷代码. ChangeLog:支持从phpBB forum拷代码  ",无,无,2014-04-11 22:05,微博 weibo.com,0,0,0
+AFbMfDfZv,"http://t.cn/8s9nXKm workgroups2很不错,存储当前窗口的layout,还可以load出来. 唯一的缺点是覆盖同名的设置不方便, 不过在我的patch中修复了. http://t.cn/8s9nXKn  ",无,无,2014-04-11 13:47,微博 weibo.com,0,0,0
+AETrgrrrM,"http://t.cn/8FrsPtr 请#Emacs#或者#vi#爱好者关注这个项目,最好给我多加星,没有github帐号的就转发.项目的目的就是用纯键盘从firefox和chrome中copy代码,特别适合那种打死也不碰鼠标的Emacs/Vi geek.  ",无,无,2014-04-09 15:06,微博 weibo.com,0,0,1
+AETbwsbqr,"erlang有什么比较牛的书和人,知道的高手可以给我推荐一下.  ",无,无,2014-04-09 14:27,微博 weibo.com,0,1,1
+AETbeoSnM,"今天打算学习erlang,既然大家把它说得那么牛.  ",无,无,2014-04-09 14:26,微博 weibo.com,0,0,0
+AEsh1q6nX,"我在 @知乎 回答了【写 JavaScript 时IDE 或编辑器的选择有哪些好的推荐？】：emacs+evil-mode,设成vim快捷键.我对于各类新的编辑器都有兴趣,如sublime 3, webstorm, intellij之类都试过,和emacs比差远了. 我的理… 陈斌: 写 JavaScript 时IDE 或编辑器的选择有哪些好的推荐？ - 知乎  ",无,无,2014-04-06 17:56,知乎网,1,0,0
+AEs3pbtRl,"我在 @知乎 回答了【说说每个人使用emacs的境界】：我的境界在使用方面,现在应该是世界级高手了,看到所有的emacs文章,要么是我已知道了,要么我觉得就是不够深入严谨. 比我更高的境界,就是那些大牛把elisp和emacs的C代码吃透了,如松本行弘就借鉴了e… 陈斌: 说说每个人使用emacs的境界 - 知乎  ",无,无,2014-04-06 17:23,知乎网,0,0,0
+AErTD8iao,我在 @知乎 回答了【emacs关于全选删除的问题？】：M-x erase-buffer 知乎  ,无,无,2014-04-06 16:59,知乎网,0,0,0
+AErSRguIb,"我在 @知乎 回答了【关于使用Emacs，各位有哪些提高效率的改键？】：装evil-leader,evil,然后全部改成逗号开头的快捷键.优点 - 减少记忆负担,例如"",ww"" 是保存 - 所有快捷键键在一个文件里,可以定期review - 不需要按ctrl和a… 陈斌: 关于使用Emacs，各位有哪些提高效率的改键？ - 知乎  ",无,无,2014-04-06 16:57,知乎网,0,4,6
+AElyItqLe,"对knockout失去信心了,见 http://t.cn/8sXxktz , 如果这么简单的任务还要写那么诡异的代码.那么我要data-binding有什么用? 我还不如自己hardcode html string算了,那个工作量至少好控制,也容易调试.  ",无,无,2014-04-06 00:51,微博 weibo.com,0,0,0
+AEan9yEVZ,"今天在用google的Geocoding库,要求很简单,就是取Sydney所有suburb的经纬度,可悲的是google给我一半的回答是找不到经纬度,有比这更失败的吗?我还不如直接hack google map算了.  ",无,无,2014-04-04 20:22,微博 weibo.com,1,0,2
+AE13N55xW,"cmake支持wxwidgets3.0.0的patch去年近了git branch,竟然现在还没有正式发布,坑我啊.  ",无,无,2014-04-03 20:40,微博 weibo.com,0,0,0
+AE0wlkehD,"http://t.cn/8siIGGf fancy-narrow 限制特定区域可编辑,UI比emacs默认的要好.  ",无,无,2014-04-03 19:17,微博 weibo.com,1,0,2
+ADRS1AV4t,"我在 @知乎 回答了【类 Unix 系统上的文本编辑器究竟多强？】：看这,一个javascript开发的例子,简单的配置一下(花了我半天时间),就让sublime3主流见鬼去了. Why Emacs is a better editor 陈斌: 类 Unix 系统上的文本编辑器究竟多强？ - 知乎  ",无,无,2014-04-02 21:16,知乎网,0,1,0
+ADMXJk18w,"关于elisp学习,建议读一下我的""一年成为Emacs高手"",我没有推荐的书籍就是我认为不怎么样的.  ",无,无,2014-04-02 08:46,微博 weibo.com,1,3,2
+ADMQ0l4Jp,今天company-mode不支持emacs23了.  ,无,无,2014-04-02 08:27,微博 weibo.com,1,0,1
+ADfkJwUKp,"<一年成为Emacs高手>更新20140329版 , http://t.cn/zOPVYPA  ",无,无,2014-03-29 19:09,微博 weibo.com,0,0,2
+ADdm53tZs,"gulp.js真的比grunt.js好太多,grunt.js是业余水准,我用grunt还不如用make算了.  ",无,无,2014-03-29 14:07,微博 weibo.com,0,0,0
+AD5V7lwsP,"http://t.cn/8sVDGxn , 2014年柏林emacs meetup notes.  ",无,无,2014-03-28 19:12,微博 weibo.com,0,0,0
+ACKt17tth,和Optus合同即將結束，自豪的是沒有帮助過任何我不想帮助的人。  ,无,无,2014-03-26 12:35,微博 weibo.com,1,1,3
+ACBwM3eEk,搅混水是跨文化的，刚才看了一代码，愣是把一行写成一大垛，诀窍就是把后端传过来的值放在多个变量里．这些变量再互相赋值（源头就是一个），代码就多出好多．不过文化差异还是有的，就是澳洲人太老实，我见过一中国程序员不仅把同一数据用多个变量，还把变量名定义成和函数名一样．  ,无,无,2014-03-25 13:49,微博 weibo.com,1,1,0
+ACqtUs4Y7,"用autoload API,启动速度完全可以控制在一秒以内,而且如果你用elpa,所有的package都是已经启用了autoload,所以作为Emacs用户来说,什么都不用做就很好了.  ",无,无,2014-03-24 09:42,微博 weibo.com,0,2,0
+AClbS1acE,"今天转到了gnu global,因为其支持更多的语言(cscope的弱项),支持查引用(ctags的弱项),且在不断维护中.emacs的插件中ggtags.el的界面做的不错,功能都差不多.  ",无,无,2014-03-23 20:14,微博 weibo.com,0,6,2
+ACbXcyV54,"http://t.cn/zOkbYXH ""Linux桌面使用之道""更新了.加了很多新料.  ",无,无,2014-03-22 20:43,微博 weibo.com,2,0,0
+ABT4dm7OI,"用了emacs那么多年,我一直以为emacs中文字体不需要设置,今天才发现是我幸运,因为我一直用命令行版本,字体设置由terminal自动解决了.GUI版本的Emacs中文字体设置及其麻烦.  ",无,无,2014-03-20 20:38,微博 weibo.com,1,2,9
+ABJle0egm,"grunt.js最让我受不了的就是蜗牛般的速度,完全不是一个正常的build软件.今天有人推荐了gulp.js做替代.看看怎么样.  ",无,无,2014-03-19 19:52,微博 weibo.com,0,0,0
+AB8i4Fa6y,"我是看不得网上十年成为Emacs高手的论点,黄花菜都凉了.关键还是心理障碍.如果给自己设定的目标足够高""一年成为Emacs高手"",那么显而易见最好的实现办法就是站在""巨人的肩膀上"".  ",无,无,2014-03-15 21:33,微博 weibo.com,1,0,6
+AB3WAFbL8,"关于web前端开发的Emacs配置,和一般人不一样,我不用rhino或者nodejs,js2-mode自带了js解释器.html我用web-mode,前端repl我用mozrepl+firefox.这套配置优点是功能强大,外部依赖最少,强大,可自由调整而且稳定可靠.  ",无,无,2014-03-15 10:29,微博 weibo.com,1,5,10
+AAEx46FjM,"我在 @知乎 回答了【想看的书很多，但阅读、消化的时间总是有限的，有什么好方法提升阅读、学习效率？】：读点自然哲学,笛卡尔的很不错,通俗易懂,很薄的小册子,但是现代哲学的开山之作. 这本书教你什么是理性思维,有了理性思维后,看其他书都很容易理解. 培根的也不… 陈斌: 想看的书很多，但阅读、消化的时间总是有限的，有什么好方法提升阅读、学习效率？ - 知乎  ",无,无,2014-03-12 17:48,知乎网,1,0,0
+AACkL0WfS,"有人报告说我的emacs配置需要到elpa/marmalade/melpa 下载package,可惜这些网站都被分了,ok,这是我的解决方案,github总没问题吧,有问题的话,下载zip包,放到你的U盘上,网络也不需要. http://t.cn/8s7rewC  ",无,无,2014-03-12 12:12,微博 weibo.com,0,7,4
+AAjLZiuML,"最近大概elisp写多了,我给一家商业项目写javascript也是       hideBigAdAndShowSmallOneForDesktop(t);  ",无,无,2014-03-10 12:57,微博 weibo.com,3,0,1
+AziWgEvwV,"面向对象流行,就是一堆一堆的class封装很简单的功能(我看到最极端的例子,200行代码只是封装了一行条件判断),REST流行,就是一堆一堆的service封装一简单的SQL语句.有感于某网站需访问10个后台service,12年前我写信给一个大牛(此人开发了IE卖给微软),什么是软件工程?回答是找最好的人,其他都是浮云.  ",无,无,2014-03-03 20:59,微博 weibo.com,2,2,2
+Az9f76aOc,"我在 @知乎 回答了【Sublime Text 会取代 vim 或 emacs 吗？】：谁说命令行下Emacs就不能用color scheme,不能耍酷的?都什么年代了. 输入以下命令启动Emacs, "" TERM=xterm-256color emacs -nw"" 知乎  ",无,无,2014-03-02 20:18,知乎网,1,0,0
+Az99btZPL,"我在 @知乎 回答了【如何将emacs配置成为c\c++ 的IDE？】：那个有点旧了, 看我的redguardtoo/mastering-emacs-in-one-year-guide · GitHub ,上面有篇C++的草稿. 知乎  ",无,无,2014-03-02 20:03,知乎网,0,0,0
+Az95ozJtQ,"我在 @知乎 回答了【Emacs和Vim还有更多吗？是什么让你坚守？】：代码智能分析是弱项,C++还好一点,现在有clang,java还是用ide吧. 你可以读一下我的,里面都讲得很清楚了.找到切入点,而不是去读info. 比如很多人是从org-mode开始喜… 陈斌: Emacs和Vim还有更多吗？是什么让你坚守？ - 知乎  ",无,无,2014-03-02 19:54,知乎网,0,1,0
+Az81Lkruq,"http://t.cn/8FrsPtr , 我的新项目,firefox greasemonkey的插件,可以按快捷键从stackoverflow拷贝代码.  ",无,无,2014-03-02 17:12,微博 weibo.com,0,1,0
+AyZmueyF5,"快捷键生成算法,http://t.cn/8Frv2K4 ,是个kernel geek写的.  ",无,无,2014-03-01 19:09,微博 weibo.com,0,0,0
+AyGuXqDVW,"雷博Rapoo的键盘确实用心做了,很轻,而且多媒体键的位置也很贴心.击打也不累.我强烈推荐给专业程序员.  ",无,无,2014-02-27 19:07,微博 weibo.com,0,0,2
+AywdgzU95,"被某微博的小广告实在逼得烦死了,我突然想到简单的css设置就可以屏蔽掉,greasemonkey很可能就可以干这个,然后一搜,嘿嘿.  ",无,无,2014-02-26 16:56,微博 weibo.com,0,0,0
+AxAeAsF4P,"请各位同学推荐我一个价格合理的git国内私有仓库,免费的不用了,因为是给公司用的.  ",无,无,2014-02-20 13:20,微博 weibo.com,0,6,2
+AxAdymW0h,"@GitCafe 请问商业用户付费私有托管价格是怎么样的,还有代码是否有备份,外包外部团队开发,代码是否有定时备份.  ",无,无,2014-02-20 13:18,专业版微博,0,0,0
+AwYpYjbvW,"今天终于知道了ninja和nproc,c++多年没有做过大项目,都落伍了. alias nj=ninja -j`nproc`  ",无,无,2014-02-16 13:04,微博 weibo.com,0,0,0
+AwQ5OfiFN,"wxwidgets-help 0.0.4 http://t.cn/8FWWC2i , #emacs#中看#wxwidgets#的html文档. 我发觉和7个月前我elisp水平进步很大啊,看来是要多写.  ",无,无,2014-02-15 15:52,微博 weibo.com,0,0,0
+AwHhToIIK,"http://t.cn/8FOOdtq netscape公司变大后的惨状,外行看热闹,内行看门道,能搞到著名的Jamie Zawinski愤而宣布推出软件业都是什么人呢.见我看了纪录片code rush>后的笔记.该片可以合法免费下载.我花了很多精力调查所有人物背景的. 里面的烂人在所有的公司都会存在.  ",无,无,2014-02-14 17:27,微博 weibo.com,1,16,6
+AwyUgb2lI,"emacs上必备插件推荐, http://t.cn/8F0OWxN  ",无,无,2014-02-13 20:07,微博 weibo.com,4,2,0
+Aw6rwzwK8,"http://t.cn/8FCLwhs 一边编辑html,一边看实时html书出,和其他方案的区别是不需要安装server,装个开源的mozrepl firefox addon就行了.  ",无,无,2014-02-10 19:39,微博 weibo.com,0,2,1
+AvWvh9e21,"我在 @知乎 回答了【有哪些是必备的emacs扩展？】：company 取代auto-complete,更新很频繁 yasnippet 代码模板 js2-mode javascript开发神器(sublime之流和它根本不是一个数量级的) evil-mode 把… 陈斌: 有哪些是必备的emacs扩展？ - 知乎  ",无,无,2014-02-09 18:21,知乎网,1,5,2
+AvUk94s4J,"git有什么难,sourcesafe才叫难呢. ""git add""就是把你的修改放到缓冲区里,""git commit""就是正式提交(commit)缓冲区的代码,""git diff --cached""就是review缓冲区(未来的commit). 对缓冲区里的代码不满意,""git reset""就是后悔药. 最后""git log -p"",随便搜想看的,和linux下的man同样的界面.  ",无,无,2014-02-09 12:48,微博 weibo.com,0,2,3
+AvDpXdNKt,"#git#和#emacs#真是让人上瘾的神器啊,越是用的久越是后悔没有早用,如果我早十年用,我现在就是超级大牛了.分享我的两个诀窍, 1) git一定要在shell下用,如果追求的是超级高效,极度快感的话. 2) git和emacs(特别是org-mode)不仅用在开发,可以用在任何知识积累.  ",无,无,2014-02-07 17:46,微博 weibo.com,0,22,12
+AvclDreOy,"澳洲IT就是社会主义,水平无所谓,干多干少没啥区别,一起花老板和政府的钱.水平高的都去了硅谷,剩下一起忽悠business.上次一个项目,六七个business people非常严肃地盯着我说""这个项目风险很大,你两个礼拜拿得下来吗,上次同样的项目惨败"",实质就是做个静态网页,两天的活,当时我简直晕倒.  ",无,无,2014-02-04 20:51,微博 weibo.com,0,2,3
+Av7l2f32r,"我在 @知乎 回答了【有哪些是必备的emacs扩展？】：company 取代auto-complete,更新很频繁 yasnippet 代码模板 js2-mode javascript开发神器(sublime之流和它根本不是一个数量级的) evil-mode 把… 陈斌: 有哪些是必备的emacs扩展？ - 知乎  ",无,无,2014-02-04 08:06,知乎网,1,1,5
+AuJLshukn,"如果要提高#emacs#操作效率到达神级水准,请参看我的#evil#设置,http://t.cn/8FiHvbz 要点,1.任何平台都能用,2.不按 ctrl, alt,esc因为需要额外移动手指那么一寸.  ",无,无,2014-02-01 20:05,微博 weibo.com,0,1,0
+Aun3zBAb6,我刚刚在@WIS护肤 发起的#WIS让红包飞#活动中抢了个红包，竟然抽中新春好礼WIS店铺10元优惠券(1件)！听说在这个红包漫天飞的季节，一不小心就能被大奖砸到，百万名车、海量手机、千万现金红包，我来啦~~！大家快来抢红包中大奖！马上抽奖：http://t.cn/8ksTQSb  ,无,无,2014-01-30 10:16,让红包飞手机版,0,1,21
+Au7WEBxU8,"编辑器圣战应该是以#emacs#加evil的胜利而告终了,这里是vim用户要转evil:http://t.cn/8FMOZg0 最终还是lisp的强大胜出了,比功能Emacs不一定有什么强.RMS当初把Emacs设计成lisp machine真是神啊,又坚持了35年,忍到了天才设计出了evil和app store的诞生.  ",无,无,2014-01-28 19:48,微博 weibo.com,1,1,1
+AtZsZ2aKG,"http://t.cn/8FI3R40 , 在#emacs#的evil-mode中快速切换输入法.  ",无,无,2014-01-27 22:13,微博 weibo.com,0,0,0
+AtWkLr70O,"<一年成为emacs高手>更新至v20140127 http://t.cn/zOPVYPA 更新记录: - 加了个例子说明如何使用Emacs改进效率, - 补充了一些精品插件推荐.  ",无,无,2014-01-27 14:15,微博 weibo.com,1,3,1
+AtMOt0nQb,"搜索why emacs is better editor可以找到我原文,配置细节.  ",无,无,2014-01-26 14:00,微博 weibo.com,0,2,0
+AtMNBuRNh,"所谓一波四折,我的patch终于进入js2-mode,web 前端开发如果用#Emacs#的话有福了,见截图,需要最新的js2-mode和helm.  原图 ",http://ww1.sinaimg.cn/large/923eaf3egw1ecwwkcpqs2j20m50mrgpi.jpg,无,2014-01-26 13:58,微博 weibo.com,3,2,1
+AtnozltAE,"给js2-mode提交的patch可以说是一波三折,代码review完了,维护者好像就睡觉去了,一晃一个月,我push了一下才发布,结果elpa.gnu.org又被不知道哪个菜鸟网管搞砸了,等吧!好不容易服务器正常了,结果发现js2-mode维护者本人有把底层API搞砸了.开源效率都是如此.优点就是坚持够久. http://t.cn/8kaonKU  ",无,无,2014-01-23 21:18,微博 weibo.com,0,0,0
+AthZXqG07,"http://t.cn/8FtXvrI 完美的html单词拼写检查,在#emacs#中,  原图 ",http://ww1.sinaimg.cn/large/923eaf3egw1ect4mh3ungj20h70amdh9.jpg,无,2014-01-23 07:33,微博 weibo.com,0,0,0
+AszEowof4,"tomorrow-night-theme vs molokai , #Emacs#上的color theme  原图 ",http://ww1.sinaimg.cn/large/923eaf3egw1ecnotcl7zrj21h40tial3.jpg,无,2014-01-18 14:39,微博 weibo.com,3,0,1
+﻿AszyajH11,"bash shell 变成彩色的, copy自 http://t.cn/aryHjS  原图 ",http://ww1.sinaimg.cn/large/923eaf3egw1ecnodignrgj20nr0byq4u.jpg,无,2014-01-18 14:24,微博 weibo.com,0,1,5
+AsyeBhrno,http://t.cn/8Fb43Wj Mathias Bynens的配置  ,无,无,2014-01-18 11:03,微博 weibo.com,0,0,0
+AsoGNqhkZ,"终于找到我心仪的#emacs#下color-theme了,就是color-theme-molokai  原图 ",http://ww3.sinaimg.cn/large/923eaf3egw1ecmcfetuz7j20mv0efdho.jpg,无,2014-01-17 10:45,微博 weibo.com,1,24,9
+ArNX85n04,"http://t.cn/8F25Vyk , i3-wm是我工具链中非常重要的一环,所以一定要更新到最新版.  ",无,无,2014-01-13 13:14,微博 weibo.com,0,0,2
+AqNLScB8B,"终于和ArchLinux说byebye了,投入了gentoo的怀抱,不会再回头了.  ",无,无,2014-01-06 22:56,微博 weibo.com,1,2,3
+Aoh5b3t2g,新版微博客户端，好听，好看，更好玩！自定义个人封面；音、视频直接播放；好友圈—好友消息不错过；支持屏蔽广告微博；广场音乐、电影、美食等频道升级。快试试一键听歌：夜空中最亮的星 下载地址：http://t.cn/8kNWJX9  [组图共4张] 原图 ,"http://ww3.sinaimg.cn/large/6cba0975jw1ebj8qlgpszj20dc0m8jsg.jpg,http://ww2.sinaimg.cn/large/6cba0975jw1ebj8q2uywpj20dc0m80v6.jpg,http://ww3.sinaimg.cn/large/6cba0975jw1ebj8qq09udj20dc0m8tau.jpg,http://ww1.sinaimg.cn/large/6cba0975jw1ebj8qjh8tjj20dc0m80un.jpg",无,2013-12-21 08:02,微博客户端,0,0,0
+AodvA7caY,我的github简历， http://t.cn/8kOS9Xe chen bin is an exceptional Emacs Lisp coder (one of the 5% most active Emacs Lisp users)  ,无,无,2013-12-20 22:56,微博 weibo.com,0,0,0
+AnHj5iK9a,"人生终于圆满了,我的博客上了hacker news http://t.cn/8koYlSB  ",无,无,2013-12-17 12:57,微博 weibo.com,3,0,1
+AnEJu8tTC,"http://t.cn/8kaonKU , Emacs比sublime在javascript开发上强的地方.  ",无,无,2013-12-17 06:24,微博 weibo.com,0,1,0
+AnAgTyxhr,sublime菜鸟真多，竟然在看了我证明Emacs比sublime牛的文章后要求我学雷锋修sublime插件的bug？我的建议可想而知就是建议转Emacs。  ,无,无,2013-12-16 19:03,微博 weibo.com,0,0,1
+AnrpdgVe0,Emacs诀窍教程，可以参考我的G+ profile， http://t.cn/8kaxzoD  ,无,无,2013-12-15 20:29,微博 weibo.com,0,1,1
+AmvkS7Sin,新版微博客户端，好听，好看，更好玩！自定义个人封面；音、视频直接播放；好友圈—好友消息不错过；支持屏蔽广告微博；广场音乐、电影、美食等频道升级。快试试一键听歌：夜空中最亮的星 下载地址：http://t.cn/zROKkPS  [组图共4张] 原图 ,"http://ww2.sinaimg.cn/large/6cba0975jw1ea5fyguzscj20dc0m8dgw.jpg,http://ww4.sinaimg.cn/large/6cba0975jw1ea5fyt1smlj20dc0m8q5d.jpg,http://ww1.sinaimg.cn/large/6cba0975jw1ea5fz2spdgj20dc0m8jti.jpg,http://ww3.sinaimg.cn/large/6cba0975jw1ea5fzf4w5bj20dc0m8jta.jpg",无,2013-12-09 16:39,微博客户端,0,0,0
+AmcP01Wv0,"evil-matchit 1.0.0 发布了,支持python，其他任何语言支持也都没有问题。当初vim的matchit的问题就是想扩展但是vim的脚本语言太烂，现在用lisp轻松多了。十几行就是一个plugin.  ",无,无,2013-12-07 17:31,微博 weibo.com,0,1,4
+AizE5oK0V,"今天看了公司里两个比较拽的小朋友的profile,悉尼男校(排名前三)的中学,悉尼大学的计算机系,8年的经验,坦率地说很普通的水平,不过这个简历配上这个技术能力加态度,只能说澳洲能人大概都去医学院和法学院了.  ",无,无,2013-11-13 20:16,微博 weibo.com,0,0,1
+AizBMoPgS,"nfs调试工具太可悲了,还得sudo rpcdebug -m nfsd -s proc,算不算over engineering?  ",无,无,2013-11-13 20:10,微博 weibo.com,0,0,0
+AhNGjEC8y,"今天碰到一个程序员,第一行是代码,第二行注释说第一行有bug,这样的白痴尽然打我小报告我的流程不规范,好极了,那么我也谈谈在生产服务器上把这样的bug留6个月的后果.至于我的流程完全规范,因为我git很弱,只是盲目地照流程拷贝粘帖命令,也没人帮我配置git  ",无,无,2013-11-08 18:09,微博 weibo.com,0,0,1
+AhqVBc9mw,http://t.cn/zRO2rT1 #emacs#自动补全指南更新了。  ,无,无,2013-11-06 08:14,微博 weibo.com,1,0,0
+AeVDEggxA,"http://t.cn/zOPVYPA <一年成为Emacs高手>,pucell的配置不是很爱折腾的人还是别用了,我推荐了另外几个高手的配置, 几个高手包括我自己;)  ",无,无,2013-10-20 20:54,微博 weibo.com,0,8,2
+AeVeUn9Of,"最近又读了资治通鉴,烂人古今中外都是一样的,就是不学无术,夸夸其谈.""软技巧"",""沟通""是现代烂人最爱用的词.和种族国籍无关.儒家提供了预防这些烂人的技巧.这些技巧对于典型的公司很有用(自上而下命令,有清晰的目标如完成项目).  ",无,无,2013-10-20 19:53,微博 weibo.com,1,2,0
+AeMbIrUKZ,http://t.cn/zRt2TAr matchit ported into #emacs#  ,无,无,2013-10-19 20:50,微博 weibo.com,0,0,0
+Ae1GusR8b,"http://t.cn/zRt2TAr , evil-matchit  ",无,无,2013-10-14 22:27,微博 weibo.com,0,0,0
+AdQMfoVpz,"前端开发可用的#emacs#插件,最好的还是moz-repl,装个firefox插件然后拷贝几行elisp代码就行了.firefox插件非常稳定. 我已评估过live.js和skewer-mode  ",无,无,2013-10-13 18:41,微博 weibo.com,0,1,0
+AdyOOg06f,#emacs# helm 编程  ,无,无,2013-10-11 20:58,微博 weibo.com,0,1,1
+AduUxuBNv,如何高效使用git http://t.cn/zRbFIZq  ,无,无,2013-10-11 11:01,微博 weibo.com,0,1,0
+AcKOT88Lv,"如何学习新编程语言: http://t.cn/zRLoMwy , James Williams 的意见非常好.  ",无,无,2013-10-06 13:41,微博 weibo.com,0,2,1
+Ac2WP3jdS,"#emacs# , 不再用#nxml-mode#,改用#web-mode#, 语法检查用flymake+tidy  ",无,无,2013-10-01 21:59,微博 weibo.com,0,2,2
+Ab81FAeyL,"在#emacs#的dired buffer中copy/paste 文件路径,顺便欣赏emacs lisp的defadvice优美之处,几行代码搞定. http://t.cn/z8DGBRZ  ",无,无,2013-09-25 21:05,微博 weibo.com,0,1,1
+AaOZIxK4Z,"http://t.cn/z8dX9WH org-mode export, advanced tips  ",无,无,2013-09-23 20:38,微博 weibo.com,0,0,0
+A7CjXzTpz,"http://t.cn/z8cTB3k , Nikolaj Schumacher 是我喜欢的一个#Emacs# geek,目前在用他的full-ack, window-numbering 和highlight-symbol. 他的插件设计很有品味,也很实用.  ",无,无,2013-09-02 18:51,微博 weibo.com,0,0,0
+A7jfAapKH,100个#emacs#主题和截屏  ,无,无,2013-08-31 18:18,微博 weibo.com,0,0,1
+A6TlKx3vw,"http://t.cn/z8LrRdX 完成了,精简的vimrc,现在#emacs#精通后,#vim#配置可以小很多.  ",无,无,2013-08-29 00:22,微博 weibo.com,0,0,0
+A6Sjpnq9L,"正在对我的#vi#配置做大手术.既然我的主力编辑器是#emacs#,#vi#就尽量轻量级了,比如自动完成功能基本都删了.  ",无,无,2013-08-28 21:43,微博 weibo.com,1,1,1
+A5XDluhRM,#vi# 中我最喜欢的的两大插件终于都移植到#emacs#中了： 1. matchit: http://t.cn/zQFRoPN 2. nerd-commenter: http://t.cn/zjmOWuu 我有很大一部分功劳，嘿嘿。  ,无,无,2013-08-22 21:26,微博 weibo.com,0,2,3
+A5OCLwmd3,<writing solid code> 和 <code complete> 是两本编程技巧最基本的教程。我碰到的大多数程序员都不了解这些基本技巧。  ,无,无,2013-08-21 22:30,微博 weibo.com,1,1,1
+A5lpakbgg,"http://t.cn/zjmOWuu v1.2.0 ,在#emacs#高效注释代码块，比功能的话，vi在编辑器圣战中已惨败无疑了，嘿嘿。 sublime2,notepad++连参战资格都没有。  ",无,无,2013-08-18 20:06,微博 weibo.com,3,0,0
+A3Gulmbcp,"今天把#emacs#中几个常用的命令C-g,C-x b全部换成逗号开头的快捷键，目的是保护我的左手不会再按ctrl和esc键  ",无,无,2013-08-07 22:06,微博 weibo.com,2,5,8
+A3vKee6VJ,"http://t.cn/zQCtjEI , 用thunderbird或者#emacs#的gnus收公司outlook邮件.  ",无,无,2013-08-06 18:45,微博 weibo.com,0,0,0
+A2Ld08lIr,cpputils-cmake 更新到0.4.0版，改进对自动完成的支持。 http://t.cn/zjqDiXO #emacs#下写C++程序必备工具  ,无,无,2013-08-01 20:17,微博 weibo.com,0,2,3
+A2Ch63kcK,http://t.cn/zQ6HGDI 优化ansi-term in #emacs#  ,无,无,2013-07-31 21:32,微博 weibo.com,0,0,0
+A00LThxnT,"多窗口i3操作教程，http://t.cn/zQUn3R4 (youtube),这个应该到geek的顶点了。  ",无,无,2013-07-14 18:23,微博 weibo.com,0,2,4
+zFxuLccJL,如何再#Emacs#中快速注释行，http://t.cn/zjmOWuu 不要看说明了，直接看页面中的30秒动画。  ,无,无,2013-07-11 22:20,微博 weibo.com,0,0,0
+zFnrpdWDp,"目前我正在emacs的常用快捷键向vi方式迁移,例如窗口操作的快捷键都用"",s2""和"",s3""代替""Ｃ-x 2""和""C-x 3""  ",无,无,2013-07-10 20:44,微博 weibo.com,0,4,3
+zEQ5LiRAa,"http://t.cn/zOPVYPA 一年成为Emacs高手更新至20130706版,这次加了不少料.  ",无,无,2013-07-07 07:50,微博 weibo.com,1,5,1
+zEHkJvmIL,"松本行弘(Ruby发明者):Emacs怎样改变了我的人生, http://t.cn/zQzzdZD  ",无,无,2013-07-06 09:32,微博 weibo.com,0,1,1
+zEHkzsw7N,"我翻译的Ruby发明人<Emacs改变了我的人生>,和其他翻译不同的是我有翻译了一些C实现方面的技术资料说明,算是有点深度把.  ",无,无,2013-07-06 09:32,微博 weibo.com,0,0,0
+zECFRb4wP,"目前所在的公司搞什么前端开发者知识共享,现在已有不了了之的趋向.我认为是完全浪费时间,要点都缺失,正面要点1.牛人在一起2,互相竞争3,目的单纯(追求个人荣誉).反之则是1.牛人没有2,你说你的我毫无兴趣也听不懂3.目的就是做给老板看.  ",无,无,2013-07-05 21:41,微博 weibo.com,1,0,0
+zDYo29uUt,"cloudflare is my life saver. instead deploy 3rd party lip through some stupid CMS, you just need add a link to cloudflare cdn.  ",无,无,2013-07-01 15:07,微博 weibo.com,0,0,1
+zCleYlLd3,"l用emacs lisp写的bug tracker, 不需要数据库, 有emacs和一个文本文件就可以了, http://t.cn/zH1F6Nj  ",无,无,2013-06-20 21:37,微博 weibo.com,3,0,1
+zByMA4s1W,"有个geek把在branch中互相merge的混乱状况称为raibow merge,非常贴切.我不明白git rebase有什么难的,十年前就有branch rebase的概念了. http://t.cn/zHnKZBo  ",无,无,2013-06-15 18:15,微博 weibo.com,0,0,0
+zByIKtYqg,"http://t.cn/zHnoE51 , 相当不错的emacs plugin,我终于可以git blame别人了.  ",无,无,2013-06-15 18:06,微博 weibo.com,0,1,2
+zAYyayqKj,"http://t.cn/zTfb5rE 王垠的博客,谈程序设计语言部分,冷静客观,充满真知灼见,可能因为这是他的专业领域. 他的Emacs文章细节扯淡的部分很多,当然也可能是因为文章比较老的缘故.  ",无,无,2013-06-11 22:01,微博 weibo.com,0,0,1
+zAYiLf6yE,"在工作多年后,我对于大公司项目的理解就是钱比较多,让我们一起来花.问题是钱多了人就乱招了,菜鸟和南郭先生就会来制造更多的工作,对此我毫无意见,因为我按小时收费.另外也不是不能学到东西,比如菜鸟git branch乱来,我就要钻研git避免和菜鸟乱搞.不过长期这样搞是浪费我才能.  ",无,无,2013-06-11 21:23,微博 weibo.com,0,0,0
+zAY9I6yIs,"高效使用vimdiff解决git merge冲突(英文版) , http://t.cn/zH8c4ls  ",无,无,2013-06-11 21:01,微博 weibo.com,0,0,0
+zAVYC5WaU,"Ctrl-\ runs the command toggle-input-method, which is an interactive compiled Lisp function.  ",无,无,2013-06-11 15:28,微博 weibo.com,0,0,0
+zAOBrA8VD,"代码review和结对编程能够改善代码质量的迷信.让我做个类比,有科学证据表明婚姻有种种益处,独身有种种害处.但是具体到某人,享受婚姻种种益处的关键还是找对人!  ",无,无,2013-06-10 20:42,微博 weibo.com,2,1,1
+zAOdtgCma,"高效使用vimdiff和git解决合并冲突, 5行代码加入到.vimrc而已. http://t.cn/zHQqMg3  ",无,无,2013-06-10 19:42,微博 weibo.com,0,0,1
+zAr4GgLVy,今天成功激起一程序员学git的兴趣，一个control freak控制了master branch，要求你必须随时merge到master，并要把自己的个人branch push以供freak review，绝不push，拖，且偷偷使用rebase。目的是自己的commit线性的提交在freak的后面，因freak很喜欢推卸责任。所以技术上扼杀这种可能性。  ,无,无,2013-06-08 08:48,微博 weibo.com,0,0,0
+zAd1upd9G,http://t.cn/zH0dNrT 五行代码讲清git reset用法，我完全同意其中个每个观点，只有经常用git reset的人才能写得如此清楚。  ,无,无,2013-06-06 21:01,微博 weibo.com,0,5,1
+zzOUhaSwl,http://t.cn/zHCOqe2 the silver search  ,无,无,2013-06-04 07:38,微博 weibo.com,0,0,2
+zzhHMhspP,flycheck 坦率地说让我很失望，支持的语言数量很多，但是对javascript有严重的性能问题。报了bug后才知道用了xml的技术，坦率地说xml就是一堆狗屎，一个不该被发明出来的东西。现在还对xml津津乐道的人我对其技术评价极低，所以就和flycheck说拜拜了。  ,无,无,2013-05-31 19:06,微博 weibo.com,0,0,1
+zyZ3Nhj5z,#emacs#中完美多窗口操作，今天看了G+上热烈讨论，还是没有超出我文章的范围。http://t.cn/zW6C630  ,无,无,2013-05-29 19:38,微博 weibo.com,0,0,0
+zynHPkZDP,我以自org-mode中启用了evil-mode，所以现在快捷键都是vim的了。结合神的编辑器和编辑器之神的power。具体配置参考http://t.cn/zHtm2RG  ,无,无,2013-05-25 20:32,微博 weibo.com,1,5,7
+zxVrseNai,用惯了emacs后再用eclipse真麻烦。 如果我要在字符串里自动输入class名应该怎么做？  ,无,无,2013-05-22 20:35,微博 weibo.com,0,2,3
+zwEXejYB5,git真是好东西，普通的用git merge也不会造成太大危害，就是难看一点。厉害的用git rebase。关键是视觉上就把高手和一般的区别开了。  ,无,无,2013-05-14 12:47,Emacs.微博,0,0,0
+zwzaG9pUG,确认了org-mode 8.0会broke现在的org2blog，不过org2blog可能会合并到org-mode中，等吧  ,无,无,2013-05-13 22:03,微博 weibo.com,0,2,3
+zwno4nGPF,经典问题，模块A升级了（这个升级有没有必要难说），B依赖于A，于是就broken了。这个A是org-mode，这个B是org2blog，两者我都离不开，解决办法只有降级A，升级B的可能性目前没有。教训及其重要的模块一定要用稳定版。  ,无,无,2013-05-12 16:03,微博 weibo.com,0,0,0
+zvWCXrr7G,关于如何从gmail同步联系人到bbdb（相当于emacs的联系人），参见http://t.cn/zYZWdRp  ,无,无,2013-05-09 19:56,微博 weibo.com,1,0,0
+ztG6P5HZo,个人经验，如有同事在项目开始非常诚恳地向你请教一浅显的技术问题时，我强烈建议你要含糊其辞，不要帮他/她。以一个似是而非的白痴回答来试探，比如”我gentoo业余玩过，debian以前用过，centos装过，turbo linux12年前用过，emacs vim用得很熟，但ubuntu不熟”。以排除此人白痴且人品极差的可能性  ,无,无,2013-04-24 22:12,微博 weibo.com,1,7,7
+ztlZrqDs8,"company-cmake, 写cmake脚本时加上自动完成。http://t.cn/zT6XFTR  ",无,无,2013-04-22 18:59,微博 weibo.com,0,0,0
+zt50HnQdH,这个周末给company-mode加上了cmake的支持。cmake其他都好，就是查文档，自动完成太痛苦了。不过有了Emacs都不在话下。  ,无,无,2013-04-20 23:45,微博 weibo.com,0,0,0
+zsVeFbusr,今天有两个java阵营的搬出所谓的java之父James Gosling的2008年的言论，Emacs太土了云云。我真想说，就是Richard Stallman教主叫我不用Emacs，我还要和他好好探讨呢。  ,无,无,2013-04-19 22:52,微博 weibo.com,0,2,6
+zssLKlCce,有人反映用了我的emacs.d后发觉ido-mode有时比较烦，比如输入文件路径时它提示可能不是你想要的，按C-e，进入编辑模式直接输入路径名就可以了。  ,无,无,2013-04-16 22:24,微博 weibo.com,0,0,2
+zrsbRlP0X,"git pull --rebase不错.有时候还是要环境逼一下,我才能学习新东西.  ",无,无,2013-04-10 07:05,微博 weibo.com,0,0,0
+zrdGy4G0r,"正在给company-modeb报bug, http://t.cn/zTbHL5o .  ",无,无,2013-04-08 18:10,微博 weibo.com,0,0,0
+zqT1D47Q1,"<一年成为emacs高手>更新了, 更新记录和链接见http://t.cn/zTU9ItF  ",无,无,2013-04-06 13:34,微博 weibo.com,1,15,4
+zqArmw2xH,"http://t.cn/zTLuAB6 , 按 ""kj"" 代替""ESC"", 在Emacs中  ",无,无,2013-04-04 14:15,微博 weibo.com,0,0,0
+zqA41dFcx,"#smartparens-mode#不错,autopair-mode一年没有维护了.  ",无,无,2013-04-04 13:18,微博 weibo.com,0,0,2
+zpwIDwLHo,"关于用purcell或者我的emacs.d,slime有问题的,原因可能为slime升级后,第三方软件包兼容问题,解决方案为除了slime的软件包都删掉.成功后将结果报告给我.  ",无,无,2013-03-28 14:56,微博 weibo.com,0,1,0
+zpoyCwziM,"org-mode 创始人谈emacs, lisp,编程, http://t.cn/zThomhT  ",无,无,2013-03-27 18:10,微博 weibo.com,1,3,0
+zpkqM07SK,"http://t.cn/zThvkmj ""M-x align-regexp"", 按列format text,列的分割符号是正则表达式  ",无,无,2013-03-27 07:39,Emacs.微博,0,0,0
+zpjRjsT4X,"http://t.cn/zTPsSwB , 不错的Emacs介绍,针对vim用户. 我长久不用vim,一些插件以不熟悉了.  ",无,无,2013-03-27 06:12,微博 weibo.com,0,0,0
+zp24Ajiqb,"emacs困扰我的问题是会默认自动识别系统当前时间locale, 我不需要这个,修改方法很简单, 该system-time-locale, 见http://t.cn/zTvAKLM  ",无,无,2013-03-25 08:55,微博 weibo.com,0,1,1
+zoSnL6c4H,"不用键盘用语音编程, http://t.cn/zYsMldo .  ",无,无,2013-03-24 08:15,微博 weibo.com,0,0,0
+zoJsqbd8k,"工程师争论style是最无聊的事情,我觉得最有利的就是不争论,按你的style来,但是我要保证所有的细节都比你做的出色,然后你羞愧难当自己买块豆腐撞死算了.  ",无,无,2013-03-23 09:32,微博 weibo.com,1,1,1
+zoJoTvJJS,"sr-speedbar, speedbar, ace-jump-mode结合再文件和函数名间跳转相当不错.如果能存储speedbar当前状态就更好了.  ",无,无,2013-03-23 09:23,微博 weibo.com,0,1,2
+zofX4zXXt,"http://t.cn/zYDqzW5 , emacs教程加最新特性概述,非常优秀  ",无,无,2013-03-20 06:25,微博 weibo.com,1,9,9
+zo72Jq989,"看来我已变成#mooz#的fan了,又用了他的percol,可以加强bash shell的工具  ",无,无,2013-03-19 07:44,微博 weibo.com,0,0,0
+zo6cB1hAC,"用了mooz的js-doc.el,用来给javascript函数加注释的,相当不错.mooz是#emacs#界的又一大神.  ",无,无,2013-03-19 05:36,微博 weibo.com,0,0,0
+znRgvmQh3,webkit-gtk到某个版本开始使用gtk3了，我用的某软件依赖于webkit-gtk，于是经典A依赖于B，B依赖于C问题又开始了。不幸的是我用的是gentoo，webkit还有另一个很大的C++库重新编译了好几遍。最后查./configure的log才查出来。  ,无,无,2013-03-17 15:34,微博 weibo.com,0,0,2
+znQ8gomLc,"https://github.com/mikeric/rivets/issues/131 ,rivetsjs缺少一些关键的API，因为javascript没有私有数据，所以直接hack了. 如果是所谓纯正的面向对象语言，我只能去跳楼了。  ",无,无,2013-03-17 12:41,微博 weibo.com,0,0,0
+znAshrWGR,B依赖于A的某个特性，A升级后废掉了该特性，于是B不可用了。这几乎是经典问题了。Emacs的包管理当然也不例外。。解决办法很多，最懒人的办法就是照抄高手的设置，等到你对这个经典问题熟悉了，再自己改设置吧。  ,无,无,2013-03-15 20:47,微博 weibo.com,1,0,1
+znyk9fs3L,"今天读了emacswiki,原来js2-mode现在是由mooz维护的,一个日本geek,其水平是神一样的级别.keysnail的作者.  ",无,无,2013-03-15 15:21,微博 weibo.com,0,1,1
+znycn1mGt,"今天被optus的工程师强推webstorm,emacs被鄙视了,试用了一下,javascript语法检查还可以,没有js2-mode强.快捷键可以切换为emacs方式的,没问题.用吧,既然公司掏钱.就当福利了.  ",无,无,2013-03-15 15:02,微博 weibo.com,0,0,0
+znwcE2kxR,"http://t.cn/zYraXK6 , emacs tips on flyspell.  ",无,无,2013-03-15 09:57,微博 weibo.com,0,0,0
+zmOcbxWbV,"http://t.cn/zYuiJzI , 关于wdired的讨论,在Emacs中给文件批量改名的.我认为结合evil-mode效果更佳  ",无,无,2013-03-10 17:55,微博 weibo.com,0,0,0
+zmMQfkWiF,"终于搞清mpd如何打开m3u文件, 重要的是mpc update.见mpd的论坛,http://t.cn/zYutqJD我是读遍了gentoo和arch的wiki和论坛都没搞明白.  ",无,无,2013-03-10 14:28,微博 weibo.com,0,0,0
+zmB6WFgHl,"#gentoo# install latest firefox, sudo ebuild /usr/portage/www-client/firefox-bin/firefox-bin-19.0.ebuild unpack compile install qmerge clean  ",无,无,2013-03-09 08:36,微博 weibo.com,0,3,1
+zmwk5Ewan,"xbindkeys, #Linux#下任何WM都用同一个配置绑定多媒体快捷键.  ",无,无,2013-03-08 20:25,微博 weibo.com,0,0,0
+zmjW3ptJI,#nxml-mode#中的nxml-forward-element基本解决了html tag匹配的问题，只是操作有点古怪，焦点放在open tag的第一个字符上或者放在close tag之后的一个字符上。  ,无,无,2013-03-07 12:53,微博 weibo.com,0,0,0
+zlpuVyK1d,最新的js2-mode只支持#emacs#24.1，js2-mode就是一个elisp写的js解析引擎，考虑到js2-mode如此有用，我建议可能的话还是尽快升级emacs吧  ,无,无,2013-03-01 13:12,微博 weibo.com,0,2,1
+zl9LNjO1j,gnupg 2.x使得emacs的easypg完全不可用.只有降级gnupg到1.x版本.  ,无,无,2013-02-27 21:10,微博 weibo.com,1,0,0
+zkse17isN,"不小心把#gentoo#中的gcc依赖的libmpc.so.3.0.0搞掉了,于是陷入了先有鸡还是先有鸡蛋的问题.因为gentoo需要gcc编译来安装包libmpc,而没有libmpc,gcc跑不起来.最后找了个fedora的rpm秀发.  ",无,无,2013-02-23 06:19,微博 weibo.com,0,0,0
+zko1ki4VU,I'm a happy gentoo user now.  ,无,无,2013-02-22 19:36,微博 weibo.com,0,2,4
+zkl3icTmT,"转向helm,不过ido和smex还用,http://t.cn/zYCrdX9  ",无,无,2013-02-22 12:03,Emacs.微博,0,0,0
+zkf935eqW,"我可能会用#heml#,目前还在调查中.  ",无,无,2013-02-21 21:01,微博 weibo.com,0,0,0
+zjCH1vALZ,"今天从archlinux阵营转到gentoo来了,因我新配的电脑,archlinux启动盘不认.而且archlinux把我训练得已经不用重量级软件了,那么为什么不转到gentoo,更轻量级呢.  ",无,无,2013-02-17 19:07,微博 weibo.com,0,11,9
+zjadL5Cl1,"昨天我们这边的技术老大不愿意用foundation.css或者bootstrap,坚持自己从头写(也就是我写了).好极了,我反正是按天收钱,合同拖得越长越好.  ",无,无,2013-02-14 18:38,微博 weibo.com,3,0,1
+ziXD8bNv3,ubuntu is for kids  ,无,无,2013-02-13 10:35,Emacs.微博,0,0,1
+﻿ziWzgbJ0g,"C-M-s => 'M-x tags-search', useful when you use ctags for javascript code navigation  ",无,无,2013-02-13 07:53,Emacs.微博,0,0,2
+ziFSJwb9D,"目前我的emacs.d支持emacs23.3.1,因我工作环境换到不那么先进的ubuntu了,发现了几个emacs.d的bug,见http://t.cn/zYMMaBD  ",无,无,2013-02-11 13:24,Emacs.微博,0,0,1
+ziFQFy20Q,用java和backbone.js的最大好处就是可以用我喜爱的Linux和Emacs.  ,无,无,2013-02-11 13:19,Emacs.微博,0,0,4
+ziFKUB9As,"今天开始optus的合同,希望这个项目能坚持到我退休的那一天,用java+backbone.js  ",无,无,2013-02-11 13:05,Emacs.微博,0,0,5
+ziomQzkYb,"#emacs#下的terminal最适合我的还是ansi-term,完美支持bash,而我是bash狂,麻烦的在于kill/yank,现在也解决了. 具体配置见http://t.cn/zYfxwC6  ",无,无,2013-02-09 16:49,微博 weibo.com,0,1,0
+zil2xixzp,"#emacs#的skewer-mode不错,在Emacs里写javascript立刻可以在浏览器里看到效果. http://t.cn/zYf7dDP ,我评估下来应该到了beta阶段.  ",无,无,2013-02-09 08:20,微博 weibo.com,0,6,2
+zi3qZDjFB,"现在在尝试bookmark+,主要是和dired+结合以代替文件管理器.  ",无,无,2013-02-07 11:31,微博 weibo.com,0,0,0
+zi2z49qBS,<一年成为Emacs高手>更新到20130207版 . 强调读官方教程. http://t.cn/zOPVYPA  ,无,无,2013-02-07 09:18,微博 weibo.com,0,2,0
+zhNuZgQEx,"有很多#Emacs#新手先入为主认为高手就是要记快捷键多,谁说的?多用smex就行了.拷贝粘帖到系统剪贴板算是高频率操作吧?我就不设快捷键.所以某某命令和某某命令快捷键冲突了怎么办?两个都不用快捷键.  ",无,无,2013-02-05 18:57,微博 weibo.com,0,1,2
+zhEGb9Q1G,"purcell的emacs.d支持slime,取决于你用什么lisp解释器,我用sbcl,然后见http://t.cn/zYqxvmz 我不用lisp,纯粹是解疑 , 有人可能还是没好好读我的<一年成为Emacs高手>, 我已经授人以渔了,FAQ还举了搜索init.el的例子.  ",无,无,2013-02-04 20:30,微博 weibo.com,0,0,0
+zhw4VsTh4,"http://t.cn/zYGXlQY 被cedet摧没信心的.谁说#Emacs#下写C++用cedet?这是我写<一年成为Emacs高手>的原因,新手想当然,走了弯路.我不用cedet,更好的替代品多的是.  ",无,无,2013-02-03 22:36,Emacs.微博,1,12,8
+zhrSDrtt2,"用#emacs#耍酷,开八个子窗口,然后飞快地切换窗口焦点,一秒钟内要切换个5,6遍.象好莱坞电影里黑客那样.具体办法见http://t.cn/zYbFOLk  ",无,无,2013-02-03 11:55,微博 weibo.com,1,1,0
+zgZZRjxm3,"一年成为#emacs#高手周年感悟,http://t.cn/zYyu2yr ,一年到了,你是否成为高手了呢?  ",无,无,2013-01-31 12:56,微博 weibo.com,0,1,2
+zgJ5mw4at,"http://t.cn/zOPVYPA , <一年成为Emacs高手>更新了.加入了一些答疑.  ",无,无,2013-01-29 17:53,微博 weibo.com,1,3,0
+zgrTn1419,"#git#操作我基本只用命令行,因为可以在shell中设alias,例如""git status""只需敲一个g.不过git-blame在emacs中确实比较方便,也很简单,""C-x v g""就可了,不需要装任何插件.还有就是看看log,先""C-x v d"",选好目录(这点很重要),然后C-x v l.  ",无,无,2013-01-27 22:06,微博 weibo.com,0,1,1
+zgeF46qkS,"从gmail中最快导入contacts到#emacs#的#bbdb#的步骤,http://t.cn/zYZWdRp  ",无,无,2013-01-26 12:25,微博 weibo.com,0,0,0
+zg7x26Alb,"在#Linux#上装了systemd,重启动服务比以前块很多了.Linux的技术进步真的是看得到的.我的服务器是5年前的eeepc701.我打算再坚持5年.  ",无,无,2013-01-25 18:16,微博 weibo.com,1,1,1
+zfLgsBTpm,"在#emacs#中同时搜索google code和stackoverflow,写代码的人都知道怎么回事  ",无,无,2013-01-23 09:35,微博 weibo.com,1,0,2
+zfKOotmXv,#emms#在我用#emacs#做其他开发的时候会有点卡.和Emacs单线程可能优点关系.  ,无,无,2013-01-23 08:26,微博 weibo.com,0,0,0
+zfD9IErVV,"http://t.cn/zjqDiXO 更新到0.2.0,让#emacs#变成智能C++ IDE.另外国内国外所有关于让Emacs变成C++ IDE的文章我都看过了,技术上都不错,但是作为专业开发还不行.关键是配置要手动,而且太麻烦,另外真正开发中碰到的问题（虽然技术含量很低）没有解决。  ",无,无,2013-01-22 12:57,微博 weibo.com,0,0,0
+zeQydnCpW,"#elisp#并不难学,http://t.cn/zjDhLld  ",无,无,2013-01-17 09:12,微博 weibo.com,0,0,0
+zeKQhxPq4,"今天在回答别人#yasnippet#的问题是突然想到,如果hotkey不设为TAB,单独用yasnippet,我可以把snippet的key缩短至单字母.这里还牵涉自己重设的snippet优先度应该高于官方snippet的问题,需要官方支持(支持的,我测过了). 例如原来key是main,现在就是m了.  ",无,无,2013-01-16 18:40,微博 weibo.com,0,0,0
+zesEtxj3V,"看了一天的ppt,看了6个小时,卡在了35页,我想怎么内容那么多,后面还有100页,要看一个礼拜了,原来35页是提纲,我把第35页的每一点都查了文档,跑了例子,结果从第36页都不用看了.;)  ",无,无,2013-01-14 20:22,Emacs.微博,0,2,2
+zes3WfLn1,"Emacs的哲学就是给你lisp,爱怎么玩都可以,用户要求再高也不会超过用lisp搞人工智能的需求,所以包治百病.如果一个功能Emacs没有,那只是还没人写的原因,绝对不会写不出.  ",无,无,2013-01-14 18:52,微博 weibo.com,1,3,0
+zeqBYwREm,"关于#Emacs#中保存窗口设置到register(C-x r f),我建议就别看了,浪费时间没什么实用价值,除非你永远不关机.还是用workgroups  ",无,无,2013-01-14 15:10,微博 weibo.com,1,0,0
+zeqykcyZ5,将#emacs#窗口配置保存到硬盘，这是我的配置，http://t.cn/zjdWp8g，原来的包有点bug。  ,无,无,2013-01-14 15:01,微博 weibo.com,0,0,0
+zehBN9knB,#mac#下直接用mpd播放音乐，最终我mac下用的软件和Linux下完全一样了  ,无,无,2013-01-13 16:15,Emacs.微博,0,0,1
+zdZFh1Oy3,"#mac#下的itune很烂，flac格式不支持，下载了个免费的mplayerx，又不支持m3u,最后我直接下载安装mplayer，纯命令行软件，结合emms，全平台通吃.  ",无,无,2013-01-11 18:34,Emacs.微博,1,1,4
+zdU5haeUe,"對@张蕾Lorna 說: 微博提示你和我都上海中学毕业,可能我们是同学,你是哪年中学毕业的,我有一同学和你同名.  ",无,无,2013-01-11 04:22,微博 weibo.com,0,0,8
+zdTXVey7F,"http://t.cn/zj1E4Fj #emacs#配置优化,启动时间从32秒降到14秒.  ",无,无,2013-01-11 04:04,微博 weibo.com,0,2,2
+zdHEbtINi,evil-nerd-commenter  ,无,无,2013-01-09 20:42,微博 weibo.com,0,0,0
+zdHDYv4qb,"两个#emacs#plugin更新,cpputils-cmake更新到0.1.2(维护,改了点小bug). nerd-commenter更新到0.0.2(vim中最受欢迎的nerd commenter的#emacs#版本)  ",无,无,2013-01-09 20:42,微博 weibo.com,0,0,0
+zdn7zdUP5,"在#emacs#上快速的comment/uncomment lines,模仿#vi#上的nerd commenter, http://t.cn/zjmOWuu  ",无,无,2013-01-07 16:27,微博 weibo.com,0,0,2
+zdeYIjC3L,"#archlinux#中的软件列表自动同步到github, http://t.cn/zjnE0zo  ",无,无,2013-01-06 19:43,微博 weibo.com,0,0,0
+zcWZk3Dj5,"#emacs#中的lua-mode配置,http://t.cn/zjEbh6y  ",无,无,2013-01-04 21:55,微博 weibo.com,0,1,0
+zcJAfmkoO,"#cmake-mode#中的代码看了以下,#cmake#自动完成和查文档以完美支持,查文档用M-x cmake-help-command,自动完成用M-x cmake-help-list-commands然后M-x hippie-expand  ",无,无,2013-01-03 11:48,微博 weibo.com,0,0,0
+zcEFpDZIk,"已顺利切换到#archlinux#下的#i3-wm#,以前用过好多同类wm(包括i3),后来转到学习曲线较低的musca.现在又回到i3.这次顺利切换,是因为把文档耐心读了一遍.而能读文档,是因为G+上其他用户的鼓励且其鼓励很对我的风格.所以做任何事情,遇到正确的人,以及自己下决心是最重要的.  ",无,无,2013-01-02 23:17,微博 weibo.com,0,1,2
+zclg7kBqF,"#Archlinux#上的window manager从musca切换到i3,musca很满意,其唯一问题就是以三年没有更新了.i3需要看半小时教程,其唯一难点是container.  ",无,无,2012-12-31 21:52,Emacs.微博,0,0,0
+zbGby0kAm,"gdb中打印宽字符的办法,google上头一条结果和stackoverflow都瞎写的,唯一正确的是http://t.cn/zjj61al 因我用Mac上的gdb,版本老.  ",无,无,2012-12-27 13:18,Emacs.微博,0,0,0
+zbytFBJ4O,"在G+中学到Gnus的一招,按#选择多封邮件,然后C-c C-f可以forward到一封邮件.我要quote之前多封邮件说清楚一件事时需要用.  ",无,无,2012-12-26 17:41,Emacs.微博,0,1,1
+zbwUUwNZK,"yahoo的clearsilver我也调查过,连安装都进行不下去.还好没用.看这http://t.cn/zjllZHo语法诡异,难以维护,最可笑的是clearsilver自夸用C写的性能很好.结果人家用lua做的方案要比它快5倍.  ",无,无,2012-12-26 13:42,Emacs.微博,0,0,0
+zbwIwwEcQ,"ctemplates实在太难用了.虽然有google的盛名,还是垃圾啊.我打算最后采用lua的方案,随便哪个都好.200行lua代码的事情.  ",无,无,2012-12-26 13:12,Emacs.微博,0,1,2
+zbphs4qW5,"emms作为mp3播放器非常容易安装,从安装package到配置花了我5分钟时间.比mpd容易.mpd的最大问题是现在不工作了,而且我又懒得再调试了.  ",无,无,2012-12-25 18:16,Emacs.微博,0,0,0
+zaW6T7bkB,#emacs#牛人Magnar Sveen的新网站http://t.cn/zj0xuaZ  ,无,无,2012-12-22 16:00,微博 weibo.com,0,0,0
+zaMbBmGrW,"G+的#emacs#社区是我看到现在最geek的了.对#emacs#有兴趣的赶快去潜水吧.之前我还订了linkedin的#emacs#社区,我打算退掉了.linkedin的#emacs#社区实际上不错,就是人的平均geek度还不够高,facebook人气更差.  ",无,无,2012-12-21 14:44,微博 weibo.com,0,0,2
+zaAhUdKgr,"在#emacs#里写文本邮件,然后转换为html邮件(例如html表格).装org-mime,然后多按一次快捷键就行了.没有比这更简单的了.  ",无,无,2012-12-20 08:27,微博 weibo.com,0,0,0
+zazRekJyX,"emacs高手的工作流,http://t.cn/zjNwAo3  ",无,无,2012-12-20 07:21,微博 weibo.com,0,0,0
+zamaL5jux,"cpputils-cmake升级,支持C语言了. http://t.cn/zjqDiXO  ",无,无,2012-12-18 20:31,微博 weibo.com,0,1,8
+zaaoysnz3,"另外我基于gdb的经验还不够资深,以前是用DDD(gdb前段)开发C的,关于gdb和Emacs结合,如有好的资料,给我推荐一下.  ",无,无,2012-12-17 14:32,微博 weibo.com,0,0,0
+zaakpmnOB,"一月中旬会有关于#C++#和#Emacs#的文章.可以看http://t.cn/zjK1azZ上emacs.d和cpputils-cmake两个项目了解一下.重点在于工作流效率而不是典型的""看看Emacs多酷"".我是实用派,效率不高于Visual Studio就不会讲.目前我没把握的是Cedet有多可用?  ",无,无,2012-12-17 14:22,微博 weibo.com,0,0,1
+z9TotlTZl,weibo emacs是如此优秀的软件.  ,无,无,2012-12-15 19:15,Emacs.微博,1,0,2
+z9T1IEOtS,"compile成功隐藏通知窗口.关键是compilation-finish-functio, http://t.cn/zjoJTjR  ",无,无,2012-12-15 18:19,Emacs.微博,0,0,0
+z9I9HjjoC,"#emacs#支持离线看邮件.搜索一下官方文档中关于gnus agent的文档.文档质量很不错.很好读懂,重点突出.  ",无,无,2012-12-14 14:39,Emacs.微博,0,0,2
+z9I69ajc7,"#Emacs#的最大优点或者是最大缺点,就是对老用户太忠诚了.几十年的界面,只要还有一个老头在用,就会一直维护下去.例如今天有人抱怨Gnus不支持离线看IMAP邮件.我查了一下文档,完美支持.只是用户界面是多年前看新闻组的界面(照顾老用户的习惯).所以一般人都不会有耐心用下去.  ",无,无,2012-12-14 14:30,Emacs.微博,0,1,2
+z9I2o14bU,"苹果的Mail大概是我有史以来用过最烂的邮件软件了.10年前的foxmail,outlook express也比现在的mail做的好.搜索不可靠.拖邮件附件也拖不上,速度又慢.  ",无,无,2012-12-14 14:20,Emacs.微博,0,1,2
+z9wl87E3F,"#emacs#的一个强大插件#iedit#.典型应用.我在维护一个很大的函数时,发觉函数内的一个局部变量名需要改一下,按快捷键'C-c ;'(这个快捷键是我设置的),输入正确的变量名就可以了.UI友好,你的任何修改都有实时视觉反馈.  ",无,无,2012-12-13 08:34,微博 weibo.com,1,0,0
+z9rhdwqkX,"#elisp#上手很快.#elisp#的一个无以伦比的优点就是少打很多字.例如(concat ""ab"" ""cd"" ""ef""),又如(+ 2 3 4 5 6),少打多少加号啊.函数式编程我到觉得无所谓.有当然更方便,没有也过得去.  ",无,无,2012-12-12 19:40,Emacs.微博,0,1,2
+z9r1ObEuI,"在#emacs#中C++编程时,compile window非常烦人,参考http://t.cn/zjahHT2 改为除非出错,否则自动隐藏该window.这段代码的出处不知道了.网上到处都是拷贝.很好用.  ",无,无,2012-12-12 19:02,微博 weibo.com,0,0,0
+z8LXPxl13,"装了#twittering-mode#,因twitter最近看得少了.  ",无,无,2012-12-08 10:30,微博 weibo.com,0,0,0
+z8CtbBh81,"奇客(Geek)的常用软件清单(操作系统支持OS X, Windows, Linux) , http://t.cn/zOhdSb5  ",无,无,2012-12-07 10:20,微博 weibo.com,0,0,0
+z8dmrgHeo,"读了#org-mode#官方文档,org转换微软的word文档早已有完美方案了,搜索""odt export option"",在#emacs#中适当设置后,输出odt文档会自动调用libreoffice命令行生成同名的word文档,以前困扰我的表格列宽度问题实际上在文档中也早已说明.是我十多年来看到最完美的方案.  ",无,无,2012-12-04 18:24,微博 weibo.com,1,0,0
+z85en9s94,"POPFile帮我分拣邮件的准确率以达到64.5,刚学习了30封邮件.贝斯叶算法真是个好东东.  ",无,无,2012-12-03 21:43,微博 weibo.com,0,0,0
+z7HL2gIyw,"popfile,使用bayesian算法自动分拣IMAP邮件(支持GMail).web界面,有效性不容置疑,通吃所有平台,开源,只要学习(你帮助popfile手动分拣)30多封邮件就够了,学习完后就完全是自动了.不要指望#gmail#会实现该功能,因为比较geek.  ",无,无,2012-12-01 09:57,微博 weibo.com,0,1,0
+z7AF7sUvl,"http://t.cn/zjtBNsB例子,按'逗号 g',光标下的词在w3m中的指定引擎搜索,google code search是例外,在firefox中打开.需要在#emacs#中安装插件evil,w3m,evil-leader.  ",无,无,2012-11-30 15:53,微博 weibo.com,0,1,2
+z7gj3prqJ,"我的#emacs#插件cpputils-cmake已经发布了http://t.cn/zjqrlNO 实时c++语法检查(需要flymake)和intellisense(需要auto-comple和auto-complete-clang),我的插件和第三方插件都可以通过package manager安装  ",无,无,2012-11-28 12:04,微博 weibo.com,0,1,4
+z6QioDR0P,"我关于ctags的博客,http://t.cn/zjbVoW7  ",无,无,2012-11-25 17:51,微博 weibo.com,0,0,0
+z6orfz1zv,"我打算有空写个用Emacs开发调试C++程序的完整方案(例如,实时C++语法检查).我是实战派,那种cedet和semantic的学术派方案我是深恶痛绝的.有相关问题请给我评论,我写的时候会一并考虑的.  ",无,无,2012-11-22 18:56,微博 weibo.com,0,5,8
+z6ogrnBi1,"#Emacs#和#ctags#结合使用的最简单方案,实际上Emacs已经提供很好的方案了,只是文档实在读起来费解,具体见http://t.cn/zjUhpno需翻墙),只要关注tags-table-list变量就可以了.  ",无,无,2012-11-22 18:29,微博 weibo.com,0,1,4
+z6nZ1nu5o,"好文章,<创业6年挣80万>,http://t.cn/zjUvjPF技术上也是这样,真正好的技术都是长时间坚持下来的.  ",无,无,2012-11-22 17:46,微博 weibo.com,0,0,0
+z5ADt4d2T,"用#emacs#的#gnus#收发Gmail邮件的完整英文教程(去掉了geek的东西,保证整个workflow可以走通,有完整的sample配置可以抄,细节都考虑到了,例如邮箱密码需要用gpg加密),一个技巧,发邮件的时候不需要打开gnus,快捷键C-x m就可以了.全文见http://t.cn/zjALgHf还有一个选择就是读gnus手册了;)  ",无,无,2012-11-17 12:09,微博 weibo.com,0,2,3
+z5vkfEOCw,"#emacs#中的#golden-ratio#有个bug,(balance-windows)在select-window时不应调用,似乎解决了我报的两个bug,fix见http://t.cn/zjwBa2L另外配置见http://t.cn/zjwBa2y (如特定mode或buffer不启动golden-ratio的话)  ",无,无,2012-11-16 22:38,微博 weibo.com,0,0,0
+z5gmZ2tBR,有些人不鸣则已，一鸣惊人，我鸣了100次，才获得了【语惊四座】勋章，我痛苦地发现：嗓门小，害死人啊！http://t.cn/zjZWF0X  原图 ,http://ww2.sinaimg.cn/large/62c7ba43jw1dq0pum0neij.jpg,无,2012-11-15 08:33,勋章馆,0,0,0
+z5buXnBqS,"http://t.cn/zjZfT0h google+上讨论最有用的三个#emacs# mode, #org-mode#有很多人选,其他就仁者见仁了.  ",无,无,2012-11-14 20:09,微博 weibo.com,0,2,6
+z5bjBxkuC,"安装了#emacs#中的#golden-ratio#插件,将当前控制焦点所在子窗口按黄金比例适当放大,非常赞,神用的编辑器真的不是开玩笑的,你想得到想不到的功能都有人开发.  ",无,无,2012-11-14 19:41,微博 weibo.com,0,23,1
+z4qN5s9dI,"将#emacs#的org文件输出为word文档的最好方法是,输出为odt文件,然后用最新版的libreoffice另存为word文档,有时手动需要调整word中表格的列宽.最新版的libreoffice很重要,否则会有跨页表格多一空行的小bug.相信我,我以把Linux下所有org转rtf/word的工具都试过了  ",无,无,2012-11-09 21:15,微博 weibo.com,0,0,2
+z3zF4q9UQ,#能睡到自然醒吗#  ,无,无,2012-11-04 05:59,微博手机版,0,0,0
+z3vNgaFhH,"VimL是github上最讨人嫌的语言,语言名字带C的负面情绪都会比较多(除了C#)会java的语言的一般其他语言都不太碰,会ruby的javascript一定也懂.这是Ilya Grigorik调查github的报告,见http://t.cn/zlectIj  ",无,无,2012-11-03 20:08,微博 weibo.com,0,0,0
+z2Pc8i2IQ,http://t.cn/zlBgzbd stackexchange is too useful  ,无,无,2012-10-30 07:42,微博 weibo.com,0,0,4
+z2pB0sMMk,"#gnus#教程,简短容易,覆盖了包含日常邮件管理的基本操作,重点突出,http://t.cn/zl12a63  ",无,无,2012-10-27 14:31,微博 weibo.com,0,3,3
+z1clPygRd,"试用#gnus#收发#gmail#邮件要点,见http://t.cn/zl8BQRE我几乎读过网上所有关于#gnus#的帖子,写的都很详细,太繁琐,很多炫技性的东西.最基本的工作流就淹没在geek的技术讨论里了.但是如果你不知道如何能第一时间看到最新邮件的话(很有可能,如用了打分系统的话),你对#gnus#就会丧失信心.  ",无,无,2012-10-19 14:58,微博 weibo.com,0,0,2
+yFjRojzlA,"我的HTC desire GSM (G7) 终于越狱了,先用#刷机精灵#root,然后用安装#CyanogenMod#dailybuild版,然后安装对应的android 2.3的google app pack(wiki上都有详细信息).爽死了.  ",无,无,2012-10-07 12:53,微博 weibo.com,1,0,0
+yEjW9gi2l,"正在读RMS大神写得gdb教程,最近对C又恢复兴趣了.http://t.cn/ht6Owg  ",无,无,2012-09-30 23:14,微博 weibo.com,0,0,0
+yEiOw8e8w,http://t.cn/zlcWNKj 高端#emacs#用户现在用到的一些插件都有演示.  ,无,无,2012-09-30 20:23,微博 weibo.com,0,0,7
+yEacejy1J,"emacs24要求gdb是7.0以上.在我的OS X 10.7.3上只有gdb6.3,所以只能用M-x gud-gdb启动gdb session,M-x gdb是不行的.  ",无,无,2012-09-29 22:26,微博 weibo.com,0,0,0
+yE6oLdBu6,"看到很多人说#emacs#很强大,拿emacs煮咖啡说事,其实这算什么啊.我来举个例子吓死你,查一下#deldo#. http://t.cn/zlqxfV8 http://t.cn/zlqxfVQ中的geek说,喜欢emacs,和爱emacs是有区别的,爱就是要和emacs亲密接触过,哈哈.  ",无,无,2012-09-29 12:46,微博 weibo.com,0,0,1
+yE0g1eAQ0,"最新版的#yasnippet#改了很多API,导致#auto-complete#和其不兼容,解决办法只有降级(我看过源代码了,也给yasnippet的原作者报告了),老版本的yasnippet下载http://t.cn/zlGUT15  ",无,无,2012-09-28 21:08,微博 weibo.com,0,0,2
+yDNYqtKPq,"#premake4#相当不错,5分钟一个简单的项目就建立起来了,可以产生gnu makefile (bakefile产生的是Makefile.in,还要自己写configure.ac),#cmake#的问题是脚本的语法有点恶心,产生的makefile又要用cmake.但是cmake是最强大的  ",无,无,2012-09-27 13:52,微博 weibo.com,0,0,0
+yDNP5lQx9,"stackoverflow上调查了一下,似乎premake4比bakefile更好,premake4用lua作为脚本语言  ",无,无,2012-09-27 13:29,微博 weibo.com,0,0,1
+yDF4KohGc,"有人用过#bakefile#管理C++代码吗?调查了一下背景,微薄有2条,G+3条,twitter0条提到.  ",无,无,2012-09-26 15:13,微博 weibo.com,0,0,0
+yDF2laOZI,"macbook air有时候蛮卡的,在我要交作业时感觉火特别大.我以前eee pc701下优化过得Linux用firefox和emacs速度飞快  ",无,无,2012-09-26 15:07,微博 weibo.com,0,0,0
+yDF0XuVgc,"git archive -o hello.zip HEAD,直接打包代码发掉,还是蛮爽的.  ",无,无,2012-09-26 15:04,微博 weibo.com,0,0,0
+yDEZwxgl6,"今天一天贡献给ruby on rails笔试了,晚上还要做C++笔试题.  ",无,无,2012-09-26 15:00,微博 weibo.com,0,0,0
+yDnrni1p6,"让OS X对ntfs移动硬盘可读写,http://t.cn/zl28a8o系统混过来的从来不会想到为文件读写这种小玩意付钱的.  ",无,无,2012-09-24 18:19,微博 weibo.com,0,0,0
+yDjKgndoL,"<如何高效利用GitHub>不错,如何高效利用GitHub - 阳志平的网志  ",无,无,2012-09-24 08:55,微博 weibo.com,0,0,1
+yD6oXoYkp,"#yasnippet#,最新版本yasnippet-20120822.52把初始化接口函数删了一个,修复见http://t.cn/zlAKP4B  ",无,无,2012-09-22 22:56,微博 weibo.com,0,0,0
+yD5zZq2UA,"http://t.cn/zlAiiIB #emacs# rocks第12章,自动输入end tag,成对高亮删除tag,以及用#zencoding#快速输入html,极其强悍.emacsrocks出品的都是精品.  ",无,无,2012-09-22 20:51,微博 weibo.com,0,0,0
+yCD8VesCC,"http://t.cn/zlzknHP纯正口音,斯坦福大学毕业的.  ",无,无,2012-09-19 20:27,微博 weibo.com,0,0,0
+yCuCB4YsL,http://t.cn/zlzVr2D 街头霸王动画版电影.  ,无,无,2012-09-18 22:46,微博 weibo.com,0,0,0
+yCubuAOty,"哪位#emacs#高手指点我一下?#tramp#中用ftp,如果ftp账号名带@字符怎么办?  ",无,无,2012-09-18 21:39,微博 weibo.com,0,2,0
+yCu1xjUuq,"今天一个老头让我上机从头用#javascript#写个下拉菜单,我以为只是半小时的活,TMD发觉把internet给封了.  ",无,无,2012-09-18 21:14,微博 weibo.com,0,0,2
+yCchubkUV,"还是C#方向混混算了,静态语言大项目用的多,ruby性能还是问题,语言太灵活,都是小公司用的多.  ",无,无,2012-09-17 00:04,微博 weibo.com,0,1,0
+yCb9m2ATM,"#drupal#让我很失望,第三方模块需要手动安装,自己解决依赖.悲剧的是装完后这些模块都崩溃了,不能工作,目前试了twitter和yammer模块.  ",无,无,2012-09-16 21:12,微博 weibo.com,0,0,2
+yCb8q5Vfl,"java快还是go快?http://t.cn/zlhmBEU结论,基本上纯计算go快,大量分配内存的操作本身java快,go内存占用很少.考虑到go只有5年历史,go很有前途  ",无,无,2012-09-16 21:09,微博 weibo.com,0,0,0
+yC0g71oQU,"我曾告诉一个QA Lead多平台测试web应用一台机器装多个虚拟机就可以了,用ec2更方便,结果被她以一通general的道理拒绝(蠢人特征就是大道理一套一套,具体问题解决不了,就是心虚掩饰的伎俩罢了),如用ec2的spot instance,争论的就是100多块人民币的事情.QA们搬机器重装系统一天的工资也是这个的几十倍吧  ",无,无,2012-09-15 17:28,微博 weibo.com,0,1,1
+yC05ZEBhq,"2.2~3美元每月,这就是一个架设在#amazon# #ec2#上的99.95%可靠的Linux服务器的价格,只要选择Spot Instances(而不是默认的On-Demand Instances),参见http://t.cn/zlhPq3X 这是打折机票的价格,Amazon真是伟大的公司,便宜啊.  ",无,无,2012-09-15 17:03,微博 weibo.com,0,0,0
+yBYrBkBOc,#十一怎么过#  ,无,无,2012-09-15 12:51,微博手机版,0,0,0
+yAFC8fmhe,"#golang#的语法特点,http://t.cn/zWeRfa1更好的C,支持并行.所有的语法特性都是我喜欢的.  ",无,无,2012-09-06 23:04,微博 weibo.com,0,0,1
+yAFfkjaNi,"http://t.cn/zWeH0OI hash table是万恶之源.ruby做后端性能可能有问题,由语言设计哲学决定,没法改了.  ",无,无,2012-09-06 22:08,微博 weibo.com,0,0,0
+yAE9Dqv17,我正在用@大众点评客户端 ，看看网友的点评和推荐，吃饭或逛街时还挺管用的，你也试试哈：http://t.cn/zWc9Wrk  原图 ,http://ww1.sinaimg.cn/large/923eaf3ejw1dwn0ro6c8xj.jpg,无,2012-09-06 19:21,大众点评网,0,0,0
+yADs68tKf,我在小南国日式烧烤(古北店)(签到1次) : 现在没有人排队  http://t.cn/hBlrZt  显示地图 ,无,http://t.cn/hBlrZt,2012-09-06 17:34,大众点评网,0,1,0
+yAt5PiZvi,"成功用visual studio express 2008编译基于#wxwidgets#的项目,2008方便很多,sdk也不用装  ",无,无,2012-09-05 15:12,微博 weibo.com,0,0,0
+yArmeA134,#github#每日报告邮件订阅.http://t.cn/zWgi46k  ,无,无,2012-09-05 10:47,微博 weibo.com,0,0,0
+yAcF19KfR,两年后重新回到cmake怀抱，安装cmake2.8.9中  ,无,无,2012-09-03 21:22,微博 weibo.com,0,0,0
+yA3C7yVXN,#arclinux#'s kernel now upgraded to 3.5.3-1  ,无,无,2012-09-02 22:20,微博 weibo.com,0,0,0
+yzQLxkXTA,我在望湘园(96广场店)(签到1次)  http://t.cn/7Ief6  显示地图 ,无,http://t.cn/7Ief6,2012-09-01 13:37,大众点评网,0,0,0
+yz9i8p6IE,"#archlinux#的#netcfg#不再用#rc.conf#了,折腾啊  ",无,无,2012-08-27 22:57,微博 weibo.com,0,0,0
+yz85tebcP,"现在再折腾#vnc#远程桌面musca,再#archlinux#上,原因是我对OSX可悲的快捷键操作忍无可忍了,还不如#windows#!  ",无,无,2012-08-27 19:53,微博 weibo.com,0,0,0
+yz779byV5,"如何替换#苹果#开发的烂软件(比如iMovie占用了1.1G),步骤参考http://t.cn/zWuZiMI替代品见http://t.cn/zWuZiMM  ",无,无,2012-08-27 17:24,微博 weibo.com,0,1,0
+yz6wGmrhm,"7月12日之前的#goagent#稳定版很好,之后的1.8.11稳定版及2.0.1都有问题,使得#org2blog#废掉了.  ",无,无,2012-08-27 15:54,微博 weibo.com,0,0,0
+yyZgZw3Hr,"Ruby Cookbook确实写得很精彩,目前比较有感觉是修改基本类(String,Array)的behaviour很容易,还有就是meta programming,reflection(我是谁的问题?)#松本行弘#的理想之一就是重现#emacs#(系统可以随时改),让面向对象和设计模式对于ruby根本无所谓,lisp的影响倒是随处可见.  ",无,无,2012-08-26 21:26,微博 weibo.com,0,2,2
+yyOXhoOck,"我在小南国(金山店)(签到1次) : 现在没有人排队, 等待  http://t.cn/h5czjY  显示地图 ",无,http://t.cn/h5czjY,2012-08-25 19:10,大众点评网,0,2,2
+yyBSauEUn,"#ruby# cook book, 10.5,10.6开始有点意思了,改别人的类但是不碰原始代码,类被修改时得到通知  ",无,无,2012-08-24 09:52,微博 weibo.com,0,0,0
+yywz4bpg0,"#goagent#的2.0.1版路径处理有问题,导致https网站都不能访问,我已提交给原作者补丁.  ",无,无,2012-08-23 20:21,微博 weibo.com,0,0,0
+yynZxpKKo,"#goagent#升级到2.0.1,现在#homebrew#再也没有md5sum mismatch的error  ",无,无,2012-08-22 22:32,微博 weibo.com,0,0,0
+yyjTB1mq8,"#elisp#快速教程,http://t.cn/zWRXoZc Yegge#选择的语法要点有深度又有趣,后面#Xah Lee#的点评则是从实用角度出发,也是经验之谈.两个牛人是谁就不需我多费口舌了.  ",无,无,2012-08-22 12:06,微博 weibo.com,0,0,0
+yyfrHfSJt,"#emacs#牛的地方在于设计emacs这个平台的人,为emacs写插件的人牛的不得了.平庸之辈是不会碰lisp的.例如,我要#javascript#语法#实时检查#,通过elpa(emacs的AppStore)安装js3-mode就行了.微软的VisualStudio团队里找个能开发出js3-mode的人吗?javascript只是一例,可以换成任一种编程语言,#emacs#都支持.  ",无,无,2012-08-22 00:46,微博 weibo.com,0,0,0
+yybHczxBM,"Emacs中的自动完成(Auto Completion)完全指南,http://t.cn/zW8dRuD我不是来赞美Emacs的强大的,我是来吐槽的.Emacs中的自动完成框架实在是太多了,很多框架的功能是重叠的,让人实在困扰.  ",无,无,2012-08-21 15:14,微博 weibo.com,0,0,0
+yy1MMl6eL,"golang.org也被封了,sigh  ",无,无,2012-08-20 14:00,微博 weibo.com,0,0,0
+yy1MeCaja,C-x C-z to suspend emacs. C-z已被其他模式占用  ,无,无,2012-08-20 13:59,微博 weibo.com,0,0,0
+yxB8OmHLR,"在ruby中,我打算只用{},不用do end,原因是#emacs#的autopair-mode,让所谓的""可读性""见鬼去吧.原来敲6个字符,现在只要敲一个字符,600%的生产率提升.  ",无,无,2012-08-17 18:10,微博 weibo.com,0,0,0
+yxAW7sqOK,"ruby cookbook相当不错,通过一些比较有深度的例子来讲解语法,适合对各种语言比较熟悉的人.我之前以读过一些著名的ruby书籍  ",无,无,2012-08-17 17:39,微博 weibo.com,0,0,0
+﻿yxy0kdgxr,"#go#是rob pike设计的,他也是C和Unix的牛人,原来在贝尔实验室干.对我而言这就够了.  ",无,无,2012-08-17 10:11,微博 weibo.com,0,0,0
+yxqaEFlvo,"#giit# revert commit-id,好东西.  ",无,无,2012-08-16 14:14,微博 weibo.com,0,0,0
+ywYCw3t67,"我读遍了文档并请教了emacs高手如steve purcell和Xah Lee,也自己使用工具测量. 以下是优化emacs启动速度有效和无效的办法: 1. 有效,使用autoload 2. 有效,使用emacsclient 3. 无效,手动编译elisp  ",无,无,2012-08-13 16:06,微博 weibo.com,0,0,0
+ywvKo3Krm,"终于可以在cygwin下用emacsclient了,关键只在于一句(cond (window-system (mwheel-install))),我的错.  ",无,无,2012-08-10 14:36,微博 weibo.com,0,0,0
+ywmBBf50h,"#emacs#的inf-ruby-mode不错,比ruby自带的irb好很多了.  ",无,无,2012-08-09 15:19,微博 weibo.com,0,0,0
+ywgrqiZyD,"os x下的preview缺少快捷键,让我忍无可忍,换了mupdf  ",无,无,2012-08-08 23:38,微博 weibo.com,0,0,0
+yvUnq4fHk,"<一年成为Emacs高手>更新了,见http://t.cn/zW0grvB答疑更新了vi高手转Emacs和配置Windows版本Emacs(非cygwin)的问题.  ",无,无,2012-08-06 15:28,微博 weibo.com,0,0,1
+yvTIPCX7v,"#pmset#,命令行电源管理工具,在OSX中,见http://t.cn/zW0BE6m和hhttp://t.cn/zW0BE6u  ",无,无,2012-08-06 13:48,微博 weibo.com,0,0,0
+yvOqzkxV9,"看了Robert.J.Chassell的gnu #emacs# lisp编程入门,写的一般,前面的章节太枯燥,例子太复杂,关于调试的一章蜻蜓点水.另外讨论的emacs版本太老,emacs19  ",无,无,2012-08-06 00:19,微博 weibo.com,0,0,0
+yvEMe5eSg,"#archlinux#强制升级glibc,结果系统变砖头了.  ",无,无,2012-08-04 23:45,微博 weibo.com,0,0,0
+yv7EFm5H8,"#cygwin#的包管理, cd /usr/local/bin && wget -c http://t.cn/zWNwT3x && chmod a+rx apt-cyg  ",无,无,2012-08-01 11:26,微博 weibo.com,0,0,0
+yuTnW06uj,"geek程度, google plus > #twitter# > #weibo#, g+和twitter的不同是多与少的关系,weibo就是有没有了.这是我比较小众技术关键搜索结果字后的印象.  ",无,无,2012-07-30 23:06,微博 weibo.com,0,0,0
+yuTeooKwm,"今天听QA团队介绍#jenkins#(每日集成工具),我在台下用手机调查了背景,1.sun的一大牛业余时间搞的,历史悠久且稳定2.插件丰富,支持#git#,支持#blame#3.命令行不错. 至于web界面,email notify,报表之类指标我根本不care.  ",无,无,2012-07-30 22:42,微博 weibo.com,0,1,1
+yuqHRiolw,"15最佳#vim# plugin,http://t.cn/zWKlNaQ  ",无,无,2012-07-27 22:05,微博 weibo.com,0,0,0
+yuqrfvgwm,"#evil-surround# in #emacs#, press `cst<span>` to change hello to hello  ",无,无,2012-07-27 21:24,微博 weibo.com,0,0,0
+yu7Nbc88U,"#nxml-mode#带实时xhtml语法检查,默认在#emacs#版本23已有,M-x nxml-mode就可以了,我的配置参考http://t.cn/zWoU1Am  ",无,无,2012-07-25 21:56,微博 weibo.com,0,0,0
+ytPyAg2m6,#git-extras#不错  ,无,无,2012-07-23 23:31,微博 weibo.com,0,0,0
+ytOTCdhKb,"#git#是少数从不让我恶心的软件,其一个优点是界面友好,可以举一反三猜.例如.git/config中有[remote ""origin""]云云,我猜可以将其内容拷贝到$HOME/.gitconfig中把抬头改为[remote ""my-remote-repo""],果然如此.  ",无,无,2012-07-23 21:50,微博 weibo.com,0,0,0
+ytkSNa7HY,"在bash中为git设置快捷键,http://t.cn/zW6N2N3  ",无,无,2012-07-20 17:25,微博 weibo.com,0,1,0
+ytkMwAdu1,完美Emacs子窗口操作 http://t.cn/zW6C630  ,无,无,2012-07-20 17:10,微博 weibo.com,0,0,0
+yrOwT9JJa,"#org-mode#转pdf完美(用#texlive#).转rtf的话用#latex2rtf#,但其自动识别表格宽度有点不准(目前无完美解决方案,原因在于rtf限制,latex2rtf原作者说的).但是可以org可以转为#odt#,再用#libreoffice#另存为word文档,结果完美.  ",无,无,2012-07-10 17:13,微博 weibo.com,0,0,0
+yrtMmBlqs,"正在mac osx上安装#tex live#,需要半小时,#mactex#根本就找不到下载链接(以按照tug.org上的文档点了一堆链接了)  ",无,无,2012-07-08 12:24,微博 weibo.com,0,0,0
+yrtKG1sVX,"#ido-imenu# is cool. It's like visual assist in visual studio. you can install idomenu through elpa, the default hotkey is C-c i  ",无,无,2012-07-08 12:20,微博 weibo.com,0,0,0
+yqM60uRpU,"#goagent# 的ip被#wordpress#限制服务,还是要#无-界#  ",无,无,2012-07-03 21:11,微博 weibo.com,0,0,1
+yqGMFpjUq,#git#  ,无,无,2012-07-03 07:40,微博手机版,0,0,0
+yqCgP1xhw,"http://t.cn/zWb1rTP convert #org# to #latex# in #emacs#, btw, Puneeth is the hacker who maintains #org2blog#  ",无,无,2012-07-02 20:10,微博 weibo.com,0,0,0
+yqkJph7rT,"#symbol# vs #string# in #ruby#, http://t.cn/zW4TgPL C程序员的理解,const char* symbol=""abcde"", char str[]=""abcde"",不知道对不对  ",无,无,2012-06-30 23:31,微博 weibo.com,0,0,0
+yqgCxwEEt,"#emacs#的#window-numbering-mode#不错,用M-0...9跳转窗口,window number显示在#mode-line#最前面.  ",无,无,2012-06-30 13:03,微博 weibo.com,0,0,0
+yp7jvbGyN,"M-x describe-variable major-mode, 查看当前的major-mode,在调试#emacs#中的#yasnippet#的时候用的到  ",无,无,2012-06-22 23:32,微博 weibo.com,0,1,2
+yp4rCvUEi,在双都采杨梅  ,无,无,2012-06-22 16:13,微博手机版,0,0,0
+yoXzp0Jvk,"os x 10.7.3下#clang#, auto-complete-20120327, auto-complete-clang-20120612,#emacs# 24.1现在完美支持#c++#代码#intellisense#,#emacs#插件都是通过#elpa#安装  ",无,无,2012-06-21 22:43,微博 weibo.com,0,0,0
+yoXxVE5jB,"#emacs#下#c++#的#intellisense, 上图http://t.cn/zWwnDNi 配置见http://t.cn/zWwnDNJ就是两行代码.  ",无,无,2012-06-21 22:40,微博 weibo.com,0,0,0
+yoTQf2aj1,"#yasnippet# 0.7.0 + #auto-complete# in #emacs# , http://t.cn/zWwSU7K , #emacs#中的代码自动完成加代码模板, 最优配置.  ",无,无,2012-06-21 13:14,微博 weibo.com,0,0,0
+yoNZB2jGR,"像我这样愿意把#yasnippet#的文档读一遍,把主要的snippet挨个运行,然后给yasnippet的原作者写信的人真的是极少数.  ",无,无,2012-06-20 22:20,微博 weibo.com,0,1,0
+yoABW4ltU,我在和记小菜(东方店)(签到1次)  http://t.cn/hGXDFC  显示地图 ,无,http://t.cn/hGXDFC,2012-06-19 12:16,大众点评网,0,0,0
+ynyucqI3l,#多久回家一次#  ,无,无,2012-06-12 17:01,微博手机版,0,0,0
+ynwoWpJHm,"#emacs#的#zencoding-mode#很强大,以至于yasnippet的html-mode扩展完全无用了.  ",无,无,2012-06-12 11:43,微博 weibo.com,0,0,0
+ynppkwwAc,"#emacs 下的 #yasnippet 的界面还真不好理解, 如果同一个key有多个可选项的话.实际上就是不停地按tab  ",无,无,2012-06-11 17:55,微博 weibo.com,0,0,0
+ynmQiytds,"在google+上了为什么问了 #emacs 的 #magit 优于 #git 命令行?有牛人告诉我是'git add -p'大大改进了.实际上搜一下 #magit 教程,很多人都已经强调这一点.例如http://t.cn/zOFuvg1和http://t.cn/zWvqP4v  ",无,无,2012-06-11 11:23,微博 weibo.com,0,0,0
+ymX0HmmdH,"magit-status, then http://t.cn/zOFu3Xk any #git guru who thinks magit is better than CLI git, please enlighten me!  ",无,无,2012-06-08 17:37,微博手机版,0,0,0
+ymWQXmJGm,http://t.cn/zOFuvg1  ,无,无,2012-06-08 17:13,微博手机版,0,0,0
+ymWQu6QKs,"learning magit, first command: magit-status  ",无,无,2012-06-08 17:12,微博手机版,0,0,0
+ymwEQvXti,"Linux桌面之道(更新版),http://t.cn/zOkbYXH 简述:为什么我升级了(gnome/kde/某软件)后xx废掉了之类?别用gnome/kde/某软件(选择软件有标准),实在要修修补补,用strace(你得知道哪里要修补是吧?)  ",无,无,2012-06-05 22:32,微博 weibo.com,0,0,0
+ymt076Gta,"""九-长-老""为什么是敏感词?  ",无,无,2012-06-05 13:13,微博 weibo.com,0,0,0
+ymn11ccJb,emacs的强悍之处在于它是一个lisp平台，可在上做任何事。例如，我用过很多博客客户端，没有一个有emacs的org2blog方便快捷的（更新博客，敲击键盘两三次而已）。  ,无,无,2012-06-04 21:59,微博 weibo.com,0,0,0
+ymleiB3Qh,"http://t.cn/zOD9zua不错,我原来用C#实现是在是太土了.  ",无,无,2012-06-04 17:26,微博 weibo.com,0,0,0
+ylIvRo1LA,开发一个带twitter风格UI的web应用，部署到heroku上，全部过程10分钟。可扩展性也解决了。  ,无,无,2012-05-31 14:52,微博手机版,0,0,0
+ylIupywMl,"穷人的heroku, 一个web应用（dyno）加一个postgresql(上限3M大小）shared数据库。多个免费应用没有问题。  ",无,无,2012-05-31 14:49,微博手机版,0,0,0
+ylImedl6D,在mac os x 10.7.3上将rails项目部署到heroku，http://t.cn/zOgS2et  ,无,无,2012-05-31 14:29,微博手机版,0,0,0
+ylxt2pP0s,"搜Improving performance on 推特.com,自己看吧  ",无,无,2012-05-30 10:45,微博 weibo.com,0,0,0
+ylxrPDvYp,"推特改用服务器渲染页面而不是客户端javascript渲染,页面载入速度提升5倍,够讽刺的.网址是敏感字,发不了.  ",无,无,2012-05-30 10:42,微博 weibo.com,1,0,0
+ylsTNDigZ,python/c++ wxwidgets搞定快速桌面开发，rails+bootstrap搞定web  ,无,无,2012-05-29 23:07,微博 weibo.com,0,0,0
+ylsQMA1oB,教训，不要在天生的loser上浪费时间。  ,无,无,2012-05-29 23:00,微博手机版,0,0,0
+ylsPZxjMd,最慢的项目，最差的代码质量，最高的人员流动率，最多的会议和邮件，原因是沟通不够，没有比这更烂的借口了。  ,无,无,2012-05-29 22:58,微博手机版,0,0,0
+ylsMFhhXh,快要搞定heroku了，heroku本身很简单，osx 10.7.x/postgresql/rails3.1有点catch，不过没有什么不是stackoverflow大神解决不了的。  ,无,无,2012-05-29 22:50,微博手机版,0,0,0
+ylqLG0KzR,"一年成为emacs高手,http://t.cn/zOPVYPA  ",无,无,2012-05-29 17:42,微博手机版,0,2,0
+ylj13oBKI,"在中国搞云计算，必须懂翻墙和代理,目前我靠goagent和ec2的ssh tunnel撑着  ",无,无,2012-05-28 21:58,微博手机版,0,0,0
+yl5DRoOLA,我在PANKOO釜山料理(大宁店)(签到1次)：手机点评下了大宁的券 不能用  http://t.cn/hb9lZ3  显示地图 ,无,http://t.cn/hb9lZ3,2012-05-27 11:55,大众点评网,0,0,0
+ykuEaAesu,"看教程不如看official guide.所有技术细节一无遗漏,似慢实快.  ",无,无,2012-05-23 13:44,微博手机版,0,0,0
+ykmy0mcYc,"#archlinux64上用rvm安装ruby1.9.3和#rails后,rails g scaffold报错Could not find a JavaScript runtime,pacman -S v8无用,pacman -S nodejs解决.  ",无,无,2012-05-22 17:07,微博手机版,0,0,0
+yjWbcrR2A,看了bootstrap和rails相关的几段资料，基本明白怎么做了。详情见http://t.cn/zOuckqe，另外bootstrap支持智能手机  ,无,无,2012-05-19 21:59,微博 weibo.com,0,0,0
+yjUlB6uC7,osx的teminal.app上下翻屏太麻烦。所以直接上tmux了。screen是自带的版本太老。  ,无,无,2012-05-19 17:20,微博 weibo.com,0,0,0
+yjTVJthgL,http://t.cn/a9B2Cf done  ,无,无,2012-05-19 16:16,微博 weibo.com,0,0,0
+yjDoLx7fJ,今天听了git的技术演讲，内容不错。不过沟通的方式还有可改善的地方，技术细节过多，git的使用案例和具体的好处没有充分突出。演讲人善于学习，前程远大，将来在一个更友善更正常的团队内定能进步更大。  ,无,无,2012-05-17 22:11,微博 weibo.com,0,0,0
+yjAIk5aqf,"""不 要 把 圣 物 给 狗 ， 也 不 要 把 你 们 的 珍 珠 丢 在 猪 前 ， 恐 怕 他 践 踏 了 珍 珠 ， 转 过 来 咬 你 们 。 你 们 祈 求 ， 就 给 你 们 ； 寻 找 ， 就 寻 见 ； 叩 门 ， 就 给 你 们 开 门 。"" - <马太福音>  ",无,无,2012-05-17 15:21,微博 weibo.com,0,0,0
+yipybj0d9,"emacs绝招,C-x C-q切换buffer只读属性。由于emacs一切可编程，这招就有杀伤力，比如打开20个IRC，其中19个自动设为只读，见http://t.cn/zO8jboF  ",无,无,2012-05-09 21:05,微博 weibo.com,0,0,0
+yhLSlmJkd,需要一个todo软件，支持多平台，可以随时同步至服务器，并且不需要设置，免费。看了lifehacker上的文章，试用了todo.txt和mobileorg，太麻烦，最后灵光一现，直接翻看evernote的功能列表，已经自带todo功能  ,无,无,2012-05-05 16:05,微博 weibo.com,0,0,0
+ygn0dn8CP,tsocks和ssh -NfD出场搞定emacs下载.  ,无,无,2012-04-26 10:55,微博 weibo.com,0,0,0
+yghtglTGQ,brew install ctags;sudo rm /usr/bin/ctags;因为osx自带的ctags是垃圾  ,无,无,2012-04-25 20:50,微博手机版,0,0,0
+ygg48aj1k,"实际上只要下载Command Line Tools for Xcode就可以了,才100多M,参考homebrew官方手册.也许我会写个Linux黑客上手mac air指南.  ",无,无,2012-04-25 17:16,微博 weibo.com,0,0,0
+ygdlf7YC8,第四次从app store安装xcode了.断点续传难道不适用于xcode?  ,无,无,2012-04-25 10:20,微博 weibo.com,0,0,0
+yg8ahcIV9,花了一天时间下载xcode到90%的进度后，一切归零重新开始下载，mac app store让我很失望  ,无,无,2012-04-24 21:09,微博 weibo.com,0,0,0
+yfYLSndBd,苹果用户友好在哪？新买的mac air，要装个小软件，必须升级操作系统？！然后依次安装xcode，git，homebrew，homebrew 软件名。在我的archlinux下只要pacman -S 软件名即可。Linux体贴多了！ ;)  ,无,无,2012-04-23 21:14,微博 weibo.com,0,1,2
+yfVR87cfV,#阅读日你读啥书#  ,无,无,2012-04-23 13:49,微博手机版,0,0,0
+yfPh2B70w,我在宝莱纳餐厅(新天地店)(签到1次)：吵死了，音乐是噪音  http://t.cn/hGu4fw  显示地图 ,无,http://t.cn/hGu4fw,2012-04-22 21:03,大众点评网,0,0,0
+ydQDVb1QM,"在“站务论坛”部落发表了新帖【建议android版增加发送当前团购web链接到...】:因我要把团购链接发给我太太,她觉得满意才下单,她都是用普通电脑上网,没有智能手机 http://t.cn/zOC2I6X  ",无,无,2012-04-09 20:52,大众点评网,0,0,0
+ydE70pFsn,我在印象徽州(签到1次)：红烧肉经典  http://t.cn/hbkw89  显示地图 ,无,http://t.cn/hbkw89,2012-04-08 12:58,大众点评网,0,0,1
+ydkP3oIYr,我在渔福日本料理(东方店)(签到1次)：人太少  http://t.cn/hqJn6x  显示地图 ,无,http://t.cn/hqJn6x,2012-04-06 11:51,大众点评网,0,0,0
+ybGl20mxf,我在食其家(控江路店)(签到1次)：辣肉面还可以  http://t.cn/hqAfzQ  显示地图 原图 ,http://ww4.sinaimg.cn/large/923eaf3ejw1drd7iduj52j.jpg,http://t.cn/hqAfzQ,2012-03-26 14:57,大众点评网,0,0,0
+yaWHDjk0D,吃货们注意啦！快来领取免费美味大餐：初花、海底捞、金钱豹、四海一家....你没看错，现在下载大众点评Android客户端，就有机会获得免费大餐！（@大众点评客户端）心动不如行动，猛戳这里下载http://t.cn/zOcKjG1  原图 ,http://ww3.sinaimg.cn/large/923eaf3ejw1dr7m1gp26lj.jpg,无,2012-03-21 18:47,大众点评网,0,0,1
+yaTK498mf,吃货们注意啦！快来领取免费美味大餐：初花、海底捞、金钱豹、四海一家....你没看错，现在下载大众点评Android客户端，就有机会获得免费大餐！（@大众点评客户端）心动不如行动，猛戳这里下载http://t.cn/zOcKjG1  原图 ,http://ww2.sinaimg.cn/large/923eaf3ejw1dr78yw9x9qj.jpg,无,2012-03-21 11:14,大众点评网,0,0,0
+ya9Hpjrqr,"我刚在@微盘 发现了一个很不错的文件""朗诗月刊2012年1、2月刊（总第46期）.pdf""，推荐你也来看看！ http://t.cn/zOticwX  ",无,无,2012-03-16 14:01,微盘,0,0,0
+ya9HmC1fT,"我刚在@微盘 发现了一个很不错的文件""Survive.in.Emacs.pdf""，推荐你也来看看！ http://t.cn/zOMOkvK  ",无,无,2012-03-16 14:01,微盘,0,0,0
+y8F70vaEd,我在这里:#浦电路地铁站(四号线)# http://t.cn/z0kBiOj  显示地图 ,无,http://t.cn/z0kBiOj,2012-03-06 18:19,Android客户端,0,0,0
+xwXpHmROi,读完don't make me think.  ,无,无,2011-11-11 14:17,微博 weibo.com,0,0,0
+xu56Cskok,大餐到手，哈哈。http://t.cn/SPckrl，每5年我的邪恶程度要上一台阶。  ,无,无,2011-10-23 16:22,微博 weibo.com,0,0,0
+xsJjPAYMv,"家里电脑升级到visual studio 2010 express,windows 7 sdk  ",无,无,2011-10-14 19:03,微博 weibo.com,0,0,0
+xsrS7wCVg,nmake -f makefile.vc BUILD=release UNICODE=1 USE_EXCEPTIONS=0 USE_RTTI=0 SHARED=0  ,无,无,2011-10-12 22:38,微博 weibo.com,0,0,0
+xrYzmD7wy,wordpress似乎悲愤了，杯具  ,无,无,2011-10-09 20:03,微博 weibo.com,0,0,0
+xrO2O8ZK7,"<getting real>中文版,http://t.cn/amo08h中文翻译太糟糕了.  ",无,无,2011-10-08 17:15,微博 weibo.com,0,0,0
+xrO2bs2Of,"读完了<getting real>, http://t.cn/h4qxpM,后面有点广告的意思了,总体不错,值得再读.  ",无,无,2011-10-08 17:13,微博 weibo.com,0,0,0
+xrNP3lhHx,"有点像广告了,http://t.cn/ak1l63  ",无,无,2011-10-08 16:41,微博 weibo.com,0,0,0
+xrNEyERXT,"http://t.cn/ak1cte Defensive Design for the Web, 要读  ",无,无,2011-10-08 16:15,微博 weibo.com,0,0,0
+xrNDv55cg,http://t.cn/ak15Ut blank slate非常有意思.  ,无,无,2011-10-08 16:13,微博 weibo.com,0,0,0
+xrMWWlw3O,"正在读<getting real>, http://t.cn/h4qxpM  ",无,无,2011-10-08 14:28,微博 weibo.com,0,0,0
+xrMpuhNdR,测试一下微博  ,无,无,2011-10-08 13:05,微博 weibo.com,0,0,0
